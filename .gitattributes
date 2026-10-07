@@ -1,0 +1,3 @@
+* text=auto eol=lf
+analysis/** -text
+data/*json -text

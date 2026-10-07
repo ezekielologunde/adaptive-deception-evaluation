@@ -1,0 +1,89 @@
+{
+  "status": "source audit only; third-party implementations not executed",
+  "sources": {
+    "cyberwheel": {
+      "url": "https://github.com/ORNL/cyberwheel.git",
+      "commit": "6e535b50eea991ed48bb9eeb46b4b267090cc897",
+      "license": "MIT",
+      "files": {
+        "README.md": {
+          "sha256": "b7b370f1967a297c411dcc252f88f9a2f9c214722dcdb7e889b3bca02f474ab4",
+          "bytes": 19581,
+          "url": "https://raw.githubusercontent.com/ORNL/cyberwheel/6e535b50eea991ed48bb9eeb46b4b267090cc897/README.md"
+        },
+        "LICENSE": {
+          "sha256": "795b545a02a1c9437658c16da9f551b88748c60c8a9c0364b916dd30cce0bd73",
+          "bytes": 1069,
+          "url": "https://raw.githubusercontent.com/ORNL/cyberwheel/6e535b50eea991ed48bb9eeb46b4b267090cc897/LICENSE"
+        },
+        "pyproject.toml": {
+          "sha256": "4045f7890c370732f3b76a77961de096ff8f5610907c62df89628d719d7bc3c1",
+          "bytes": 1253,
+          "url": "https://raw.githubusercontent.com/ORNL/cyberwheel/6e535b50eea991ed48bb9eeb46b4b267090cc897/pyproject.toml"
+        },
+        "requirements.txt": {
+          "sha256": "ba034aa39f9ab90332bf5956f59fb4ee989649e7878bfcbeaab59194c287c470",
+          "bytes": 11166,
+          "url": "https://raw.githubusercontent.com/ORNL/cyberwheel/6e535b50eea991ed48bb9eeb46b4b267090cc897/requirements.txt"
+        },
+        "cyberwheel/cyberwheel_envs/cyberwheel_rl.py": {
+          "sha256": "9191bfb2a3908d7215c4bec19941224239a9678f26de3b7853fb44e6f50b4cd5",
+          "bytes": 8727,
+          "url": "https://raw.githubusercontent.com/ORNL/cyberwheel/6e535b50eea991ed48bb9eeb46b4b267090cc897/cyberwheel/cyberwheel_envs/cyberwheel_rl.py"
+        },
+        "cyberwheel/red_agents/art_agent.py": {
+          "sha256": "47b193de36a4a485d58a3dbb47216bce5a93c8b21005fb3aebfa887a64ee91bf",
+          "bytes": 18614,
+          "url": "https://raw.githubusercontent.com/ORNL/cyberwheel/6e535b50eea991ed48bb9eeb46b4b267090cc897/cyberwheel/red_agents/art_agent.py"
+        },
+        "cyberwheel/blue_agents/random_blue_agent.py": {
+          "sha256": "0bdf445ba48bc20dd24ea74a0c9b8d1f20269ccf6ee66754cd2b80d868f352ab",
+          "bytes": 2938,
+          "url": "https://raw.githubusercontent.com/ORNL/cyberwheel/6e535b50eea991ed48bb9eeb46b4b267090cc897/cyberwheel/blue_agents/random_blue_agent.py"
+        }
+      }
+    },
+    "activeNS": {
+      "url": "https://github.com/yashchandak/activeNS.git",
+      "commit": "46e74eb0d633ca9220f44cfb6a5bff9fef89ee0e",
+      "license": "Apache-2.0",
+      "files": {
+        "README.md": {
+          "sha256": "b3bc3b93184db61406f6eaf37350752638f94ce264314a414709843630910424",
+          "bytes": 1380,
+          "url": "https://raw.githubusercontent.com/yashchandak/activeNS/46e74eb0d633ca9220f44cfb6a5bff9fef89ee0e/README.md"
+        },
+        "LICENSE": {
+          "sha256": "c71d239df91726fc519c6eb72d318ec65820627232b2f796219e87dcf35d0ab4",
+          "bytes": 11357,
+          "url": "https://raw.githubusercontent.com/yashchandak/activeNS/46e74eb0d633ca9220f44cfb6a5bff9fef89ee0e/LICENSE"
+        },
+        "environment.yml": {
+          "sha256": "5a7df0e7bc1788658f486d118c349149c2a0d6f90b8b58adcbdf07dbd412b55e",
+          "bytes": 8639,
+          "url": "https://raw.githubusercontent.com/yashchandak/activeNS/46e74eb0d633ca9220f44cfb6a5bff9fef89ee0e/environment.yml"
+        },
+        "Src/OPE/hybrid.py": {
+          "sha256": "f715bbfb26110732a1a5bbc291b86ba069a483aaceb16269ee14eeeadbb0c193",
+          "bytes": 7476,
+          "url": "https://raw.githubusercontent.com/yashchandak/activeNS/46e74eb0d633ca9220f44cfb6a5bff9fef89ee0e/Src/OPE/hybrid.py"
+        },
+        "Src/OPE/passive.py": {
+          "sha256": "8143dfcd2328688ca25e4b0db98733928f94054f0368587d7ff615b393973d4d",
+          "bytes": 3055,
+          "url": "https://raw.githubusercontent.com/yashchandak/activeNS/46e74eb0d633ca9220f44cfb6a5bff9fef89ee0e/Src/OPE/passive.py"
+        },
+        "Src/OPE/stationary.py": {
+          "sha256": "b67e1d7f95ec84bd5481479c559e75995a5b3dd7d701bdc045219bf17a18ce91",
+          "bytes": 1231,
+          "url": "https://raw.githubusercontent.com/yashchandak/activeNS/46e74eb0d633ca9220f44cfb6a5bff9fef89ee0e/Src/OPE/stationary.py"
+        },
+        "Src/OPE/Regression.py": {
+          "sha256": "5c9b7dc48dbf04549fbe7c3c9665b6dadf9f210d2d422cd338f393a8549f0ebf",
+          "bytes": 4239,
+          "url": "https://raw.githubusercontent.com/yashchandak/activeNS/46e74eb0d633ca9220f44cfb6a5bff9fef89ee0e/Src/OPE/Regression.py"
+        }
+      }
+    }
+  }
+}
