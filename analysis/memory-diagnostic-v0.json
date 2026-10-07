@@ -1,0 +1,297 @@
+{
+  "status": "constructed diagnostic; no empirical or novelty claim",
+  "code_revision": "d105baeb9060269e548ef4983b04737bbe9c1ec7",
+  "source_sha256": "1381cbcb1b0e9069f960c878f6d0a015f1d40d2df91d00dc5e5eaf15a2559c06",
+  "protocol_sha256": "365afebbfd4c8192f4b4610976a4550c7105e628c8b7191fd14b68b34bd9cde4",
+  "independently_computed_cases": 36,
+  "rows": [
+    {
+      "horizon": 1,
+      "learning_probability": 0.0,
+      "decoy_probability": 0.1,
+      "reset_memory": false,
+      "forward": 0.54,
+      "backward": 0.54
+    },
+    {
+      "horizon": 1,
+      "learning_probability": 0.0,
+      "decoy_probability": 0.1,
+      "reset_memory": true,
+      "forward": 0.54,
+      "backward": 0.54
+    },
+    {
+      "horizon": 1,
+      "learning_probability": 0.0,
+      "decoy_probability": 0.5,
+      "reset_memory": false,
+      "forward": 0.7,
+      "backward": 0.7
+    },
+    {
+      "horizon": 1,
+      "learning_probability": 0.0,
+      "decoy_probability": 0.5,
+      "reset_memory": true,
+      "forward": 0.7,
+      "backward": 0.7
+    },
+    {
+      "horizon": 1,
+      "learning_probability": 0.0,
+      "decoy_probability": 0.9,
+      "reset_memory": false,
+      "forward": 0.8600000000000001,
+      "backward": 0.8600000000000001
+    },
+    {
+      "horizon": 1,
+      "learning_probability": 0.0,
+      "decoy_probability": 0.9,
+      "reset_memory": true,
+      "forward": 0.8600000000000001,
+      "backward": 0.8600000000000001
+    },
+    {
+      "horizon": 1,
+      "learning_probability": 0.4,
+      "decoy_probability": 0.1,
+      "reset_memory": false,
+      "forward": 0.54,
+      "backward": 0.54
+    },
+    {
+      "horizon": 1,
+      "learning_probability": 0.4,
+      "decoy_probability": 0.1,
+      "reset_memory": true,
+      "forward": 0.54,
+      "backward": 0.54
+    },
+    {
+      "horizon": 1,
+      "learning_probability": 0.4,
+      "decoy_probability": 0.5,
+      "reset_memory": false,
+      "forward": 0.7,
+      "backward": 0.7
+    },
+    {
+      "horizon": 1,
+      "learning_probability": 0.4,
+      "decoy_probability": 0.5,
+      "reset_memory": true,
+      "forward": 0.7,
+      "backward": 0.7
+    },
+    {
+      "horizon": 1,
+      "learning_probability": 0.4,
+      "decoy_probability": 0.9,
+      "reset_memory": false,
+      "forward": 0.8600000000000001,
+      "backward": 0.8600000000000001
+    },
+    {
+      "horizon": 1,
+      "learning_probability": 0.4,
+      "decoy_probability": 0.9,
+      "reset_memory": true,
+      "forward": 0.8600000000000001,
+      "backward": 0.8600000000000001
+    },
+    {
+      "horizon": 8,
+      "learning_probability": 0.0,
+      "decoy_probability": 0.1,
+      "reset_memory": false,
+      "forward": 0.54,
+      "backward": 0.54
+    },
+    {
+      "horizon": 8,
+      "learning_probability": 0.0,
+      "decoy_probability": 0.1,
+      "reset_memory": true,
+      "forward": 0.54,
+      "backward": 0.54
+    },
+    {
+      "horizon": 8,
+      "learning_probability": 0.0,
+      "decoy_probability": 0.5,
+      "reset_memory": false,
+      "forward": 0.7000000000000001,
+      "backward": 0.7000000000000001
+    },
+    {
+      "horizon": 8,
+      "learning_probability": 0.0,
+      "decoy_probability": 0.5,
+      "reset_memory": true,
+      "forward": 0.7000000000000001,
+      "backward": 0.7000000000000001
+    },
+    {
+      "horizon": 8,
+      "learning_probability": 0.0,
+      "decoy_probability": 0.9,
+      "reset_memory": false,
+      "forward": 0.8600000000000002,
+      "backward": 0.8600000000000001
+    },
+    {
+      "horizon": 8,
+      "learning_probability": 0.0,
+      "decoy_probability": 0.9,
+      "reset_memory": true,
+      "forward": 0.8600000000000002,
+      "backward": 0.8600000000000001
+    },
+    {
+      "horizon": 8,
+      "learning_probability": 0.4,
+      "decoy_probability": 0.1,
+      "reset_memory": false,
+      "forward": 0.5305148858007103,
+      "backward": 0.5305148858007103
+    },
+    {
+      "horizon": 8,
+      "learning_probability": 0.4,
+      "decoy_probability": 0.1,
+      "reset_memory": true,
+      "forward": 0.54,
+      "backward": 0.54
+    },
+    {
+      "horizon": 8,
+      "learning_probability": 0.4,
+      "decoy_probability": 0.5,
+      "reset_memory": false,
+      "forward": 0.5162684751928711,
+      "backward": 0.516268475192871
+    },
+    {
+      "horizon": 8,
+      "learning_probability": 0.4,
+      "decoy_probability": 0.5,
+      "reset_memory": true,
+      "forward": 0.7000000000000001,
+      "backward": 0.7000000000000001
+    },
+    {
+      "horizon": 8,
+      "learning_probability": 0.4,
+      "decoy_probability": 0.9,
+      "reset_memory": false,
+      "forward": 0.38663152799127115,
+      "backward": 0.38663152799127115
+    },
+    {
+      "horizon": 8,
+      "learning_probability": 0.4,
+      "decoy_probability": 0.9,
+      "reset_memory": true,
+      "forward": 0.8600000000000002,
+      "backward": 0.8600000000000003
+    },
+    {
+      "horizon": 100,
+      "learning_probability": 0.0,
+      "decoy_probability": 0.1,
+      "reset_memory": false,
+      "forward": 0.5399999999999993,
+      "backward": 0.5400000000000011
+    },
+    {
+      "horizon": 100,
+      "learning_probability": 0.0,
+      "decoy_probability": 0.1,
+      "reset_memory": true,
+      "forward": 0.5399999999999993,
+      "backward": 0.5400000000000011
+    },
+    {
+      "horizon": 100,
+      "learning_probability": 0.0,
+      "decoy_probability": 0.5,
+      "reset_memory": false,
+      "forward": 0.7000000000000013,
+      "backward": 0.7000000000000013
+    },
+    {
+      "horizon": 100,
+      "learning_probability": 0.0,
+      "decoy_probability": 0.5,
+      "reset_memory": true,
+      "forward": 0.7000000000000013,
+      "backward": 0.7000000000000013
+    },
+    {
+      "horizon": 100,
+      "learning_probability": 0.0,
+      "decoy_probability": 0.9,
+      "reset_memory": false,
+      "forward": 0.8599999999999995,
+      "backward": 0.86
+    },
+    {
+      "horizon": 100,
+      "learning_probability": 0.0,
+      "decoy_probability": 0.9,
+      "reset_memory": true,
+      "forward": 0.8599999999999995,
+      "backward": 0.86
+    },
+    {
+      "horizon": 100,
+      "learning_probability": 0.4,
+      "decoy_probability": 0.1,
+      "reset_memory": false,
+      "forward": 0.5067813925623931,
+      "backward": 0.5067813925623932
+    },
+    {
+      "horizon": 100,
+      "learning_probability": 0.4,
+      "decoy_probability": 0.1,
+      "reset_memory": true,
+      "forward": 0.5399999999999993,
+      "backward": 0.5400000000000013
+    },
+    {
+      "horizon": 100,
+      "learning_probability": 0.4,
+      "decoy_probability": 0.5,
+      "reset_memory": false,
+      "forward": 0.36024691358011246,
+      "backward": 0.3602469135801121
+    },
+    {
+      "horizon": 100,
+      "learning_probability": 0.4,
+      "decoy_probability": 0.5,
+      "reset_memory": true,
+      "forward": 0.7000000000000013,
+      "backward": 0.7000000000000013
+    },
+    {
+      "horizon": 100,
+      "learning_probability": 0.4,
+      "decoy_probability": 0.9,
+      "reset_memory": false,
+      "forward": 0.16931882154250336,
+      "backward": 0.1693188215425026
+    },
+    {
+      "horizon": 100,
+      "learning_probability": 0.4,
+      "decoy_probability": 0.9,
+      "reset_memory": true,
+      "forward": 0.8599999999999995,
+      "backward": 0.8600000000000009
+    }
+  ]
+}
