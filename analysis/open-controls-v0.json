@@ -1,0 +1,27 @@
+{
+  "status": "interface controls only; published experimental replication pending",
+  "open_constant_controls": [
+    {
+      "reward": 0.0,
+      "predictions": [
+        0.033523641526699066,
+        0.07174853980541229,
+        0.10962733626365662
+      ],
+      "max_error": 0.10962733626365662
+    },
+    {
+      "reward": 1.0,
+      "predictions": [
+        0.990341067314148,
+        1.0095471143722534,
+        1.0140167474746704
+      ],
+      "max_error": 0.01401674747467041
+    }
+  ],
+  "wis": 0.6428571428571428,
+  "wis_independent_check": true,
+  "seconds": 23.84249490001821,
+  "source_sha256": "7f4b739b28252f463b21e43db7635ecf470d0caba9739d9dc82f409e04ab3dda"
+}

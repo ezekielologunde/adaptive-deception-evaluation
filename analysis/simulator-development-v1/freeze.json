@@ -1,0 +1,29 @@
+{
+  "status": "development pilot, not confirmatory research",
+  "worlds_per_cell": 8,
+  "code_revision": "afc99eced5877f4731f434d598befbdeda3151a4",
+  "upstream_revision": "6e535b50eea991ed48bb9eeb46b4b267090cc897",
+  "policies": {
+    "logging": [
+      0.3333333333333333,
+      0.3333333333333333,
+      0.3333333333333333
+    ],
+    "dmz": [
+      0.6,
+      0.2,
+      0.2
+    ],
+    "server": [
+      0.2,
+      0.6,
+      0.2
+    ],
+    "user": [
+      0.2,
+      0.2,
+      0.6
+    ]
+  },
+  "source_sha256": "d6cfaab3a51230f96dfbc326d19066eb7581f93e29704bf70b5ec844e31ecc17"
+}

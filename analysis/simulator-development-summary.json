@@ -1,0 +1,261 @@
+{
+  "status": "development pilot; no confidence or novelty claim",
+  "files_verified": 129,
+  "qualifying_worlds": 128,
+  "encounters_verified": 1024,
+  "failures": [],
+  "rows": [
+    {
+      "persistent": false,
+      "rotate_alias": false,
+      "policy": "dmz",
+      "online_worlds": 8,
+      "online_mean": 0.65625,
+      "online_se": 0.0248881426156542,
+      "prefix_is": 0.5780698320000002,
+      "prefix_self_normalized": 0.6750565483119406,
+      "history_discarding_diagnostic": 0.6581250000000001,
+      "ess_by_encounter": [
+        6.124999999999998,
+        4.321428571428572,
+        5.12,
+        4.096000000000001,
+        4.570895522388057,
+        3.0816008316008343,
+        4.014679715302491,
+        4.2991866769945775
+      ]
+    },
+    {
+      "persistent": false,
+      "rotate_alias": false,
+      "policy": "server",
+      "online_worlds": 8,
+      "online_mean": 0.578125,
+      "online_se": 0.027725334920043285,
+      "prefix_is": 0.5050695600000003,
+      "prefix_self_normalized": 0.6488175366300366,
+      "history_discarding_diagnostic": 0.6581250000000001,
+      "ess_by_encounter": [
+        6.249999999999998,
+        3.8461538461538463,
+        5.120000000000002,
+        6.124999999999998,
+        5.119999999999997,
+        3.158878504672898,
+        4.800000000000001,
+        5.764705882352939
+      ]
+    },
+    {
+      "persistent": false,
+      "rotate_alias": false,
+      "policy": "user",
+      "online_worlds": 8,
+      "online_mean": 0.553125,
+      "online_se": 0.03485861110051781,
+      "prefix_is": 0.4849127760000002,
+      "prefix_self_normalized": 0.5415769541382923,
+      "history_discarding_diagnostic": 0.586875,
+      "ess_by_encounter": [
+        6.4,
+        4.687499999999999,
+        4.909090909090908,
+        3.1973684210526314,
+        3.875,
+        2.0380562060889935,
+        2.917814960629922,
+        2.2666309012875536
+      ]
+    },
+    {
+      "persistent": false,
+      "rotate_alias": true,
+      "policy": "dmz",
+      "online_worlds": 8,
+      "online_mean": 0.65625,
+      "online_se": 0.0248881426156542,
+      "prefix_is": 0.5780698320000002,
+      "prefix_self_normalized": 0.6750565483119406,
+      "history_discarding_diagnostic": 0.6581250000000001,
+      "ess_by_encounter": [
+        6.124999999999998,
+        4.321428571428572,
+        5.12,
+        4.096000000000001,
+        4.570895522388057,
+        3.0816008316008343,
+        4.014679715302491,
+        4.2991866769945775
+      ]
+    },
+    {
+      "persistent": false,
+      "rotate_alias": true,
+      "policy": "server",
+      "online_worlds": 8,
+      "online_mean": 0.578125,
+      "online_se": 0.027725334920043285,
+      "prefix_is": 0.5050695600000003,
+      "prefix_self_normalized": 0.6488175366300366,
+      "history_discarding_diagnostic": 0.6581250000000001,
+      "ess_by_encounter": [
+        6.249999999999998,
+        3.8461538461538463,
+        5.120000000000002,
+        6.124999999999998,
+        5.119999999999997,
+        3.158878504672898,
+        4.800000000000001,
+        5.764705882352939
+      ]
+    },
+    {
+      "persistent": false,
+      "rotate_alias": true,
+      "policy": "user",
+      "online_worlds": 8,
+      "online_mean": 0.553125,
+      "online_se": 0.03485861110051781,
+      "prefix_is": 0.4849127760000002,
+      "prefix_self_normalized": 0.5415769541382923,
+      "history_discarding_diagnostic": 0.586875,
+      "ess_by_encounter": [
+        6.4,
+        4.687499999999999,
+        4.909090909090908,
+        3.1973684210526314,
+        3.875,
+        2.0380562060889935,
+        2.917814960629922,
+        2.2666309012875536
+      ]
+    },
+    {
+      "persistent": true,
+      "rotate_alias": false,
+      "policy": "dmz",
+      "online_worlds": 8,
+      "online_mean": 0.31875,
+      "online_se": 0.0432367857600116,
+      "prefix_is": 0.3953743680000001,
+      "prefix_self_normalized": 0.4516980252119393,
+      "history_discarding_diagnostic": 0.49875,
+      "ess_by_encounter": [
+        6.124999999999998,
+        4.321428571428572,
+        5.12,
+        4.096000000000001,
+        4.570895522388057,
+        3.0816008316008343,
+        4.014679715302491,
+        4.2991866769945775
+      ]
+    },
+    {
+      "persistent": true,
+      "rotate_alias": false,
+      "policy": "server",
+      "online_worlds": 8,
+      "online_mean": 0.284375,
+      "online_se": 0.036270776065981426,
+      "prefix_is": 0.33627672000000014,
+      "prefix_self_normalized": 0.4383402014652015,
+      "history_discarding_diagnostic": 0.48000000000000004,
+      "ess_by_encounter": [
+        6.249999999999998,
+        3.8461538461538463,
+        5.120000000000002,
+        6.124999999999998,
+        5.119999999999997,
+        3.158878504672898,
+        4.800000000000001,
+        5.764705882352939
+      ]
+    },
+    {
+      "persistent": true,
+      "rotate_alias": false,
+      "policy": "user",
+      "online_worlds": 8,
+      "online_mean": 0.434375,
+      "online_se": 0.05195669127126113,
+      "prefix_is": 0.43689201600000016,
+      "prefix_self_normalized": 0.4651510583343211,
+      "history_discarding_diagnostic": 0.48375,
+      "ess_by_encounter": [
+        6.4,
+        4.687499999999999,
+        4.909090909090908,
+        3.1973684210526314,
+        3.875,
+        2.0380562060889935,
+        2.917814960629922,
+        2.2666309012875536
+      ]
+    },
+    {
+      "persistent": true,
+      "rotate_alias": true,
+      "policy": "dmz",
+      "online_worlds": 8,
+      "online_mean": 0.65625,
+      "online_se": 0.0248881426156542,
+      "prefix_is": 0.5780698320000002,
+      "prefix_self_normalized": 0.6750565483119406,
+      "history_discarding_diagnostic": 0.6581250000000001,
+      "ess_by_encounter": [
+        6.124999999999998,
+        4.321428571428572,
+        5.12,
+        4.096000000000001,
+        4.570895522388057,
+        3.0816008316008343,
+        4.014679715302491,
+        4.2991866769945775
+      ]
+    },
+    {
+      "persistent": true,
+      "rotate_alias": true,
+      "policy": "server",
+      "online_worlds": 8,
+      "online_mean": 0.578125,
+      "online_se": 0.027725334920043285,
+      "prefix_is": 0.5050695600000003,
+      "prefix_self_normalized": 0.6488175366300366,
+      "history_discarding_diagnostic": 0.6581250000000001,
+      "ess_by_encounter": [
+        6.249999999999998,
+        3.8461538461538463,
+        5.120000000000002,
+        6.124999999999998,
+        5.119999999999997,
+        3.158878504672898,
+        4.800000000000001,
+        5.764705882352939
+      ]
+    },
+    {
+      "persistent": true,
+      "rotate_alias": true,
+      "policy": "user",
+      "online_worlds": 8,
+      "online_mean": 0.553125,
+      "online_se": 0.03485861110051781,
+      "prefix_is": 0.4849127760000002,
+      "prefix_self_normalized": 0.5415769541382923,
+      "history_discarding_diagnostic": 0.586875,
+      "ess_by_encounter": [
+        6.4,
+        4.687499999999999,
+        4.909090909090908,
+        3.1973684210526314,
+        3.875,
+        2.0380562060889935,
+        2.917814960629922,
+        2.2666309012875536
+      ]
+    }
+  ]
+}
