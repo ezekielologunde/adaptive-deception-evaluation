@@ -1,0 +1,8 @@
+{
+  "status": "failed",
+  "seed": 7,
+  "steps": [],
+  "exception": "ImportError",
+  "message": "cannot import name 'Host' from partially initialized module 'cyberwheel.network.host' (most likely due to a circular import) (C:\\Users\\WT8\\Projects\\adaptive-deception-evaluation\\data\\source-cache\\cyberwheel\\cyberwheel\\network\\host.py)",
+  "elapsed_seconds": 8.895593099994585
+}

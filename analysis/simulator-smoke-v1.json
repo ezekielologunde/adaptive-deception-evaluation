@@ -1,0 +1,404 @@
+{
+  "status": "passed",
+  "seed": 7,
+  "steps": [
+    {
+      "red_action": "pingsweep",
+      "red_action_success": true,
+      "blue_action": "deploy_decoy",
+      "blue_action_success": true,
+      "decoy_attacked": false,
+      "blue_reward": 0.0,
+      "red_reward": 0.0
+    },
+    {
+      "red_action": "portscan",
+      "red_action_success": true,
+      "blue_action": "nothing",
+      "blue_action_success": true,
+      "decoy_attacked": false,
+      "blue_reward": 0.0,
+      "red_reward": 0.0
+    },
+    {
+      "red_action": "discovery",
+      "red_action_success": true,
+      "blue_action": "nothing",
+      "blue_action_success": true,
+      "decoy_attacked": false,
+      "blue_reward": 0.0,
+      "red_reward": 0.0
+    },
+    {
+      "red_action": "portscan",
+      "red_action_success": true,
+      "blue_action": "nothing",
+      "blue_action_success": true,
+      "decoy_attacked": false,
+      "blue_reward": 0.0,
+      "red_reward": 0.0
+    },
+    {
+      "red_action": "portscan",
+      "red_action_success": true,
+      "blue_action": "nothing",
+      "blue_action_success": true,
+      "decoy_attacked": false,
+      "blue_reward": 0.0,
+      "red_reward": 0.0
+    },
+    {
+      "red_action": "lateral-movement",
+      "red_action_success": true,
+      "blue_action": "nothing",
+      "blue_action_success": true,
+      "decoy_attacked": false,
+      "blue_reward": 0.0,
+      "red_reward": 0.0
+    },
+    {
+      "red_action": "discovery",
+      "red_action_success": true,
+      "blue_action": "nothing",
+      "blue_action_success": true,
+      "decoy_attacked": false,
+      "blue_reward": 0.0,
+      "red_reward": 0.0
+    },
+    {
+      "red_action": "lateral-movement",
+      "red_action_success": true,
+      "blue_action": "nothing",
+      "blue_action_success": true,
+      "decoy_attacked": false,
+      "blue_reward": 0.0,
+      "red_reward": 0.0
+    },
+    {
+      "red_action": "discovery",
+      "red_action_success": true,
+      "blue_action": "nothing",
+      "blue_action_success": true,
+      "decoy_attacked": false,
+      "blue_reward": 0.0,
+      "red_reward": 0.0
+    },
+    {
+      "red_action": "portscan",
+      "red_action_success": true,
+      "blue_action": "nothing",
+      "blue_action_success": true,
+      "decoy_attacked": false,
+      "blue_reward": 0.0,
+      "red_reward": 0.0
+    },
+    {
+      "red_action": "pingsweep",
+      "red_action_success": true,
+      "blue_action": "nothing",
+      "blue_action_success": true,
+      "decoy_attacked": false,
+      "blue_reward": 0.0,
+      "red_reward": 0.0
+    },
+    {
+      "red_action": "lateral-movement",
+      "red_action_success": true,
+      "blue_action": "nothing",
+      "blue_action_success": true,
+      "decoy_attacked": false,
+      "blue_reward": 0.0,
+      "red_reward": 0.0
+    },
+    {
+      "red_action": "discovery",
+      "red_action_success": true,
+      "blue_action": "nothing",
+      "blue_action_success": true,
+      "decoy_attacked": false,
+      "blue_reward": 0.0,
+      "red_reward": 0.0
+    },
+    {
+      "red_action": "portscan",
+      "red_action_success": true,
+      "blue_action": "nothing",
+      "blue_action_success": true,
+      "decoy_attacked": false,
+      "blue_reward": 0.0,
+      "red_reward": 0.0
+    },
+    {
+      "red_action": "portscan",
+      "red_action_success": true,
+      "blue_action": "nothing",
+      "blue_action_success": true,
+      "decoy_attacked": true,
+      "blue_reward": 100.0,
+      "red_reward": 2.0
+    },
+    {
+      "red_action": "portscan",
+      "red_action_success": true,
+      "blue_action": "nothing",
+      "blue_action_success": true,
+      "decoy_attacked": false,
+      "blue_reward": 0.0,
+      "red_reward": 0.0
+    },
+    {
+      "red_action": "portscan",
+      "red_action_success": true,
+      "blue_action": "nothing",
+      "blue_action_success": true,
+      "decoy_attacked": false,
+      "blue_reward": 0.0,
+      "red_reward": 0.0
+    },
+    {
+      "red_action": "lateral-movement",
+      "red_action_success": true,
+      "blue_action": "nothing",
+      "blue_action_success": true,
+      "decoy_attacked": false,
+      "blue_reward": 0.0,
+      "red_reward": 0.0
+    },
+    {
+      "red_action": "discovery",
+      "red_action_success": true,
+      "blue_action": "nothing",
+      "blue_action_success": true,
+      "decoy_attacked": false,
+      "blue_reward": 0.0,
+      "red_reward": 0.0
+    },
+    {
+      "red_action": "portscan",
+      "red_action_success": true,
+      "blue_action": "nothing",
+      "blue_action_success": true,
+      "decoy_attacked": false,
+      "blue_reward": 0.0,
+      "red_reward": 0.0
+    },
+    {
+      "red_action": "portscan",
+      "red_action_success": true,
+      "blue_action": "nothing",
+      "blue_action_success": true,
+      "decoy_attacked": false,
+      "blue_reward": 0.0,
+      "red_reward": 0.0
+    },
+    {
+      "red_action": "portscan",
+      "red_action_success": true,
+      "blue_action": "nothing",
+      "blue_action_success": true,
+      "decoy_attacked": false,
+      "blue_reward": 0.0,
+      "red_reward": 0.0
+    },
+    {
+      "red_action": "lateral-movement",
+      "red_action_success": true,
+      "blue_action": "nothing",
+      "blue_action_success": true,
+      "decoy_attacked": false,
+      "blue_reward": 0.0,
+      "red_reward": 0.0
+    },
+    {
+      "red_action": "discovery",
+      "red_action_success": true,
+      "blue_action": "nothing",
+      "blue_action_success": true,
+      "decoy_attacked": false,
+      "blue_reward": 0.0,
+      "red_reward": 0.0
+    },
+    {
+      "red_action": "lateral-movement",
+      "red_action_success": true,
+      "blue_action": "nothing",
+      "blue_action_success": true,
+      "decoy_attacked": false,
+      "blue_reward": 0.0,
+      "red_reward": 0.0
+    },
+    {
+      "red_action": "discovery",
+      "red_action_success": true,
+      "blue_action": "nothing",
+      "blue_action_success": true,
+      "decoy_attacked": false,
+      "blue_reward": 0.0,
+      "red_reward": 0.0
+    },
+    {
+      "red_action": "lateral-movement",
+      "red_action_success": true,
+      "blue_action": "nothing",
+      "blue_action_success": true,
+      "decoy_attacked": false,
+      "blue_reward": 0.0,
+      "red_reward": 0.0
+    },
+    {
+      "red_action": "discovery",
+      "red_action_success": true,
+      "blue_action": "nothing",
+      "blue_action_success": true,
+      "decoy_attacked": false,
+      "blue_reward": 0.0,
+      "red_reward": 0.0
+    },
+    {
+      "red_action": "lateral-movement",
+      "red_action_success": true,
+      "blue_action": "nothing",
+      "blue_action_success": true,
+      "decoy_attacked": true,
+      "blue_reward": 100.0,
+      "red_reward": 10.0
+    },
+    {
+      "red_action": "discovery",
+      "red_action_success": true,
+      "blue_action": "nothing",
+      "blue_action_success": true,
+      "decoy_attacked": true,
+      "blue_reward": 100.0,
+      "red_reward": 5.0
+    },
+    {
+      "red_action": "privilege-escalation",
+      "red_action_success": true,
+      "blue_action": "nothing",
+      "blue_action_success": true,
+      "decoy_attacked": true,
+      "blue_reward": 100.0,
+      "red_reward": 20.0
+    },
+    {
+      "red_action": "impact",
+      "red_action_success": true,
+      "blue_action": "nothing",
+      "blue_action_success": true,
+      "decoy_attacked": true,
+      "blue_reward": 100.0,
+      "red_reward": 50.0
+    },
+    {
+      "red_action": "lateral-movement",
+      "red_action_success": true,
+      "blue_action": "nothing",
+      "blue_action_success": true,
+      "decoy_attacked": true,
+      "blue_reward": 0.0,
+      "red_reward": 0.0
+    },
+    {
+      "red_action": "discovery",
+      "red_action_success": true,
+      "blue_action": "nothing",
+      "blue_action_success": true,
+      "decoy_attacked": false,
+      "blue_reward": 0.0,
+      "red_reward": 0.0
+    },
+    {
+      "red_action": "lateral-movement",
+      "red_action_success": true,
+      "blue_action": "nothing",
+      "blue_action_success": true,
+      "decoy_attacked": false,
+      "blue_reward": 0.0,
+      "red_reward": 0.0
+    },
+    {
+      "red_action": "discovery",
+      "red_action_success": true,
+      "blue_action": "nothing",
+      "blue_action_success": true,
+      "decoy_attacked": false,
+      "blue_reward": 0.0,
+      "red_reward": 0.0
+    },
+    {
+      "red_action": "pingsweep",
+      "red_action_success": true,
+      "blue_action": "nothing",
+      "blue_action_success": true,
+      "decoy_attacked": false,
+      "blue_reward": 0.0,
+      "red_reward": 1.0
+    },
+    {
+      "red_action": "portscan",
+      "red_action_success": true,
+      "blue_action": "nothing",
+      "blue_action_success": true,
+      "decoy_attacked": false,
+      "blue_reward": 0.0,
+      "red_reward": 2.0
+    },
+    {
+      "red_action": "portscan",
+      "red_action_success": true,
+      "blue_action": "nothing",
+      "blue_action_success": true,
+      "decoy_attacked": false,
+      "blue_reward": 0.0,
+      "red_reward": 2.0
+    },
+    {
+      "red_action": "lateral-movement",
+      "red_action_success": true,
+      "blue_action": "nothing",
+      "blue_action_success": true,
+      "decoy_attacked": false,
+      "blue_reward": 0.0,
+      "red_reward": 10.0
+    }
+  ],
+  "action_mask": [
+    true,
+    true,
+    true,
+    true,
+    true,
+    true,
+    true,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false
+  ],
+  "hosts": 16,
+  "decoys": 1,
+  "observed_impacts": [
+    "158da1a66a5a402b859ab5366f3d8bed"
+  ],
+  "elapsed_seconds": 10.295522999978857
+}
