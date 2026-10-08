@@ -1,0 +1,8 @@
+{
+  "revision": "70484f7da7413380ff890eedb878dd0ed454acd1",
+  "files": {
+    "src/active_evidence_screen.py": "2316a81fd765f07373e6ea76ab5fb736ed3fe53cf94b5dbc5674ab30109aa3a1",
+    "protocol/active-evidence-screen-v1.md": "5c837fb41e47390b0ba604538a8adc0e26226de1ec618c42e91e69576b54bb8a"
+  },
+  "status": "constructed exact diagnostic; not new algorithm or native simulator evidence"
+}

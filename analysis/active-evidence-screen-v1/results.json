@@ -1,0 +1,5726 @@
+[
+  {
+    "prior": 0.25,
+    "damage": 0.0,
+    "transfer": 0.0,
+    "budget": 1,
+    "methods": {
+      "stop": {
+        "terminal_value": 7.75,
+        "probe_loss": 0.0,
+        "expected_probes": 0.0,
+        "selection_regret": 1.25,
+        "state_degradation": 0.0,
+        "posterior_entropy": 0.8112781244591328,
+        "net_value": 7.75
+      },
+      "uniform": {
+        "terminal_value": 7.9375,
+        "probe_loss": 0.35,
+        "expected_probes": 1.0,
+        "selection_regret": 1.0625,
+        "state_degradation": -4.2188474935755947e-16,
+        "posterior_entropy": 0.6475568644531959,
+        "net_value": 7.5875
+      },
+      "stationary": {
+        "terminal_value": 8.125,
+        "probe_loss": 0.22499999999999998,
+        "expected_probes": 1.0,
+        "selection_regret": 0.8749999999999993,
+        "state_degradation": 0.0,
+        "posterior_entropy": 0.6365696392517473,
+        "net_value": 7.9
+      },
+      "one_step": {
+        "terminal_value": 8.125,
+        "probe_loss": 0.22499999999999998,
+        "expected_probes": 1.0,
+        "selection_regret": 0.8749999999999993,
+        "state_degradation": 0.0,
+        "posterior_entropy": 0.6365696392517473,
+        "net_value": 7.9
+      },
+      "bayes": {
+        "terminal_value": 8.125,
+        "probe_loss": 0.22499999999999998,
+        "expected_probes": 1.0,
+        "selection_regret": 0.8749999999999993,
+        "state_degradation": 0.0,
+        "posterior_entropy": 0.6365696392517473,
+        "net_value": 7.9
+      }
+    }
+  },
+  {
+    "prior": 0.25,
+    "damage": 0.0,
+    "transfer": 0.0,
+    "budget": 2,
+    "methods": {
+      "stop": {
+        "terminal_value": 7.75,
+        "probe_loss": 0.0,
+        "expected_probes": 0.0,
+        "selection_regret": 1.25,
+        "state_degradation": 0.0,
+        "posterior_entropy": 0.8112781244591328,
+        "net_value": 7.75
+      },
+      "uniform": {
+        "terminal_value": 8.21875,
+        "probe_loss": 0.7000000000000001,
+        "expected_probes": 2.0,
+        "selection_regret": 0.7812499999999997,
+        "state_degradation": -2.664535259100375e-17,
+        "posterior_entropy": 0.5209288984518754,
+        "net_value": 7.51875
+      },
+      "stationary": {
+        "terminal_value": 8.275,
+        "probe_loss": 0.285,
+        "expected_probes": 1.225,
+        "selection_regret": 0.7249999999999994,
+        "state_degradation": -1.06581410364015e-16,
+        "posterior_entropy": 0.5914961059374768,
+        "net_value": 7.99
+      },
+      "one_step": {
+        "terminal_value": 8.275,
+        "probe_loss": 0.285,
+        "expected_probes": 1.225,
+        "selection_regret": 0.7249999999999994,
+        "state_degradation": -1.06581410364015e-16,
+        "posterior_entropy": 0.5914961059374768,
+        "net_value": 7.99
+      },
+      "bayes": {
+        "terminal_value": 8.275,
+        "probe_loss": 0.285,
+        "expected_probes": 1.225,
+        "selection_regret": 0.7249999999999994,
+        "state_degradation": -1.06581410364015e-16,
+        "posterior_entropy": 0.5914961059374768,
+        "net_value": 7.99
+      }
+    }
+  },
+  {
+    "prior": 0.25,
+    "damage": 0.0,
+    "transfer": 0.0,
+    "budget": 3,
+    "methods": {
+      "stop": {
+        "terminal_value": 7.75,
+        "probe_loss": 0.0,
+        "expected_probes": 0.0,
+        "selection_regret": 1.25,
+        "state_degradation": 0.0,
+        "posterior_entropy": 0.8112781244591328,
+        "net_value": 7.75
+      },
+      "uniform": {
+        "terminal_value": 8.383281250000001,
+        "probe_loss": 1.05,
+        "expected_probes": 3.0,
+        "selection_regret": 0.6167187499999999,
+        "state_degradation": -3.004263504635674e-16,
+        "posterior_entropy": 0.42159413166910686,
+        "net_value": 7.3332812500000015
+      },
+      "stationary": {
+        "terminal_value": 8.297500000000001,
+        "probe_loss": 0.2985,
+        "expected_probes": 1.285,
+        "selection_regret": 0.7024999999999995,
+        "state_degradation": -8.260059303211163e-17,
+        "posterior_entropy": 0.5810135968250337,
+        "net_value": 7.999000000000001
+      },
+      "one_step": {
+        "terminal_value": 8.297500000000001,
+        "probe_loss": 0.2985,
+        "expected_probes": 1.285,
+        "selection_regret": 0.7024999999999995,
+        "state_degradation": -8.260059303211163e-17,
+        "posterior_entropy": 0.5810135968250337,
+        "net_value": 7.999000000000001
+      },
+      "bayes": {
+        "terminal_value": 8.297500000000001,
+        "probe_loss": 0.2985,
+        "expected_probes": 1.285,
+        "selection_regret": 0.7024999999999995,
+        "state_degradation": -8.260059303211163e-17,
+        "posterior_entropy": 0.5810135968250337,
+        "net_value": 7.999000000000001
+      }
+    }
+  },
+  {
+    "prior": 0.25,
+    "damage": 0.0,
+    "transfer": 0.5,
+    "budget": 1,
+    "methods": {
+      "stop": {
+        "terminal_value": 7.75,
+        "probe_loss": 0.0,
+        "expected_probes": 0.0,
+        "selection_regret": 1.25,
+        "state_degradation": 0.0,
+        "posterior_entropy": 0.8112781244591328,
+        "net_value": 7.75
+      },
+      "uniform": {
+        "terminal_value": 7.9375,
+        "probe_loss": 0.35,
+        "expected_probes": 1.0,
+        "selection_regret": 1.0625,
+        "state_degradation": -4.2188474935755947e-16,
+        "posterior_entropy": 0.6475568644531959,
+        "net_value": 7.5875
+      },
+      "stationary": {
+        "terminal_value": 8.125,
+        "probe_loss": 0.22499999999999998,
+        "expected_probes": 1.0,
+        "selection_regret": 0.8749999999999993,
+        "state_degradation": 0.0,
+        "posterior_entropy": 0.6365696392517473,
+        "net_value": 7.9
+      },
+      "one_step": {
+        "terminal_value": 8.125,
+        "probe_loss": 0.22499999999999998,
+        "expected_probes": 1.0,
+        "selection_regret": 0.8749999999999993,
+        "state_degradation": 0.0,
+        "posterior_entropy": 0.6365696392517473,
+        "net_value": 7.9
+      },
+      "bayes": {
+        "terminal_value": 8.125,
+        "probe_loss": 0.22499999999999998,
+        "expected_probes": 1.0,
+        "selection_regret": 0.8749999999999993,
+        "state_degradation": 0.0,
+        "posterior_entropy": 0.6365696392517473,
+        "net_value": 7.9
+      }
+    }
+  },
+  {
+    "prior": 0.25,
+    "damage": 0.0,
+    "transfer": 0.5,
+    "budget": 2,
+    "methods": {
+      "stop": {
+        "terminal_value": 7.75,
+        "probe_loss": 0.0,
+        "expected_probes": 0.0,
+        "selection_regret": 1.25,
+        "state_degradation": 0.0,
+        "posterior_entropy": 0.8112781244591328,
+        "net_value": 7.75
+      },
+      "uniform": {
+        "terminal_value": 8.21875,
+        "probe_loss": 0.7000000000000001,
+        "expected_probes": 2.0,
+        "selection_regret": 0.7812499999999997,
+        "state_degradation": -2.664535259100375e-17,
+        "posterior_entropy": 0.5209288984518754,
+        "net_value": 7.51875
+      },
+      "stationary": {
+        "terminal_value": 8.275,
+        "probe_loss": 0.285,
+        "expected_probes": 1.225,
+        "selection_regret": 0.7249999999999994,
+        "state_degradation": -1.06581410364015e-16,
+        "posterior_entropy": 0.5914961059374768,
+        "net_value": 7.99
+      },
+      "one_step": {
+        "terminal_value": 8.275,
+        "probe_loss": 0.285,
+        "expected_probes": 1.225,
+        "selection_regret": 0.7249999999999994,
+        "state_degradation": -1.06581410364015e-16,
+        "posterior_entropy": 0.5914961059374768,
+        "net_value": 7.99
+      },
+      "bayes": {
+        "terminal_value": 8.275,
+        "probe_loss": 0.285,
+        "expected_probes": 1.225,
+        "selection_regret": 0.7249999999999994,
+        "state_degradation": -1.06581410364015e-16,
+        "posterior_entropy": 0.5914961059374768,
+        "net_value": 7.99
+      }
+    }
+  },
+  {
+    "prior": 0.25,
+    "damage": 0.0,
+    "transfer": 0.5,
+    "budget": 3,
+    "methods": {
+      "stop": {
+        "terminal_value": 7.75,
+        "probe_loss": 0.0,
+        "expected_probes": 0.0,
+        "selection_regret": 1.25,
+        "state_degradation": 0.0,
+        "posterior_entropy": 0.8112781244591328,
+        "net_value": 7.75
+      },
+      "uniform": {
+        "terminal_value": 8.383281250000001,
+        "probe_loss": 1.05,
+        "expected_probes": 3.0,
+        "selection_regret": 0.6167187499999999,
+        "state_degradation": -3.004263504635674e-16,
+        "posterior_entropy": 0.42159413166910686,
+        "net_value": 7.3332812500000015
+      },
+      "stationary": {
+        "terminal_value": 8.297500000000001,
+        "probe_loss": 0.2985,
+        "expected_probes": 1.285,
+        "selection_regret": 0.7024999999999995,
+        "state_degradation": -8.260059303211163e-17,
+        "posterior_entropy": 0.5810135968250337,
+        "net_value": 7.999000000000001
+      },
+      "one_step": {
+        "terminal_value": 8.297500000000001,
+        "probe_loss": 0.2985,
+        "expected_probes": 1.285,
+        "selection_regret": 0.7024999999999995,
+        "state_degradation": -8.260059303211163e-17,
+        "posterior_entropy": 0.5810135968250337,
+        "net_value": 7.999000000000001
+      },
+      "bayes": {
+        "terminal_value": 8.297500000000001,
+        "probe_loss": 0.2985,
+        "expected_probes": 1.285,
+        "selection_regret": 0.7024999999999995,
+        "state_degradation": -8.260059303211163e-17,
+        "posterior_entropy": 0.5810135968250337,
+        "net_value": 7.999000000000001
+      }
+    }
+  },
+  {
+    "prior": 0.25,
+    "damage": 0.0,
+    "transfer": 1.0,
+    "budget": 1,
+    "methods": {
+      "stop": {
+        "terminal_value": 7.75,
+        "probe_loss": 0.0,
+        "expected_probes": 0.0,
+        "selection_regret": 1.25,
+        "state_degradation": 0.0,
+        "posterior_entropy": 0.8112781244591328,
+        "net_value": 7.75
+      },
+      "uniform": {
+        "terminal_value": 7.9375,
+        "probe_loss": 0.35,
+        "expected_probes": 1.0,
+        "selection_regret": 1.0625,
+        "state_degradation": -4.2188474935755947e-16,
+        "posterior_entropy": 0.6475568644531959,
+        "net_value": 7.5875
+      },
+      "stationary": {
+        "terminal_value": 8.125,
+        "probe_loss": 0.22499999999999998,
+        "expected_probes": 1.0,
+        "selection_regret": 0.8749999999999993,
+        "state_degradation": 0.0,
+        "posterior_entropy": 0.6365696392517473,
+        "net_value": 7.9
+      },
+      "one_step": {
+        "terminal_value": 8.125,
+        "probe_loss": 0.22499999999999998,
+        "expected_probes": 1.0,
+        "selection_regret": 0.8749999999999993,
+        "state_degradation": 0.0,
+        "posterior_entropy": 0.6365696392517473,
+        "net_value": 7.9
+      },
+      "bayes": {
+        "terminal_value": 8.125,
+        "probe_loss": 0.22499999999999998,
+        "expected_probes": 1.0,
+        "selection_regret": 0.8749999999999993,
+        "state_degradation": 0.0,
+        "posterior_entropy": 0.6365696392517473,
+        "net_value": 7.9
+      }
+    }
+  },
+  {
+    "prior": 0.25,
+    "damage": 0.0,
+    "transfer": 1.0,
+    "budget": 2,
+    "methods": {
+      "stop": {
+        "terminal_value": 7.75,
+        "probe_loss": 0.0,
+        "expected_probes": 0.0,
+        "selection_regret": 1.25,
+        "state_degradation": 0.0,
+        "posterior_entropy": 0.8112781244591328,
+        "net_value": 7.75
+      },
+      "uniform": {
+        "terminal_value": 8.21875,
+        "probe_loss": 0.7000000000000001,
+        "expected_probes": 2.0,
+        "selection_regret": 0.7812499999999997,
+        "state_degradation": -2.664535259100375e-17,
+        "posterior_entropy": 0.5209288984518754,
+        "net_value": 7.51875
+      },
+      "stationary": {
+        "terminal_value": 8.275,
+        "probe_loss": 0.285,
+        "expected_probes": 1.225,
+        "selection_regret": 0.7249999999999994,
+        "state_degradation": -1.06581410364015e-16,
+        "posterior_entropy": 0.5914961059374768,
+        "net_value": 7.99
+      },
+      "one_step": {
+        "terminal_value": 8.275,
+        "probe_loss": 0.285,
+        "expected_probes": 1.225,
+        "selection_regret": 0.7249999999999994,
+        "state_degradation": -1.06581410364015e-16,
+        "posterior_entropy": 0.5914961059374768,
+        "net_value": 7.99
+      },
+      "bayes": {
+        "terminal_value": 8.275,
+        "probe_loss": 0.285,
+        "expected_probes": 1.225,
+        "selection_regret": 0.7249999999999994,
+        "state_degradation": -1.06581410364015e-16,
+        "posterior_entropy": 0.5914961059374768,
+        "net_value": 7.99
+      }
+    }
+  },
+  {
+    "prior": 0.25,
+    "damage": 0.0,
+    "transfer": 1.0,
+    "budget": 3,
+    "methods": {
+      "stop": {
+        "terminal_value": 7.75,
+        "probe_loss": 0.0,
+        "expected_probes": 0.0,
+        "selection_regret": 1.25,
+        "state_degradation": 0.0,
+        "posterior_entropy": 0.8112781244591328,
+        "net_value": 7.75
+      },
+      "uniform": {
+        "terminal_value": 8.383281250000001,
+        "probe_loss": 1.05,
+        "expected_probes": 3.0,
+        "selection_regret": 0.6167187499999999,
+        "state_degradation": -3.004263504635674e-16,
+        "posterior_entropy": 0.42159413166910686,
+        "net_value": 7.3332812500000015
+      },
+      "stationary": {
+        "terminal_value": 8.297500000000001,
+        "probe_loss": 0.2985,
+        "expected_probes": 1.285,
+        "selection_regret": 0.7024999999999995,
+        "state_degradation": -8.260059303211163e-17,
+        "posterior_entropy": 0.5810135968250337,
+        "net_value": 7.999000000000001
+      },
+      "one_step": {
+        "terminal_value": 8.297500000000001,
+        "probe_loss": 0.2985,
+        "expected_probes": 1.285,
+        "selection_regret": 0.7024999999999995,
+        "state_degradation": -8.260059303211163e-17,
+        "posterior_entropy": 0.5810135968250337,
+        "net_value": 7.999000000000001
+      },
+      "bayes": {
+        "terminal_value": 8.297500000000001,
+        "probe_loss": 0.2985,
+        "expected_probes": 1.285,
+        "selection_regret": 0.7024999999999995,
+        "state_degradation": -8.260059303211163e-17,
+        "posterior_entropy": 0.5810135968250337,
+        "net_value": 7.999000000000001
+      }
+    }
+  },
+  {
+    "prior": 0.25,
+    "damage": 0.02,
+    "transfer": 0.0,
+    "budget": 1,
+    "methods": {
+      "stop": {
+        "terminal_value": 7.75,
+        "probe_loss": 0.0,
+        "expected_probes": 0.0,
+        "selection_regret": 1.25,
+        "state_degradation": 0.0,
+        "posterior_entropy": 0.8112781244591328,
+        "net_value": 7.75
+      },
+      "uniform": {
+        "terminal_value": 7.860000000000001,
+        "probe_loss": 0.35,
+        "expected_probes": 1.0,
+        "selection_regret": 1.0399999999999991,
+        "state_degradation": 0.10000000000000014,
+        "posterior_entropy": 0.6475568644531959,
+        "net_value": 7.510000000000002
+      },
+      "stationary": {
+        "terminal_value": 7.970000000000001,
+        "probe_loss": 0.22499999999999998,
+        "expected_probes": 1.0,
+        "selection_regret": 0.8799999999999991,
+        "state_degradation": 0.14999999999999972,
+        "posterior_entropy": 0.6365696392517473,
+        "net_value": 7.745000000000001
+      },
+      "one_step": {
+        "terminal_value": 7.75,
+        "probe_loss": 0.0,
+        "expected_probes": 0.0,
+        "selection_regret": 1.25,
+        "state_degradation": 0.0,
+        "posterior_entropy": 0.8112781244591328,
+        "net_value": 7.75
+      },
+      "bayes": {
+        "terminal_value": 7.75,
+        "probe_loss": 0.0,
+        "expected_probes": 0.0,
+        "selection_regret": 1.25,
+        "state_degradation": 0.0,
+        "posterior_entropy": 0.8112781244591328,
+        "net_value": 7.75
+      }
+    }
+  },
+  {
+    "prior": 0.25,
+    "damage": 0.02,
+    "transfer": 0.0,
+    "budget": 2,
+    "methods": {
+      "stop": {
+        "terminal_value": 7.75,
+        "probe_loss": 0.0,
+        "expected_probes": 0.0,
+        "selection_regret": 1.25,
+        "state_degradation": 0.0,
+        "posterior_entropy": 0.8112781244591328,
+        "net_value": 7.75
+      },
+      "uniform": {
+        "terminal_value": 8.002550000000001,
+        "probe_loss": 0.71,
+        "expected_probes": 2.0,
+        "selection_regret": 0.7974499999999998,
+        "state_degradation": 0.19999999999999968,
+        "posterior_entropy": 0.523287830786761,
+        "net_value": 7.292550000000001
+      },
+      "stationary": {
+        "terminal_value": 8.075000000000001,
+        "probe_loss": 0.285,
+        "expected_probes": 1.225,
+        "selection_regret": 0.7449999999999992,
+        "state_degradation": 0.1799999999999996,
+        "posterior_entropy": 0.5914961059374768,
+        "net_value": 7.790000000000001
+      },
+      "one_step": {
+        "terminal_value": 7.75,
+        "probe_loss": 0.0,
+        "expected_probes": 0.0,
+        "selection_regret": 1.25,
+        "state_degradation": 0.0,
+        "posterior_entropy": 0.8112781244591328,
+        "net_value": 7.75
+      },
+      "bayes": {
+        "terminal_value": 8.075000000000001,
+        "probe_loss": 0.285,
+        "expected_probes": 1.225,
+        "selection_regret": 0.7449999999999992,
+        "state_degradation": 0.1799999999999996,
+        "posterior_entropy": 0.5914961059374768,
+        "net_value": 7.790000000000001
+      }
+    }
+  },
+  {
+    "prior": 0.25,
+    "damage": 0.02,
+    "transfer": 0.0,
+    "budget": 3,
+    "methods": {
+      "stop": {
+        "terminal_value": 7.75,
+        "probe_loss": 0.0,
+        "expected_probes": 0.0,
+        "selection_regret": 1.25,
+        "state_degradation": 0.0,
+        "posterior_entropy": 0.8112781244591328,
+        "net_value": 7.75
+      },
+      "uniform": {
+        "terminal_value": 8.076834000000002,
+        "probe_loss": 1.08,
+        "expected_probes": 3.0,
+        "selection_regret": 0.6231660000000001,
+        "state_degradation": 0.29999999999999966,
+        "posterior_entropy": 0.42700378125740834,
+        "net_value": 6.9968340000000016
+      },
+      "stationary": {
+        "terminal_value": 8.085440000000002,
+        "probe_loss": 0.2996999999999999,
+        "expected_probes": 1.285,
+        "selection_regret": 0.7255599999999993,
+        "state_degradation": 0.18899999999999958,
+        "posterior_entropy": 0.5814925732222389,
+        "net_value": 7.785740000000002
+      },
+      "one_step": {
+        "terminal_value": 7.75,
+        "probe_loss": 0.0,
+        "expected_probes": 0.0,
+        "selection_regret": 1.25,
+        "state_degradation": 0.0,
+        "posterior_entropy": 0.8112781244591328,
+        "net_value": 7.75
+      },
+      "bayes": {
+        "terminal_value": 8.075000000000001,
+        "probe_loss": 0.285,
+        "expected_probes": 1.225,
+        "selection_regret": 0.7449999999999992,
+        "state_degradation": 0.1799999999999996,
+        "posterior_entropy": 0.5914961059374768,
+        "net_value": 7.790000000000001
+      }
+    }
+  },
+  {
+    "prior": 0.25,
+    "damage": 0.02,
+    "transfer": 0.5,
+    "budget": 1,
+    "methods": {
+      "stop": {
+        "terminal_value": 7.75,
+        "probe_loss": 0.0,
+        "expected_probes": 0.0,
+        "selection_regret": 1.25,
+        "state_degradation": 0.0,
+        "posterior_entropy": 0.8112781244591328,
+        "net_value": 7.75
+      },
+      "uniform": {
+        "terminal_value": 7.798750000000002,
+        "probe_loss": 0.35,
+        "expected_probes": 1.0,
+        "selection_regret": 1.0512499999999991,
+        "state_degradation": 0.14999999999999983,
+        "posterior_entropy": 0.6475568644531959,
+        "net_value": 7.448750000000002
+      },
+      "stationary": {
+        "terminal_value": 7.947500000000002,
+        "probe_loss": 0.22499999999999998,
+        "expected_probes": 1.0,
+        "selection_regret": 0.8774999999999986,
+        "state_degradation": 0.17500000000000018,
+        "posterior_entropy": 0.6365696392517473,
+        "net_value": 7.722500000000002
+      },
+      "one_step": {
+        "terminal_value": 7.75,
+        "probe_loss": 0.0,
+        "expected_probes": 0.0,
+        "selection_regret": 1.25,
+        "state_degradation": 0.0,
+        "posterior_entropy": 0.8112781244591328,
+        "net_value": 7.75
+      },
+      "bayes": {
+        "terminal_value": 7.75,
+        "probe_loss": 0.0,
+        "expected_probes": 0.0,
+        "selection_regret": 1.25,
+        "state_degradation": 0.0,
+        "posterior_entropy": 0.8112781244591328,
+        "net_value": 7.75
+      }
+    }
+  },
+  {
+    "prior": 0.25,
+    "damage": 0.02,
+    "transfer": 0.5,
+    "budget": 2,
+    "methods": {
+      "stop": {
+        "terminal_value": 7.75,
+        "probe_loss": 0.0,
+        "expected_probes": 0.0,
+        "selection_regret": 1.25,
+        "state_degradation": 0.0,
+        "posterior_entropy": 0.8112781244591328,
+        "net_value": 7.75
+      },
+      "uniform": {
+        "terminal_value": 7.910125000000001,
+        "probe_loss": 0.715,
+        "expected_probes": 2.0,
+        "selection_regret": 0.7898749999999994,
+        "state_degradation": 0.30000000000000016,
+        "posterior_entropy": 0.5244626149915801,
+        "net_value": 7.195125000000001
+      },
+      "stationary": {
+        "terminal_value": 8.048750000000002,
+        "probe_loss": 0.28724999999999995,
+        "expected_probes": 1.225,
+        "selection_regret": 0.7387499999999989,
+        "state_degradation": 0.21250000000000016,
+        "posterior_entropy": 0.5924714614344198,
+        "net_value": 7.761500000000002
+      },
+      "one_step": {
+        "terminal_value": 7.75,
+        "probe_loss": 0.0,
+        "expected_probes": 0.0,
+        "selection_regret": 1.25,
+        "state_degradation": 0.0,
+        "posterior_entropy": 0.8112781244591328,
+        "net_value": 7.75
+      },
+      "bayes": {
+        "terminal_value": 8.048750000000002,
+        "probe_loss": 0.28724999999999995,
+        "expected_probes": 1.225,
+        "selection_regret": 0.7387499999999989,
+        "state_degradation": 0.21250000000000016,
+        "posterior_entropy": 0.5924714614344198,
+        "net_value": 7.761500000000002
+      }
+    }
+  },
+  {
+    "prior": 0.25,
+    "damage": 0.02,
+    "transfer": 0.5,
+    "budget": 3,
+    "methods": {
+      "stop": {
+        "terminal_value": 7.75,
+        "probe_loss": 0.0,
+        "expected_probes": 0.0,
+        "selection_regret": 1.25,
+        "state_degradation": 0.0,
+        "posterior_entropy": 0.8112781244591328,
+        "net_value": 7.75
+      },
+      "uniform": {
+        "terminal_value": 7.9183310625,
+        "probe_loss": 1.0949999999999998,
+        "expected_probes": 3.0,
+        "selection_regret": 0.6316689375,
+        "state_degradation": 0.44999999999999996,
+        "posterior_entropy": 0.4295926006472468,
+        "net_value": 6.8233310625
+      },
+      "stationary": {
+        "terminal_value": 8.060171750000002,
+        "probe_loss": 0.30359249999999993,
+        "expected_probes": 1.2872499999999998,
+        "selection_regret": 0.716528249999999,
+        "state_degradation": 0.22330000000000008,
+        "posterior_entropy": 0.5819592075028183,
+        "net_value": 7.756579250000002
+      },
+      "one_step": {
+        "terminal_value": 7.75,
+        "probe_loss": 0.0,
+        "expected_probes": 0.0,
+        "selection_regret": 1.25,
+        "state_degradation": 0.0,
+        "posterior_entropy": 0.8112781244591328,
+        "net_value": 7.75
+      },
+      "bayes": {
+        "terminal_value": 8.048750000000002,
+        "probe_loss": 0.28724999999999995,
+        "expected_probes": 1.225,
+        "selection_regret": 0.7387499999999989,
+        "state_degradation": 0.21250000000000016,
+        "posterior_entropy": 0.5924714614344198,
+        "net_value": 7.761500000000002
+      }
+    }
+  },
+  {
+    "prior": 0.25,
+    "damage": 0.02,
+    "transfer": 1.0,
+    "budget": 1,
+    "methods": {
+      "stop": {
+        "terminal_value": 7.75,
+        "probe_loss": 0.0,
+        "expected_probes": 0.0,
+        "selection_regret": 1.25,
+        "state_degradation": 0.0,
+        "posterior_entropy": 0.8112781244591328,
+        "net_value": 7.75
+      },
+      "uniform": {
+        "terminal_value": 7.7375,
+        "probe_loss": 0.35,
+        "expected_probes": 1.0,
+        "selection_regret": 1.0625,
+        "state_degradation": 0.19999999999999973,
+        "posterior_entropy": 0.6475568644531959,
+        "net_value": 7.3875
+      },
+      "stationary": {
+        "terminal_value": 7.925000000000001,
+        "probe_loss": 0.22499999999999998,
+        "expected_probes": 1.0,
+        "selection_regret": 0.8749999999999996,
+        "state_degradation": 0.1999999999999993,
+        "posterior_entropy": 0.6365696392517473,
+        "net_value": 7.700000000000001
+      },
+      "one_step": {
+        "terminal_value": 7.75,
+        "probe_loss": 0.0,
+        "expected_probes": 0.0,
+        "selection_regret": 1.25,
+        "state_degradation": 0.0,
+        "posterior_entropy": 0.8112781244591328,
+        "net_value": 7.75
+      },
+      "bayes": {
+        "terminal_value": 7.75,
+        "probe_loss": 0.0,
+        "expected_probes": 0.0,
+        "selection_regret": 1.25,
+        "state_degradation": 0.0,
+        "posterior_entropy": 0.8112781244591328,
+        "net_value": 7.75
+      }
+    }
+  },
+  {
+    "prior": 0.25,
+    "damage": 0.02,
+    "transfer": 1.0,
+    "budget": 2,
+    "methods": {
+      "stop": {
+        "terminal_value": 7.75,
+        "probe_loss": 0.0,
+        "expected_probes": 0.0,
+        "selection_regret": 1.25,
+        "state_degradation": 0.0,
+        "posterior_entropy": 0.8112781244591328,
+        "net_value": 7.75
+      },
+      "uniform": {
+        "terminal_value": 7.8187500000000005,
+        "probe_loss": 0.7200000000000001,
+        "expected_probes": 2.0,
+        "selection_regret": 0.7812499999999993,
+        "state_degradation": 0.4000000000000004,
+        "posterior_entropy": 0.5255022743740614,
+        "net_value": 7.098750000000001
+      },
+      "stationary": {
+        "terminal_value": 8.0225,
+        "probe_loss": 0.2895,
+        "expected_probes": 1.225,
+        "selection_regret": 0.7324999999999995,
+        "state_degradation": 0.24499999999999938,
+        "posterior_entropy": 0.5933422433459205,
+        "net_value": 7.7330000000000005
+      },
+      "one_step": {
+        "terminal_value": 7.75,
+        "probe_loss": 0.0,
+        "expected_probes": 0.0,
+        "selection_regret": 1.25,
+        "state_degradation": 0.0,
+        "posterior_entropy": 0.8112781244591328,
+        "net_value": 7.75
+      },
+      "bayes": {
+        "terminal_value": 7.75,
+        "probe_loss": 0.0,
+        "expected_probes": 0.0,
+        "selection_regret": 1.25,
+        "state_degradation": 0.0,
+        "posterior_entropy": 0.8112781244591328,
+        "net_value": 7.75
+      }
+    }
+  },
+  {
+    "prior": 0.25,
+    "damage": 0.02,
+    "transfer": 1.0,
+    "budget": 3,
+    "methods": {
+      "stop": {
+        "terminal_value": 7.75,
+        "probe_loss": 0.0,
+        "expected_probes": 0.0,
+        "selection_regret": 1.25,
+        "state_degradation": 0.0,
+        "posterior_entropy": 0.8112781244591328,
+        "net_value": 7.75
+      },
+      "uniform": {
+        "terminal_value": 7.76003125,
+        "probe_loss": 1.11,
+        "expected_probes": 3.0,
+        "selection_regret": 0.6399687499999995,
+        "state_degradation": 0.5999999999999996,
+        "posterior_entropy": 0.43179375671999676,
+        "net_value": 6.65003125
+      },
+      "stationary": {
+        "terminal_value": 8.034650000000001,
+        "probe_loss": 0.30752999999999997,
+        "expected_probes": 1.2894999999999999,
+        "selection_regret": 0.7074499999999995,
+        "state_degradation": 0.25789999999999946,
+        "posterior_entropy": 0.582341995259231,
+        "net_value": 7.727120000000001
+      },
+      "one_step": {
+        "terminal_value": 7.75,
+        "probe_loss": 0.0,
+        "expected_probes": 0.0,
+        "selection_regret": 1.25,
+        "state_degradation": 0.0,
+        "posterior_entropy": 0.8112781244591328,
+        "net_value": 7.75
+      },
+      "bayes": {
+        "terminal_value": 7.75,
+        "probe_loss": 0.0,
+        "expected_probes": 0.0,
+        "selection_regret": 1.25,
+        "state_degradation": 0.0,
+        "posterior_entropy": 0.8112781244591328,
+        "net_value": 7.75
+      }
+    }
+  },
+  {
+    "prior": 0.25,
+    "damage": 0.08,
+    "transfer": 0.0,
+    "budget": 1,
+    "methods": {
+      "stop": {
+        "terminal_value": 7.75,
+        "probe_loss": 0.0,
+        "expected_probes": 0.0,
+        "selection_regret": 1.25,
+        "state_degradation": 0.0,
+        "posterior_entropy": 0.8112781244591328,
+        "net_value": 7.75
+      },
+      "uniform": {
+        "terminal_value": 7.627500000000001,
+        "probe_loss": 0.35,
+        "expected_probes": 1.0,
+        "selection_regret": 0.9724999999999997,
+        "state_degradation": 0.40000000000000024,
+        "posterior_entropy": 0.6475568644531959,
+        "net_value": 7.277500000000002
+      },
+      "stationary": {
+        "terminal_value": 7.505000000000001,
+        "probe_loss": 0.22499999999999998,
+        "expected_probes": 1.0,
+        "selection_regret": 0.8949999999999998,
+        "state_degradation": 0.6000000000000002,
+        "posterior_entropy": 0.6365696392517473,
+        "net_value": 7.280000000000001
+      },
+      "one_step": {
+        "terminal_value": 7.75,
+        "probe_loss": 0.0,
+        "expected_probes": 0.0,
+        "selection_regret": 1.25,
+        "state_degradation": 0.0,
+        "posterior_entropy": 0.8112781244591328,
+        "net_value": 7.75
+      },
+      "bayes": {
+        "terminal_value": 7.75,
+        "probe_loss": 0.0,
+        "expected_probes": 0.0,
+        "selection_regret": 1.25,
+        "state_degradation": 0.0,
+        "posterior_entropy": 0.8112781244591328,
+        "net_value": 7.75
+      }
+    }
+  },
+  {
+    "prior": 0.25,
+    "damage": 0.08,
+    "transfer": 0.0,
+    "budget": 2,
+    "methods": {
+      "stop": {
+        "terminal_value": 7.75,
+        "probe_loss": 0.0,
+        "expected_probes": 0.0,
+        "selection_regret": 1.25,
+        "state_degradation": 0.0,
+        "posterior_entropy": 0.8112781244591328,
+        "net_value": 7.75
+      },
+      "uniform": {
+        "terminal_value": 7.405175,
+        "probe_loss": 0.7399999999999999,
+        "expected_probes": 2.0,
+        "selection_regret": 0.7948250000000006,
+        "state_degradation": 0.7999999999999993,
+        "posterior_entropy": 0.5276667478347581,
+        "net_value": 6.665175
+      },
+      "stationary": {
+        "terminal_value": 7.4750000000000005,
+        "probe_loss": 0.285,
+        "expected_probes": 1.225,
+        "selection_regret": 0.8049999999999996,
+        "state_degradation": 0.7200000000000001,
+        "posterior_entropy": 0.5914961059374768,
+        "net_value": 7.19
+      },
+      "one_step": {
+        "terminal_value": 7.75,
+        "probe_loss": 0.0,
+        "expected_probes": 0.0,
+        "selection_regret": 1.25,
+        "state_degradation": 0.0,
+        "posterior_entropy": 0.8112781244591328,
+        "net_value": 7.75
+      },
+      "bayes": {
+        "terminal_value": 7.75,
+        "probe_loss": 0.0,
+        "expected_probes": 0.0,
+        "selection_regret": 1.25,
+        "state_degradation": 0.0,
+        "posterior_entropy": 0.8112781244591328,
+        "net_value": 7.75
+      }
+    }
+  },
+  {
+    "prior": 0.25,
+    "damage": 0.08,
+    "transfer": 0.0,
+    "budget": 3,
+    "methods": {
+      "stop": {
+        "terminal_value": 7.75,
+        "probe_loss": 0.0,
+        "expected_probes": 0.0,
+        "selection_regret": 1.25,
+        "state_degradation": 0.0,
+        "posterior_entropy": 0.8112781244591328,
+        "net_value": 7.75
+      },
+      "uniform": {
+        "terminal_value": 7.194947249999999,
+        "probe_loss": 1.17,
+        "expected_probes": 3.0,
+        "selection_regret": 0.6050527499999996,
+        "state_degradation": 1.1999999999999997,
+        "posterior_entropy": 0.43558256755994873,
+        "net_value": 6.024947249999999
+      },
+      "stationary": {
+        "terminal_value": 7.4750000000000005,
+        "probe_loss": 0.285,
+        "expected_probes": 1.225,
+        "selection_regret": 0.8049999999999996,
+        "state_degradation": 0.7200000000000001,
+        "posterior_entropy": 0.5914961059374768,
+        "net_value": 7.19
+      },
+      "one_step": {
+        "terminal_value": 7.75,
+        "probe_loss": 0.0,
+        "expected_probes": 0.0,
+        "selection_regret": 1.25,
+        "state_degradation": 0.0,
+        "posterior_entropy": 0.8112781244591328,
+        "net_value": 7.75
+      },
+      "bayes": {
+        "terminal_value": 7.75,
+        "probe_loss": 0.0,
+        "expected_probes": 0.0,
+        "selection_regret": 1.25,
+        "state_degradation": 0.0,
+        "posterior_entropy": 0.8112781244591328,
+        "net_value": 7.75
+      }
+    }
+  },
+  {
+    "prior": 0.25,
+    "damage": 0.08,
+    "transfer": 0.5,
+    "budget": 1,
+    "methods": {
+      "stop": {
+        "terminal_value": 7.75,
+        "probe_loss": 0.0,
+        "expected_probes": 0.0,
+        "selection_regret": 1.25,
+        "state_degradation": 0.0,
+        "posterior_entropy": 0.8112781244591328,
+        "net_value": 7.75
+      },
+      "uniform": {
+        "terminal_value": 7.3825,
+        "probe_loss": 0.35,
+        "expected_probes": 1.0,
+        "selection_regret": 1.0174999999999996,
+        "state_degradation": 0.6000000000000001,
+        "posterior_entropy": 0.6475568644531959,
+        "net_value": 7.032500000000001
+      },
+      "stationary": {
+        "terminal_value": 7.415,
+        "probe_loss": 0.22499999999999998,
+        "expected_probes": 1.0,
+        "selection_regret": 0.8850000000000002,
+        "state_degradation": 0.6999999999999997,
+        "posterior_entropy": 0.6365696392517473,
+        "net_value": 7.19
+      },
+      "one_step": {
+        "terminal_value": 7.75,
+        "probe_loss": 0.0,
+        "expected_probes": 0.0,
+        "selection_regret": 1.25,
+        "state_degradation": 0.0,
+        "posterior_entropy": 0.8112781244591328,
+        "net_value": 7.75
+      },
+      "bayes": {
+        "terminal_value": 7.75,
+        "probe_loss": 0.0,
+        "expected_probes": 0.0,
+        "selection_regret": 1.25,
+        "state_degradation": 0.0,
+        "posterior_entropy": 0.8112781244591328,
+        "net_value": 7.75
+      }
+    }
+  },
+  {
+    "prior": 0.25,
+    "damage": 0.08,
+    "transfer": 0.5,
+    "budget": 2,
+    "methods": {
+      "stop": {
+        "terminal_value": 7.75,
+        "probe_loss": 0.0,
+        "expected_probes": 0.0,
+        "selection_regret": 1.25,
+        "state_degradation": 0.0,
+        "posterior_entropy": 0.8112781244591328,
+        "net_value": 7.75
+      },
+      "uniform": {
+        "terminal_value": 6.9982750000000005,
+        "probe_loss": 0.7599999999999999,
+        "expected_probes": 2.0,
+        "selection_regret": 0.801725,
+        "state_degradation": 1.1999999999999997,
+        "posterior_entropy": 0.5316136279994628,
+        "net_value": 6.238275000000001
+      },
+      "stationary": {
+        "terminal_value": 7.370000000000001,
+        "probe_loss": 0.294,
+        "expected_probes": 1.225,
+        "selection_regret": 0.7800000000000005,
+        "state_degradation": 0.8499999999999994,
+        "posterior_entropy": 0.5948168658287085,
+        "net_value": 7.076000000000001
+      },
+      "one_step": {
+        "terminal_value": 7.75,
+        "probe_loss": 0.0,
+        "expected_probes": 0.0,
+        "selection_regret": 1.25,
+        "state_degradation": 0.0,
+        "posterior_entropy": 0.8112781244591328,
+        "net_value": 7.75
+      },
+      "bayes": {
+        "terminal_value": 7.75,
+        "probe_loss": 0.0,
+        "expected_probes": 0.0,
+        "selection_regret": 1.25,
+        "state_degradation": 0.0,
+        "posterior_entropy": 0.8112781244591328,
+        "net_value": 7.75
+      }
+    }
+  },
+  {
+    "prior": 0.25,
+    "damage": 0.08,
+    "transfer": 0.5,
+    "budget": 3,
+    "methods": {
+      "stop": {
+        "terminal_value": 7.75,
+        "probe_loss": 0.0,
+        "expected_probes": 0.0,
+        "selection_regret": 1.25,
+        "state_degradation": 0.0,
+        "posterior_entropy": 0.8112781244591328,
+        "net_value": 7.75
+      },
+      "uniform": {
+        "terminal_value": 6.546915749999999,
+        "probe_loss": 1.2299999999999998,
+        "expected_probes": 3.0,
+        "selection_regret": 0.6530842499999998,
+        "state_degradation": 1.8,
+        "posterior_entropy": 0.4423809083469452,
+        "net_value": 5.31691575
+      },
+      "stationary": {
+        "terminal_value": 7.370000000000001,
+        "probe_loss": 0.294,
+        "expected_probes": 1.225,
+        "selection_regret": 0.7800000000000005,
+        "state_degradation": 0.8499999999999994,
+        "posterior_entropy": 0.5948168658287085,
+        "net_value": 7.076000000000001
+      },
+      "one_step": {
+        "terminal_value": 7.75,
+        "probe_loss": 0.0,
+        "expected_probes": 0.0,
+        "selection_regret": 1.25,
+        "state_degradation": 0.0,
+        "posterior_entropy": 0.8112781244591328,
+        "net_value": 7.75
+      },
+      "bayes": {
+        "terminal_value": 7.75,
+        "probe_loss": 0.0,
+        "expected_probes": 0.0,
+        "selection_regret": 1.25,
+        "state_degradation": 0.0,
+        "posterior_entropy": 0.8112781244591328,
+        "net_value": 7.75
+      }
+    }
+  },
+  {
+    "prior": 0.25,
+    "damage": 0.08,
+    "transfer": 1.0,
+    "budget": 1,
+    "methods": {
+      "stop": {
+        "terminal_value": 7.75,
+        "probe_loss": 0.0,
+        "expected_probes": 0.0,
+        "selection_regret": 1.25,
+        "state_degradation": 0.0,
+        "posterior_entropy": 0.8112781244591328,
+        "net_value": 7.75
+      },
+      "uniform": {
+        "terminal_value": 7.137500000000001,
+        "probe_loss": 0.35,
+        "expected_probes": 1.0,
+        "selection_regret": 1.0625000000000009,
+        "state_degradation": 0.7999999999999989,
+        "posterior_entropy": 0.6475568644531959,
+        "net_value": 6.787500000000001
+      },
+      "stationary": {
+        "terminal_value": 7.325,
+        "probe_loss": 0.22499999999999998,
+        "expected_probes": 1.0,
+        "selection_regret": 0.8750000000000011,
+        "state_degradation": 0.7999999999999989,
+        "posterior_entropy": 0.6365696392517473,
+        "net_value": 7.1000000000000005
+      },
+      "one_step": {
+        "terminal_value": 7.75,
+        "probe_loss": 0.0,
+        "expected_probes": 0.0,
+        "selection_regret": 1.25,
+        "state_degradation": 0.0,
+        "posterior_entropy": 0.8112781244591328,
+        "net_value": 7.75
+      },
+      "bayes": {
+        "terminal_value": 7.75,
+        "probe_loss": 0.0,
+        "expected_probes": 0.0,
+        "selection_regret": 1.25,
+        "state_degradation": 0.0,
+        "posterior_entropy": 0.8112781244591328,
+        "net_value": 7.75
+      }
+    }
+  },
+  {
+    "prior": 0.25,
+    "damage": 0.08,
+    "transfer": 1.0,
+    "budget": 2,
+    "methods": {
+      "stop": {
+        "terminal_value": 7.75,
+        "probe_loss": 0.0,
+        "expected_probes": 0.0,
+        "selection_regret": 1.25,
+        "state_degradation": 0.0,
+        "posterior_entropy": 0.8112781244591328,
+        "net_value": 7.75
+      },
+      "uniform": {
+        "terminal_value": 6.6187499999999995,
+        "probe_loss": 0.7799999999999999,
+        "expected_probes": 2.0,
+        "selection_regret": 0.78125,
+        "state_degradation": 1.5999999999999996,
+        "posterior_entropy": 0.5339653228562018,
+        "net_value": 5.838749999999999
+      },
+      "stationary": {
+        "terminal_value": 7.265000000000001,
+        "probe_loss": 0.303,
+        "expected_probes": 1.225,
+        "selection_regret": 0.755000000000001,
+        "state_degradation": 0.9799999999999991,
+        "posterior_entropy": 0.5969222451786937,
+        "net_value": 6.962000000000001
+      },
+      "one_step": {
+        "terminal_value": 7.75,
+        "probe_loss": 0.0,
+        "expected_probes": 0.0,
+        "selection_regret": 1.25,
+        "state_degradation": 0.0,
+        "posterior_entropy": 0.8112781244591328,
+        "net_value": 7.75
+      },
+      "bayes": {
+        "terminal_value": 7.75,
+        "probe_loss": 0.0,
+        "expected_probes": 0.0,
+        "selection_regret": 1.25,
+        "state_degradation": 0.0,
+        "posterior_entropy": 0.8112781244591328,
+        "net_value": 7.75
+      }
+    }
+  },
+  {
+    "prior": 0.25,
+    "damage": 0.08,
+    "transfer": 1.0,
+    "budget": 3,
+    "methods": {
+      "stop": {
+        "terminal_value": 7.75,
+        "probe_loss": 0.0,
+        "expected_probes": 0.0,
+        "selection_regret": 1.25,
+        "state_degradation": 0.0,
+        "posterior_entropy": 0.8112781244591328,
+        "net_value": 7.75
+      },
+      "uniform": {
+        "terminal_value": 5.92421875,
+        "probe_loss": 1.29,
+        "expected_probes": 3.0,
+        "selection_regret": 0.67578125,
+        "state_degradation": 2.3999999999999995,
+        "posterior_entropy": 0.4450367182358493,
+        "net_value": 4.63421875
+      },
+      "stationary": {
+        "terminal_value": 7.2389,
+        "probe_loss": 0.33677999999999997,
+        "expected_probes": 1.303,
+        "selection_regret": 0.718700000000001,
+        "state_degradation": 1.042399999999999,
+        "posterior_entropy": 0.5835634068460198,
+        "net_value": 6.90212
+      },
+      "one_step": {
+        "terminal_value": 7.75,
+        "probe_loss": 0.0,
+        "expected_probes": 0.0,
+        "selection_regret": 1.25,
+        "state_degradation": 0.0,
+        "posterior_entropy": 0.8112781244591328,
+        "net_value": 7.75
+      },
+      "bayes": {
+        "terminal_value": 7.75,
+        "probe_loss": 0.0,
+        "expected_probes": 0.0,
+        "selection_regret": 1.25,
+        "state_degradation": 0.0,
+        "posterior_entropy": 0.8112781244591328,
+        "net_value": 7.75
+      }
+    }
+  },
+  {
+    "prior": 0.25,
+    "damage": 0.2,
+    "transfer": 0.0,
+    "budget": 1,
+    "methods": {
+      "stop": {
+        "terminal_value": 7.75,
+        "probe_loss": 0.0,
+        "expected_probes": 0.0,
+        "selection_regret": 1.25,
+        "state_degradation": 0.0,
+        "posterior_entropy": 0.8112781244591328,
+        "net_value": 7.75
+      },
+      "uniform": {
+        "terminal_value": 7.1625,
+        "probe_loss": 0.35,
+        "expected_probes": 1.0,
+        "selection_regret": 0.8374999999999999,
+        "state_degradation": 1.0000000000000004,
+        "posterior_entropy": 0.6475568644531959,
+        "net_value": 6.8125
+      },
+      "stationary": {
+        "terminal_value": 6.574999999999999,
+        "probe_loss": 0.22499999999999998,
+        "expected_probes": 1.0,
+        "selection_regret": 0.925,
+        "state_degradation": 1.5000000000000009,
+        "posterior_entropy": 0.6365696392517473,
+        "net_value": 6.35
+      },
+      "one_step": {
+        "terminal_value": 7.75,
+        "probe_loss": 0.0,
+        "expected_probes": 0.0,
+        "selection_regret": 1.25,
+        "state_degradation": 0.0,
+        "posterior_entropy": 0.8112781244591328,
+        "net_value": 7.75
+      },
+      "bayes": {
+        "terminal_value": 7.75,
+        "probe_loss": 0.0,
+        "expected_probes": 0.0,
+        "selection_regret": 1.25,
+        "state_degradation": 0.0,
+        "posterior_entropy": 0.8112781244591328,
+        "net_value": 7.75
+      }
+    }
+  },
+  {
+    "prior": 0.25,
+    "damage": 0.2,
+    "transfer": 0.0,
+    "budget": 2,
+    "methods": {
+      "stop": {
+        "terminal_value": 7.75,
+        "probe_loss": 0.0,
+        "expected_probes": 0.0,
+        "selection_regret": 1.25,
+        "state_degradation": 0.0,
+        "posterior_entropy": 0.8112781244591328,
+        "net_value": 7.75
+      },
+      "uniform": {
+        "terminal_value": 6.460625,
+        "probe_loss": 0.8,
+        "expected_probes": 2.0,
+        "selection_regret": 0.5393750000000002,
+        "state_degradation": 2.0,
+        "posterior_entropy": 0.528624118486409,
+        "net_value": 5.6606250000000005
+      },
+      "stationary": {
+        "terminal_value": 6.574999999999999,
+        "probe_loss": 0.22499999999999998,
+        "expected_probes": 1.0,
+        "selection_regret": 0.925,
+        "state_degradation": 1.5000000000000009,
+        "posterior_entropy": 0.6365696392517473,
+        "net_value": 6.35
+      },
+      "one_step": {
+        "terminal_value": 7.75,
+        "probe_loss": 0.0,
+        "expected_probes": 0.0,
+        "selection_regret": 1.25,
+        "state_degradation": 0.0,
+        "posterior_entropy": 0.8112781244591328,
+        "net_value": 7.75
+      },
+      "bayes": {
+        "terminal_value": 7.75,
+        "probe_loss": 0.0,
+        "expected_probes": 0.0,
+        "selection_regret": 1.25,
+        "state_degradation": 0.0,
+        "posterior_entropy": 0.8112781244591328,
+        "net_value": 7.75
+      }
+    }
+  },
+  {
+    "prior": 0.25,
+    "damage": 0.2,
+    "transfer": 0.0,
+    "budget": 3,
+    "methods": {
+      "stop": {
+        "terminal_value": 7.75,
+        "probe_loss": 0.0,
+        "expected_probes": 0.0,
+        "selection_regret": 1.25,
+        "state_degradation": 0.0,
+        "posterior_entropy": 0.8112781244591328,
+        "net_value": 7.75
+      },
+      "uniform": {
+        "terminal_value": 5.712875,
+        "probe_loss": 1.3499999999999999,
+        "expected_probes": 3.0,
+        "selection_regret": 0.4121250000000001,
+        "state_degradation": 2.8750000000000004,
+        "posterior_entropy": 0.41894048321490757,
+        "net_value": 4.362875000000001
+      },
+      "stationary": {
+        "terminal_value": 6.574999999999999,
+        "probe_loss": 0.22499999999999998,
+        "expected_probes": 1.0,
+        "selection_regret": 0.925,
+        "state_degradation": 1.5000000000000009,
+        "posterior_entropy": 0.6365696392517473,
+        "net_value": 6.35
+      },
+      "one_step": {
+        "terminal_value": 7.75,
+        "probe_loss": 0.0,
+        "expected_probes": 0.0,
+        "selection_regret": 1.25,
+        "state_degradation": 0.0,
+        "posterior_entropy": 0.8112781244591328,
+        "net_value": 7.75
+      },
+      "bayes": {
+        "terminal_value": 7.75,
+        "probe_loss": 0.0,
+        "expected_probes": 0.0,
+        "selection_regret": 1.25,
+        "state_degradation": 0.0,
+        "posterior_entropy": 0.8112781244591328,
+        "net_value": 7.75
+      }
+    }
+  },
+  {
+    "prior": 0.25,
+    "damage": 0.2,
+    "transfer": 0.5,
+    "budget": 1,
+    "methods": {
+      "stop": {
+        "terminal_value": 7.75,
+        "probe_loss": 0.0,
+        "expected_probes": 0.0,
+        "selection_regret": 1.25,
+        "state_degradation": 0.0,
+        "posterior_entropy": 0.8112781244591328,
+        "net_value": 7.75
+      },
+      "uniform": {
+        "terminal_value": 6.549999999999999,
+        "probe_loss": 0.35,
+        "expected_probes": 1.0,
+        "selection_regret": 0.9500000000000002,
+        "state_degradation": 1.4999999999999998,
+        "posterior_entropy": 0.6475568644531959,
+        "net_value": 6.199999999999999
+      },
+      "stationary": {
+        "terminal_value": 6.349999999999999,
+        "probe_loss": 0.22499999999999998,
+        "expected_probes": 1.0,
+        "selection_regret": 0.9000000000000008,
+        "state_degradation": 1.75,
+        "posterior_entropy": 0.6365696392517473,
+        "net_value": 6.124999999999999
+      },
+      "one_step": {
+        "terminal_value": 7.75,
+        "probe_loss": 0.0,
+        "expected_probes": 0.0,
+        "selection_regret": 1.25,
+        "state_degradation": 0.0,
+        "posterior_entropy": 0.8112781244591328,
+        "net_value": 7.75
+      },
+      "bayes": {
+        "terminal_value": 7.75,
+        "probe_loss": 0.0,
+        "expected_probes": 0.0,
+        "selection_regret": 1.25,
+        "state_degradation": 0.0,
+        "posterior_entropy": 0.8112781244591328,
+        "net_value": 7.75
+      }
+    }
+  },
+  {
+    "prior": 0.25,
+    "damage": 0.2,
+    "transfer": 0.5,
+    "budget": 2,
+    "methods": {
+      "stop": {
+        "terminal_value": 7.75,
+        "probe_loss": 0.0,
+        "expected_probes": 0.0,
+        "selection_regret": 1.25,
+        "state_degradation": 0.0,
+        "posterior_entropy": 0.8112781244591328,
+        "net_value": 7.75
+      },
+      "uniform": {
+        "terminal_value": 5.213125,
+        "probe_loss": 0.85,
+        "expected_probes": 2.0,
+        "selection_regret": 0.7868750000000001,
+        "state_degradation": 3.0,
+        "posterior_entropy": 0.5356429699788396,
+        "net_value": 4.363125
+      },
+      "stationary": {
+        "terminal_value": 6.349999999999999,
+        "probe_loss": 0.22499999999999998,
+        "expected_probes": 1.0,
+        "selection_regret": 0.9000000000000008,
+        "state_degradation": 1.75,
+        "posterior_entropy": 0.6365696392517473,
+        "net_value": 6.124999999999999
+      },
+      "one_step": {
+        "terminal_value": 7.75,
+        "probe_loss": 0.0,
+        "expected_probes": 0.0,
+        "selection_regret": 1.25,
+        "state_degradation": 0.0,
+        "posterior_entropy": 0.8112781244591328,
+        "net_value": 7.75
+      },
+      "bayes": {
+        "terminal_value": 7.75,
+        "probe_loss": 0.0,
+        "expected_probes": 0.0,
+        "selection_regret": 1.25,
+        "state_degradation": 0.0,
+        "posterior_entropy": 0.8112781244591328,
+        "net_value": 7.75
+      }
+    }
+  },
+  {
+    "prior": 0.25,
+    "damage": 0.2,
+    "transfer": 0.5,
+    "budget": 3,
+    "methods": {
+      "stop": {
+        "terminal_value": 7.75,
+        "probe_loss": 0.0,
+        "expected_probes": 0.0,
+        "selection_regret": 1.25,
+        "state_degradation": 0.0,
+        "posterior_entropy": 0.8112781244591328,
+        "net_value": 7.75
+      },
+      "uniform": {
+        "terminal_value": 3.9764062499999997,
+        "probe_loss": 1.5,
+        "expected_probes": 3.0,
+        "selection_regret": 0.5235937499999999,
+        "state_degradation": 4.5,
+        "posterior_entropy": 0.4215935822257598,
+        "net_value": 2.4764062499999997
+      },
+      "stationary": {
+        "terminal_value": 6.349999999999999,
+        "probe_loss": 0.22499999999999998,
+        "expected_probes": 1.0,
+        "selection_regret": 0.9000000000000008,
+        "state_degradation": 1.75,
+        "posterior_entropy": 0.6365696392517473,
+        "net_value": 6.124999999999999
+      },
+      "one_step": {
+        "terminal_value": 7.75,
+        "probe_loss": 0.0,
+        "expected_probes": 0.0,
+        "selection_regret": 1.25,
+        "state_degradation": 0.0,
+        "posterior_entropy": 0.8112781244591328,
+        "net_value": 7.75
+      },
+      "bayes": {
+        "terminal_value": 7.75,
+        "probe_loss": 0.0,
+        "expected_probes": 0.0,
+        "selection_regret": 1.25,
+        "state_degradation": 0.0,
+        "posterior_entropy": 0.8112781244591328,
+        "net_value": 7.75
+      }
+    }
+  },
+  {
+    "prior": 0.25,
+    "damage": 0.2,
+    "transfer": 1.0,
+    "budget": 1,
+    "methods": {
+      "stop": {
+        "terminal_value": 7.75,
+        "probe_loss": 0.0,
+        "expected_probes": 0.0,
+        "selection_regret": 1.25,
+        "state_degradation": 0.0,
+        "posterior_entropy": 0.8112781244591328,
+        "net_value": 7.75
+      },
+      "uniform": {
+        "terminal_value": 5.937499999999998,
+        "probe_loss": 0.35,
+        "expected_probes": 1.0,
+        "selection_regret": 1.0625000000000009,
+        "state_degradation": 2.0,
+        "posterior_entropy": 0.6475568644531959,
+        "net_value": 5.587499999999999
+      },
+      "stationary": {
+        "terminal_value": 6.124999999999998,
+        "probe_loss": 0.22499999999999998,
+        "expected_probes": 1.0,
+        "selection_regret": 0.8750000000000011,
+        "state_degradation": 2.0,
+        "posterior_entropy": 0.6365696392517473,
+        "net_value": 5.899999999999999
+      },
+      "one_step": {
+        "terminal_value": 7.75,
+        "probe_loss": 0.0,
+        "expected_probes": 0.0,
+        "selection_regret": 1.25,
+        "state_degradation": 0.0,
+        "posterior_entropy": 0.8112781244591328,
+        "net_value": 7.75
+      },
+      "bayes": {
+        "terminal_value": 7.75,
+        "probe_loss": 0.0,
+        "expected_probes": 0.0,
+        "selection_regret": 1.25,
+        "state_degradation": 0.0,
+        "posterior_entropy": 0.8112781244591328,
+        "net_value": 7.75
+      }
+    }
+  },
+  {
+    "prior": 0.25,
+    "damage": 0.2,
+    "transfer": 1.0,
+    "budget": 2,
+    "methods": {
+      "stop": {
+        "terminal_value": 7.75,
+        "probe_loss": 0.0,
+        "expected_probes": 0.0,
+        "selection_regret": 1.25,
+        "state_degradation": 0.0,
+        "posterior_entropy": 0.8112781244591328,
+        "net_value": 7.75
+      },
+      "uniform": {
+        "terminal_value": 4.21875,
+        "probe_loss": 0.9,
+        "expected_probes": 2.0,
+        "selection_regret": 0.78125,
+        "state_degradation": 4.0,
+        "posterior_entropy": 0.5354794514710631,
+        "net_value": 3.31875
+      },
+      "stationary": {
+        "terminal_value": 6.124999999999998,
+        "probe_loss": 0.22499999999999998,
+        "expected_probes": 1.0,
+        "selection_regret": 0.8750000000000011,
+        "state_degradation": 2.0,
+        "posterior_entropy": 0.6365696392517473,
+        "net_value": 5.899999999999999
+      },
+      "one_step": {
+        "terminal_value": 7.75,
+        "probe_loss": 0.0,
+        "expected_probes": 0.0,
+        "selection_regret": 1.25,
+        "state_degradation": 0.0,
+        "posterior_entropy": 0.8112781244591328,
+        "net_value": 7.75
+      },
+      "bayes": {
+        "terminal_value": 7.75,
+        "probe_loss": 0.0,
+        "expected_probes": 0.0,
+        "selection_regret": 1.25,
+        "state_degradation": 0.0,
+        "posterior_entropy": 0.8112781244591328,
+        "net_value": 7.75
+      }
+    }
+  },
+  {
+    "prior": 0.25,
+    "damage": 0.2,
+    "transfer": 1.0,
+    "budget": 3,
+    "methods": {
+      "stop": {
+        "terminal_value": 7.75,
+        "probe_loss": 0.0,
+        "expected_probes": 0.0,
+        "selection_regret": 1.25,
+        "state_degradation": 0.0,
+        "posterior_entropy": 0.8112781244591328,
+        "net_value": 7.75
+      },
+      "uniform": {
+        "terminal_value": 2.656406249999999,
+        "probe_loss": 1.65,
+        "expected_probes": 3.0,
+        "selection_regret": 0.3435937499999998,
+        "state_degradation": 6.000000000000001,
+        "posterior_entropy": 0.37291082522583496,
+        "net_value": 1.006406249999999
+      },
+      "stationary": {
+        "terminal_value": 5.697499999999999,
+        "probe_loss": 0.4124999999999999,
+        "expected_probes": 1.33,
+        "selection_regret": 0.642500000000001,
+        "state_degradation": 2.66,
+        "posterior_entropy": 0.5649222620447896,
+        "net_value": 5.284999999999999
+      },
+      "one_step": {
+        "terminal_value": 7.75,
+        "probe_loss": 0.0,
+        "expected_probes": 0.0,
+        "selection_regret": 1.25,
+        "state_degradation": 0.0,
+        "posterior_entropy": 0.8112781244591328,
+        "net_value": 7.75
+      },
+      "bayes": {
+        "terminal_value": 7.75,
+        "probe_loss": 0.0,
+        "expected_probes": 0.0,
+        "selection_regret": 1.25,
+        "state_degradation": 0.0,
+        "posterior_entropy": 0.8112781244591328,
+        "net_value": 7.75
+      }
+    }
+  },
+  {
+    "prior": 0.5,
+    "damage": 0.0,
+    "transfer": 0.0,
+    "budget": 1,
+    "methods": {
+      "stop": {
+        "terminal_value": 6.5,
+        "probe_loss": 0.0,
+        "expected_probes": 0.0,
+        "selection_regret": 2.5,
+        "state_degradation": 0.0,
+        "posterior_entropy": 1.0,
+        "net_value": 6.5
+      },
+      "uniform": {
+        "terminal_value": 7.75,
+        "probe_loss": 0.35,
+        "expected_probes": 1.0,
+        "selection_regret": 1.2499999999999998,
+        "state_degradation": 0.0,
+        "posterior_entropy": 0.7859050386464839,
+        "net_value": 7.4
+      },
+      "stationary": {
+        "terminal_value": 7.75,
+        "probe_loss": 0.35,
+        "expected_probes": 1.0,
+        "selection_regret": 1.2499999999999998,
+        "state_degradation": 0.0,
+        "posterior_entropy": 0.7859050386464839,
+        "net_value": 7.4
+      },
+      "one_step": {
+        "terminal_value": 7.75,
+        "probe_loss": 0.35,
+        "expected_probes": 1.0,
+        "selection_regret": 1.2499999999999998,
+        "state_degradation": 0.0,
+        "posterior_entropy": 0.7859050386464839,
+        "net_value": 7.4
+      },
+      "bayes": {
+        "terminal_value": 7.75,
+        "probe_loss": 0.35,
+        "expected_probes": 1.0,
+        "selection_regret": 1.2499999999999998,
+        "state_degradation": 0.0,
+        "posterior_entropy": 0.7859050386464839,
+        "net_value": 7.4
+      }
+    }
+  },
+  {
+    "prior": 0.5,
+    "damage": 0.0,
+    "transfer": 0.0,
+    "budget": 2,
+    "methods": {
+      "stop": {
+        "terminal_value": 6.5,
+        "probe_loss": 0.0,
+        "expected_probes": 0.0,
+        "selection_regret": 2.5,
+        "state_degradation": 0.0,
+        "posterior_entropy": 1.0,
+        "net_value": 6.5
+      },
+      "uniform": {
+        "terminal_value": 7.9375,
+        "probe_loss": 0.7,
+        "expected_probes": 2.0,
+        "selection_regret": 1.0625000000000002,
+        "state_degradation": 0.0,
+        "posterior_entropy": 0.6277181923826731,
+        "net_value": 7.2375
+      },
+      "stationary": {
+        "terminal_value": 8.125,
+        "probe_loss": 0.515,
+        "expected_probes": 1.65,
+        "selection_regret": 0.875,
+        "state_degradation": 0.0,
+        "posterior_entropy": 0.6598868543390004,
+        "net_value": 7.61
+      },
+      "one_step": {
+        "terminal_value": 8.125,
+        "probe_loss": 0.515,
+        "expected_probes": 1.65,
+        "selection_regret": 0.875,
+        "state_degradation": 0.0,
+        "posterior_entropy": 0.6598868543390004,
+        "net_value": 7.61
+      },
+      "bayes": {
+        "terminal_value": 8.125,
+        "probe_loss": 0.515,
+        "expected_probes": 1.65,
+        "selection_regret": 0.875,
+        "state_degradation": 0.0,
+        "posterior_entropy": 0.6598868543390004,
+        "net_value": 7.61
+      }
+    }
+  },
+  {
+    "prior": 0.5,
+    "damage": 0.0,
+    "transfer": 0.0,
+    "budget": 3,
+    "methods": {
+      "stop": {
+        "terminal_value": 6.5,
+        "probe_loss": 0.0,
+        "expected_probes": 0.0,
+        "selection_regret": 2.5,
+        "state_degradation": 0.0,
+        "posterior_entropy": 1.0,
+        "net_value": 6.5
+      },
+      "uniform": {
+        "terminal_value": 8.246875,
+        "probe_loss": 1.0499999999999998,
+        "expected_probes": 3.0,
+        "selection_regret": 0.7531249999999996,
+        "state_degradation": -1.7319479184152436e-17,
+        "posterior_entropy": 0.5053643597316367,
+        "net_value": 7.1968749999999995
+      },
+      "stationary": {
+        "terminal_value": 8.2,
+        "probe_loss": 0.5539999999999999,
+        "expected_probes": 1.815,
+        "selection_regret": 0.8,
+        "state_degradation": -6.927791673660974e-17,
+        "posterior_entropy": 0.6296838938662319,
+        "net_value": 7.645999999999999
+      },
+      "one_step": {
+        "terminal_value": 8.2,
+        "probe_loss": 0.5539999999999999,
+        "expected_probes": 1.815,
+        "selection_regret": 0.8,
+        "state_degradation": -6.927791673660974e-17,
+        "posterior_entropy": 0.6296838938662319,
+        "net_value": 7.645999999999999
+      },
+      "bayes": {
+        "terminal_value": 8.2,
+        "probe_loss": 0.5539999999999999,
+        "expected_probes": 1.815,
+        "selection_regret": 0.8,
+        "state_degradation": -6.927791673660974e-17,
+        "posterior_entropy": 0.6296838938662319,
+        "net_value": 7.645999999999999
+      }
+    }
+  },
+  {
+    "prior": 0.5,
+    "damage": 0.0,
+    "transfer": 0.5,
+    "budget": 1,
+    "methods": {
+      "stop": {
+        "terminal_value": 6.5,
+        "probe_loss": 0.0,
+        "expected_probes": 0.0,
+        "selection_regret": 2.5,
+        "state_degradation": 0.0,
+        "posterior_entropy": 1.0,
+        "net_value": 6.5
+      },
+      "uniform": {
+        "terminal_value": 7.75,
+        "probe_loss": 0.35,
+        "expected_probes": 1.0,
+        "selection_regret": 1.2499999999999998,
+        "state_degradation": 0.0,
+        "posterior_entropy": 0.7859050386464839,
+        "net_value": 7.4
+      },
+      "stationary": {
+        "terminal_value": 7.75,
+        "probe_loss": 0.35,
+        "expected_probes": 1.0,
+        "selection_regret": 1.2499999999999998,
+        "state_degradation": 0.0,
+        "posterior_entropy": 0.7859050386464839,
+        "net_value": 7.4
+      },
+      "one_step": {
+        "terminal_value": 7.75,
+        "probe_loss": 0.35,
+        "expected_probes": 1.0,
+        "selection_regret": 1.2499999999999998,
+        "state_degradation": 0.0,
+        "posterior_entropy": 0.7859050386464839,
+        "net_value": 7.4
+      },
+      "bayes": {
+        "terminal_value": 7.75,
+        "probe_loss": 0.35,
+        "expected_probes": 1.0,
+        "selection_regret": 1.2499999999999998,
+        "state_degradation": 0.0,
+        "posterior_entropy": 0.7859050386464839,
+        "net_value": 7.4
+      }
+    }
+  },
+  {
+    "prior": 0.5,
+    "damage": 0.0,
+    "transfer": 0.5,
+    "budget": 2,
+    "methods": {
+      "stop": {
+        "terminal_value": 6.5,
+        "probe_loss": 0.0,
+        "expected_probes": 0.0,
+        "selection_regret": 2.5,
+        "state_degradation": 0.0,
+        "posterior_entropy": 1.0,
+        "net_value": 6.5
+      },
+      "uniform": {
+        "terminal_value": 7.9375,
+        "probe_loss": 0.7,
+        "expected_probes": 2.0,
+        "selection_regret": 1.0625000000000002,
+        "state_degradation": 0.0,
+        "posterior_entropy": 0.6277181923826731,
+        "net_value": 7.2375
+      },
+      "stationary": {
+        "terminal_value": 8.125,
+        "probe_loss": 0.515,
+        "expected_probes": 1.65,
+        "selection_regret": 0.875,
+        "state_degradation": 0.0,
+        "posterior_entropy": 0.6598868543390004,
+        "net_value": 7.61
+      },
+      "one_step": {
+        "terminal_value": 8.125,
+        "probe_loss": 0.515,
+        "expected_probes": 1.65,
+        "selection_regret": 0.875,
+        "state_degradation": 0.0,
+        "posterior_entropy": 0.6598868543390004,
+        "net_value": 7.61
+      },
+      "bayes": {
+        "terminal_value": 8.125,
+        "probe_loss": 0.515,
+        "expected_probes": 1.65,
+        "selection_regret": 0.875,
+        "state_degradation": 0.0,
+        "posterior_entropy": 0.6598868543390004,
+        "net_value": 7.61
+      }
+    }
+  },
+  {
+    "prior": 0.5,
+    "damage": 0.0,
+    "transfer": 0.5,
+    "budget": 3,
+    "methods": {
+      "stop": {
+        "terminal_value": 6.5,
+        "probe_loss": 0.0,
+        "expected_probes": 0.0,
+        "selection_regret": 2.5,
+        "state_degradation": 0.0,
+        "posterior_entropy": 1.0,
+        "net_value": 6.5
+      },
+      "uniform": {
+        "terminal_value": 8.246875,
+        "probe_loss": 1.0499999999999998,
+        "expected_probes": 3.0,
+        "selection_regret": 0.7531249999999996,
+        "state_degradation": -1.7319479184152436e-17,
+        "posterior_entropy": 0.5053643597316367,
+        "net_value": 7.1968749999999995
+      },
+      "stationary": {
+        "terminal_value": 8.2,
+        "probe_loss": 0.5539999999999999,
+        "expected_probes": 1.815,
+        "selection_regret": 0.8,
+        "state_degradation": -6.927791673660974e-17,
+        "posterior_entropy": 0.6296838938662319,
+        "net_value": 7.645999999999999
+      },
+      "one_step": {
+        "terminal_value": 8.2,
+        "probe_loss": 0.5539999999999999,
+        "expected_probes": 1.815,
+        "selection_regret": 0.8,
+        "state_degradation": -6.927791673660974e-17,
+        "posterior_entropy": 0.6296838938662319,
+        "net_value": 7.645999999999999
+      },
+      "bayes": {
+        "terminal_value": 8.2,
+        "probe_loss": 0.5539999999999999,
+        "expected_probes": 1.815,
+        "selection_regret": 0.8,
+        "state_degradation": -6.927791673660974e-17,
+        "posterior_entropy": 0.6296838938662319,
+        "net_value": 7.645999999999999
+      }
+    }
+  },
+  {
+    "prior": 0.5,
+    "damage": 0.0,
+    "transfer": 1.0,
+    "budget": 1,
+    "methods": {
+      "stop": {
+        "terminal_value": 6.5,
+        "probe_loss": 0.0,
+        "expected_probes": 0.0,
+        "selection_regret": 2.5,
+        "state_degradation": 0.0,
+        "posterior_entropy": 1.0,
+        "net_value": 6.5
+      },
+      "uniform": {
+        "terminal_value": 7.75,
+        "probe_loss": 0.35,
+        "expected_probes": 1.0,
+        "selection_regret": 1.2499999999999998,
+        "state_degradation": 0.0,
+        "posterior_entropy": 0.7859050386464839,
+        "net_value": 7.4
+      },
+      "stationary": {
+        "terminal_value": 7.75,
+        "probe_loss": 0.35,
+        "expected_probes": 1.0,
+        "selection_regret": 1.2499999999999998,
+        "state_degradation": 0.0,
+        "posterior_entropy": 0.7859050386464839,
+        "net_value": 7.4
+      },
+      "one_step": {
+        "terminal_value": 7.75,
+        "probe_loss": 0.35,
+        "expected_probes": 1.0,
+        "selection_regret": 1.2499999999999998,
+        "state_degradation": 0.0,
+        "posterior_entropy": 0.7859050386464839,
+        "net_value": 7.4
+      },
+      "bayes": {
+        "terminal_value": 7.75,
+        "probe_loss": 0.35,
+        "expected_probes": 1.0,
+        "selection_regret": 1.2499999999999998,
+        "state_degradation": 0.0,
+        "posterior_entropy": 0.7859050386464839,
+        "net_value": 7.4
+      }
+    }
+  },
+  {
+    "prior": 0.5,
+    "damage": 0.0,
+    "transfer": 1.0,
+    "budget": 2,
+    "methods": {
+      "stop": {
+        "terminal_value": 6.5,
+        "probe_loss": 0.0,
+        "expected_probes": 0.0,
+        "selection_regret": 2.5,
+        "state_degradation": 0.0,
+        "posterior_entropy": 1.0,
+        "net_value": 6.5
+      },
+      "uniform": {
+        "terminal_value": 7.9375,
+        "probe_loss": 0.7,
+        "expected_probes": 2.0,
+        "selection_regret": 1.0625000000000002,
+        "state_degradation": 0.0,
+        "posterior_entropy": 0.6277181923826731,
+        "net_value": 7.2375
+      },
+      "stationary": {
+        "terminal_value": 8.125,
+        "probe_loss": 0.515,
+        "expected_probes": 1.65,
+        "selection_regret": 0.875,
+        "state_degradation": 0.0,
+        "posterior_entropy": 0.6598868543390004,
+        "net_value": 7.61
+      },
+      "one_step": {
+        "terminal_value": 8.125,
+        "probe_loss": 0.515,
+        "expected_probes": 1.65,
+        "selection_regret": 0.875,
+        "state_degradation": 0.0,
+        "posterior_entropy": 0.6598868543390004,
+        "net_value": 7.61
+      },
+      "bayes": {
+        "terminal_value": 8.125,
+        "probe_loss": 0.515,
+        "expected_probes": 1.65,
+        "selection_regret": 0.875,
+        "state_degradation": 0.0,
+        "posterior_entropy": 0.6598868543390004,
+        "net_value": 7.61
+      }
+    }
+  },
+  {
+    "prior": 0.5,
+    "damage": 0.0,
+    "transfer": 1.0,
+    "budget": 3,
+    "methods": {
+      "stop": {
+        "terminal_value": 6.5,
+        "probe_loss": 0.0,
+        "expected_probes": 0.0,
+        "selection_regret": 2.5,
+        "state_degradation": 0.0,
+        "posterior_entropy": 1.0,
+        "net_value": 6.5
+      },
+      "uniform": {
+        "terminal_value": 8.246875,
+        "probe_loss": 1.0499999999999998,
+        "expected_probes": 3.0,
+        "selection_regret": 0.7531249999999996,
+        "state_degradation": -1.7319479184152436e-17,
+        "posterior_entropy": 0.5053643597316367,
+        "net_value": 7.1968749999999995
+      },
+      "stationary": {
+        "terminal_value": 8.2,
+        "probe_loss": 0.5539999999999999,
+        "expected_probes": 1.815,
+        "selection_regret": 0.8,
+        "state_degradation": -6.927791673660974e-17,
+        "posterior_entropy": 0.6296838938662319,
+        "net_value": 7.645999999999999
+      },
+      "one_step": {
+        "terminal_value": 8.2,
+        "probe_loss": 0.5539999999999999,
+        "expected_probes": 1.815,
+        "selection_regret": 0.8,
+        "state_degradation": -6.927791673660974e-17,
+        "posterior_entropy": 0.6296838938662319,
+        "net_value": 7.645999999999999
+      },
+      "bayes": {
+        "terminal_value": 8.2,
+        "probe_loss": 0.5539999999999999,
+        "expected_probes": 1.815,
+        "selection_regret": 0.8,
+        "state_degradation": -6.927791673660974e-17,
+        "posterior_entropy": 0.6296838938662319,
+        "net_value": 7.645999999999999
+      }
+    }
+  },
+  {
+    "prior": 0.5,
+    "damage": 0.02,
+    "transfer": 0.0,
+    "budget": 1,
+    "methods": {
+      "stop": {
+        "terminal_value": 6.5,
+        "probe_loss": 0.0,
+        "expected_probes": 0.0,
+        "selection_regret": 2.5,
+        "state_degradation": 0.0,
+        "posterior_entropy": 1.0,
+        "net_value": 6.5
+      },
+      "uniform": {
+        "terminal_value": 7.619999999999999,
+        "probe_loss": 0.35,
+        "expected_probes": 1.0,
+        "selection_regret": 1.2800000000000002,
+        "state_degradation": 0.09999999999999964,
+        "posterior_entropy": 0.7859050386464839,
+        "net_value": 7.27
+      },
+      "stationary": {
+        "terminal_value": 7.619999999999999,
+        "probe_loss": 0.35,
+        "expected_probes": 1.0,
+        "selection_regret": 1.2800000000000002,
+        "state_degradation": 0.09999999999999964,
+        "posterior_entropy": 0.7859050386464839,
+        "net_value": 7.27
+      },
+      "one_step": {
+        "terminal_value": 7.619999999999999,
+        "probe_loss": 0.35,
+        "expected_probes": 1.0,
+        "selection_regret": 1.2800000000000002,
+        "state_degradation": 0.09999999999999964,
+        "posterior_entropy": 0.7859050386464839,
+        "net_value": 7.27
+      },
+      "bayes": {
+        "terminal_value": 7.619999999999999,
+        "probe_loss": 0.35,
+        "expected_probes": 1.0,
+        "selection_regret": 1.2800000000000002,
+        "state_degradation": 0.09999999999999964,
+        "posterior_entropy": 0.7859050386464839,
+        "net_value": 7.27
+      }
+    }
+  },
+  {
+    "prior": 0.5,
+    "damage": 0.02,
+    "transfer": 0.0,
+    "budget": 2,
+    "methods": {
+      "stop": {
+        "terminal_value": 6.5,
+        "probe_loss": 0.0,
+        "expected_probes": 0.0,
+        "selection_regret": 2.5,
+        "state_degradation": 0.0,
+        "posterior_entropy": 1.0,
+        "net_value": 6.5
+      },
+      "uniform": {
+        "terminal_value": 7.730599999999999,
+        "probe_loss": 0.71,
+        "expected_probes": 2.0,
+        "selection_regret": 1.0694000000000004,
+        "state_degradation": 0.20000000000000018,
+        "posterior_entropy": 0.6307391037418455,
+        "net_value": 7.020599999999999
+      },
+      "stationary": {
+        "terminal_value": 7.911199999999999,
+        "probe_loss": 0.528,
+        "expected_probes": 1.65,
+        "selection_regret": 0.8987999999999996,
+        "state_degradation": 0.19000000000000034,
+        "posterior_entropy": 0.6652215623365847,
+        "net_value": 7.383199999999999
+      },
+      "one_step": {
+        "terminal_value": 7.911199999999999,
+        "probe_loss": 0.528,
+        "expected_probes": 1.65,
+        "selection_regret": 0.8987999999999996,
+        "state_degradation": 0.19000000000000034,
+        "posterior_entropy": 0.6652215623365847,
+        "net_value": 7.383199999999999
+      },
+      "bayes": {
+        "terminal_value": 7.911199999999999,
+        "probe_loss": 0.528,
+        "expected_probes": 1.65,
+        "selection_regret": 0.8987999999999996,
+        "state_degradation": 0.19000000000000034,
+        "posterior_entropy": 0.6652215623365847,
+        "net_value": 7.383199999999999
+      }
+    }
+  },
+  {
+    "prior": 0.5,
+    "damage": 0.02,
+    "transfer": 0.0,
+    "budget": 3,
+    "methods": {
+      "stop": {
+        "terminal_value": 6.5,
+        "probe_loss": 0.0,
+        "expected_probes": 0.0,
+        "selection_regret": 2.5,
+        "state_degradation": 0.0,
+        "posterior_entropy": 1.0,
+        "net_value": 6.5
+      },
+      "uniform": {
+        "terminal_value": 7.934372,
+        "probe_loss": 1.08,
+        "expected_probes": 3.0,
+        "selection_regret": 0.765628,
+        "state_degradation": 0.3,
+        "posterior_entropy": 0.5119740871955516,
+        "net_value": 6.854372
+      },
+      "stationary": {
+        "terminal_value": 7.96664,
+        "probe_loss": 0.5728,
+        "expected_probes": 1.8279999999999998,
+        "selection_regret": 0.8185599999999995,
+        "state_degradation": 0.21480000000000027,
+        "posterior_entropy": 0.6309272954423111,
+        "net_value": 7.39384
+      },
+      "one_step": {
+        "terminal_value": 7.96664,
+        "probe_loss": 0.5728,
+        "expected_probes": 1.8279999999999998,
+        "selection_regret": 0.8185599999999995,
+        "state_degradation": 0.21480000000000027,
+        "posterior_entropy": 0.6309272954423111,
+        "net_value": 7.39384
+      },
+      "bayes": {
+        "terminal_value": 7.96664,
+        "probe_loss": 0.5728,
+        "expected_probes": 1.8279999999999998,
+        "selection_regret": 0.8185599999999995,
+        "state_degradation": 0.21480000000000027,
+        "posterior_entropy": 0.6309272954423111,
+        "net_value": 7.39384
+      }
+    }
+  },
+  {
+    "prior": 0.5,
+    "damage": 0.02,
+    "transfer": 0.5,
+    "budget": 1,
+    "methods": {
+      "stop": {
+        "terminal_value": 6.5,
+        "probe_loss": 0.0,
+        "expected_probes": 0.0,
+        "selection_regret": 2.5,
+        "state_degradation": 0.0,
+        "posterior_entropy": 1.0,
+        "net_value": 6.5
+      },
+      "uniform": {
+        "terminal_value": 7.584999999999999,
+        "probe_loss": 0.35,
+        "expected_probes": 1.0,
+        "selection_regret": 1.2650000000000001,
+        "state_degradation": 0.14999999999999947,
+        "posterior_entropy": 0.7859050386464839,
+        "net_value": 7.234999999999999
+      },
+      "stationary": {
+        "terminal_value": 7.585,
+        "probe_loss": 0.35,
+        "expected_probes": 1.0,
+        "selection_regret": 1.2650000000000001,
+        "state_degradation": 0.14999999999999947,
+        "posterior_entropy": 0.7859050386464839,
+        "net_value": 7.235
+      },
+      "one_step": {
+        "terminal_value": 7.585,
+        "probe_loss": 0.35,
+        "expected_probes": 1.0,
+        "selection_regret": 1.2650000000000001,
+        "state_degradation": 0.14999999999999947,
+        "posterior_entropy": 0.7859050386464839,
+        "net_value": 7.235
+      },
+      "bayes": {
+        "terminal_value": 7.585,
+        "probe_loss": 0.35,
+        "expected_probes": 1.0,
+        "selection_regret": 1.2650000000000001,
+        "state_degradation": 0.14999999999999947,
+        "posterior_entropy": 0.7859050386464839,
+        "net_value": 7.235
+      }
+    }
+  },
+  {
+    "prior": 0.5,
+    "damage": 0.02,
+    "transfer": 0.5,
+    "budget": 2,
+    "methods": {
+      "stop": {
+        "terminal_value": 6.5,
+        "probe_loss": 0.0,
+        "expected_probes": 0.0,
+        "selection_regret": 2.5,
+        "state_degradation": 0.0,
+        "posterior_entropy": 1.0,
+        "net_value": 6.5
+      },
+      "uniform": {
+        "terminal_value": 7.63405,
+        "probe_loss": 0.715,
+        "expected_probes": 2.0,
+        "selection_regret": 1.0659499999999995,
+        "state_degradation": 0.3000000000000004,
+        "posterior_entropy": 0.6321221204522829,
+        "net_value": 6.91905
+      },
+      "stationary": {
+        "terminal_value": 7.8406,
+        "probe_loss": 0.528,
+        "expected_probes": 1.65,
+        "selection_regret": 0.8993999999999995,
+        "state_degradation": 0.2600000000000003,
+        "posterior_entropy": 0.6652215623365847,
+        "net_value": 7.3126
+      },
+      "one_step": {
+        "terminal_value": 7.8406,
+        "probe_loss": 0.528,
+        "expected_probes": 1.65,
+        "selection_regret": 0.8993999999999995,
+        "state_degradation": 0.2600000000000003,
+        "posterior_entropy": 0.6652215623365847,
+        "net_value": 7.3126
+      },
+      "bayes": {
+        "terminal_value": 7.8406,
+        "probe_loss": 0.528,
+        "expected_probes": 1.65,
+        "selection_regret": 0.8993999999999995,
+        "state_degradation": 0.2600000000000003,
+        "posterior_entropy": 0.6652215623365847,
+        "net_value": 7.3126
+      }
+    }
+  },
+  {
+    "prior": 0.5,
+    "damage": 0.02,
+    "transfer": 0.5,
+    "budget": 3,
+    "methods": {
+      "stop": {
+        "terminal_value": 6.5,
+        "probe_loss": 0.0,
+        "expected_probes": 0.0,
+        "selection_regret": 2.5,
+        "state_degradation": 0.0,
+        "posterior_entropy": 1.0,
+        "net_value": 6.5
+      },
+      "uniform": {
+        "terminal_value": 7.77394,
+        "probe_loss": 1.0949999999999998,
+        "expected_probes": 3.0,
+        "selection_regret": 0.7760599999999995,
+        "state_degradation": 0.45000000000000007,
+        "posterior_entropy": 0.5151009007050995,
+        "net_value": 6.67894
+      },
+      "stationary": {
+        "terminal_value": 7.8931640000000005,
+        "probe_loss": 0.57636,
+        "expected_probes": 1.8279999999999998,
+        "selection_regret": 0.8166359999999997,
+        "state_degradation": 0.2902000000000002,
+        "posterior_entropy": 0.6323872405164107,
+        "net_value": 7.316804
+      },
+      "one_step": {
+        "terminal_value": 7.8931640000000005,
+        "probe_loss": 0.57636,
+        "expected_probes": 1.8279999999999998,
+        "selection_regret": 0.8166359999999997,
+        "state_degradation": 0.2902000000000002,
+        "posterior_entropy": 0.6323872405164107,
+        "net_value": 7.316804
+      },
+      "bayes": {
+        "terminal_value": 7.8931640000000005,
+        "probe_loss": 0.57636,
+        "expected_probes": 1.8279999999999998,
+        "selection_regret": 0.8166359999999997,
+        "state_degradation": 0.2902000000000002,
+        "posterior_entropy": 0.6323872405164107,
+        "net_value": 7.316804
+      }
+    }
+  },
+  {
+    "prior": 0.5,
+    "damage": 0.02,
+    "transfer": 1.0,
+    "budget": 1,
+    "methods": {
+      "stop": {
+        "terminal_value": 6.5,
+        "probe_loss": 0.0,
+        "expected_probes": 0.0,
+        "selection_regret": 2.5,
+        "state_degradation": 0.0,
+        "posterior_entropy": 1.0,
+        "net_value": 6.5
+      },
+      "uniform": {
+        "terminal_value": 7.549999999999999,
+        "probe_loss": 0.35,
+        "expected_probes": 1.0,
+        "selection_regret": 1.2500000000000009,
+        "state_degradation": 0.1999999999999993,
+        "posterior_entropy": 0.7859050386464839,
+        "net_value": 7.199999999999999
+      },
+      "stationary": {
+        "terminal_value": 7.549999999999999,
+        "probe_loss": 0.35,
+        "expected_probes": 1.0,
+        "selection_regret": 1.2500000000000009,
+        "state_degradation": 0.1999999999999993,
+        "posterior_entropy": 0.7859050386464839,
+        "net_value": 7.199999999999999
+      },
+      "one_step": {
+        "terminal_value": 7.549999999999999,
+        "probe_loss": 0.35,
+        "expected_probes": 1.0,
+        "selection_regret": 1.2500000000000009,
+        "state_degradation": 0.1999999999999993,
+        "posterior_entropy": 0.7859050386464839,
+        "net_value": 7.199999999999999
+      },
+      "bayes": {
+        "terminal_value": 7.549999999999999,
+        "probe_loss": 0.35,
+        "expected_probes": 1.0,
+        "selection_regret": 1.2500000000000009,
+        "state_degradation": 0.1999999999999993,
+        "posterior_entropy": 0.7859050386464839,
+        "net_value": 7.199999999999999
+      }
+    }
+  },
+  {
+    "prior": 0.5,
+    "damage": 0.02,
+    "transfer": 1.0,
+    "budget": 2,
+    "methods": {
+      "stop": {
+        "terminal_value": 6.5,
+        "probe_loss": 0.0,
+        "expected_probes": 0.0,
+        "selection_regret": 2.5,
+        "state_degradation": 0.0,
+        "posterior_entropy": 1.0,
+        "net_value": 6.5
+      },
+      "uniform": {
+        "terminal_value": 7.5375,
+        "probe_loss": 0.72,
+        "expected_probes": 2.0,
+        "selection_regret": 1.0625000000000002,
+        "state_degradation": 0.40000000000000047,
+        "posterior_entropy": 0.6333437414568731,
+        "net_value": 6.8175
+      },
+      "stationary": {
+        "terminal_value": 7.77,
+        "probe_loss": 0.528,
+        "expected_probes": 1.65,
+        "selection_regret": 0.9,
+        "state_degradation": 0.3300000000000003,
+        "posterior_entropy": 0.6652215623365847,
+        "net_value": 7.241999999999999
+      },
+      "one_step": {
+        "terminal_value": 7.77,
+        "probe_loss": 0.528,
+        "expected_probes": 1.65,
+        "selection_regret": 0.9,
+        "state_degradation": 0.3300000000000003,
+        "posterior_entropy": 0.6652215623365847,
+        "net_value": 7.241999999999999
+      },
+      "bayes": {
+        "terminal_value": 7.77,
+        "probe_loss": 0.528,
+        "expected_probes": 1.65,
+        "selection_regret": 0.9,
+        "state_degradation": 0.3300000000000003,
+        "posterior_entropy": 0.6652215623365847,
+        "net_value": 7.241999999999999
+      }
+    }
+  },
+  {
+    "prior": 0.5,
+    "damage": 0.02,
+    "transfer": 1.0,
+    "budget": 3,
+    "methods": {
+      "stop": {
+        "terminal_value": 6.5,
+        "probe_loss": 0.0,
+        "expected_probes": 0.0,
+        "selection_regret": 2.5,
+        "state_degradation": 0.0,
+        "posterior_entropy": 1.0,
+        "net_value": 6.5
+      },
+      "uniform": {
+        "terminal_value": 7.622750000000001,
+        "probe_loss": 1.1099999999999999,
+        "expected_probes": 3.0,
+        "selection_regret": 0.77725,
+        "state_degradation": 0.5999999999999996,
+        "posterior_entropy": 0.5177639459588452,
+        "net_value": 6.5127500000000005
+      },
+      "stationary": {
+        "terminal_value": 7.820399999999999,
+        "probe_loss": 0.57992,
+        "expected_probes": 1.8279999999999998,
+        "selection_regret": 0.8140000000000004,
+        "state_degradation": 0.3655999999999998,
+        "posterior_entropy": 0.6335539248677508,
+        "net_value": 7.24048
+      },
+      "one_step": {
+        "terminal_value": 7.77,
+        "probe_loss": 0.528,
+        "expected_probes": 1.65,
+        "selection_regret": 0.9,
+        "state_degradation": 0.3300000000000003,
+        "posterior_entropy": 0.6652215623365847,
+        "net_value": 7.241999999999999
+      },
+      "bayes": {
+        "terminal_value": 7.77,
+        "probe_loss": 0.528,
+        "expected_probes": 1.65,
+        "selection_regret": 0.9,
+        "state_degradation": 0.3300000000000003,
+        "posterior_entropy": 0.6652215623365847,
+        "net_value": 7.241999999999999
+      }
+    }
+  },
+  {
+    "prior": 0.5,
+    "damage": 0.08,
+    "transfer": 0.0,
+    "budget": 1,
+    "methods": {
+      "stop": {
+        "terminal_value": 6.5,
+        "probe_loss": 0.0,
+        "expected_probes": 0.0,
+        "selection_regret": 2.5,
+        "state_degradation": 0.0,
+        "posterior_entropy": 1.0,
+        "net_value": 6.5
+      },
+      "uniform": {
+        "terminal_value": 7.23,
+        "probe_loss": 0.35,
+        "expected_probes": 1.0,
+        "selection_regret": 1.3699999999999997,
+        "state_degradation": 0.39999999999999974,
+        "posterior_entropy": 0.7859050386464839,
+        "net_value": 6.880000000000001
+      },
+      "stationary": {
+        "terminal_value": 7.23,
+        "probe_loss": 0.35,
+        "expected_probes": 1.0,
+        "selection_regret": 1.3699999999999997,
+        "state_degradation": 0.39999999999999974,
+        "posterior_entropy": 0.7859050386464839,
+        "net_value": 6.880000000000001
+      },
+      "one_step": {
+        "terminal_value": 7.23,
+        "probe_loss": 0.35,
+        "expected_probes": 1.0,
+        "selection_regret": 1.3699999999999997,
+        "state_degradation": 0.39999999999999974,
+        "posterior_entropy": 0.7859050386464839,
+        "net_value": 6.880000000000001
+      },
+      "bayes": {
+        "terminal_value": 7.23,
+        "probe_loss": 0.35,
+        "expected_probes": 1.0,
+        "selection_regret": 1.3699999999999997,
+        "state_degradation": 0.39999999999999974,
+        "posterior_entropy": 0.7859050386464839,
+        "net_value": 6.880000000000001
+      }
+    }
+  },
+  {
+    "prior": 0.5,
+    "damage": 0.08,
+    "transfer": 0.0,
+    "budget": 2,
+    "methods": {
+      "stop": {
+        "terminal_value": 6.5,
+        "probe_loss": 0.0,
+        "expected_probes": 0.0,
+        "selection_regret": 2.5,
+        "state_degradation": 0.0,
+        "posterior_entropy": 1.0,
+        "net_value": 6.5
+      },
+      "uniform": {
+        "terminal_value": 7.1411,
+        "probe_loss": 0.74,
+        "expected_probes": 2.0,
+        "selection_regret": 1.0589000000000004,
+        "state_degradation": 0.7999999999999994,
+        "posterior_entropy": 0.6364493004914066,
+        "net_value": 6.4011
+      },
+      "stationary": {
+        "terminal_value": 7.3322,
+        "probe_loss": 0.567,
+        "expected_probes": 1.65,
+        "selection_regret": 0.9078000000000003,
+        "state_degradation": 0.7599999999999999,
+        "posterior_entropy": 0.6755909300409515,
+        "net_value": 6.7652
+      },
+      "one_step": {
+        "terminal_value": 7.23,
+        "probe_loss": 0.35,
+        "expected_probes": 1.0,
+        "selection_regret": 1.3699999999999997,
+        "state_degradation": 0.39999999999999974,
+        "posterior_entropy": 0.7859050386464839,
+        "net_value": 6.880000000000001
+      },
+      "bayes": {
+        "terminal_value": 7.23,
+        "probe_loss": 0.35,
+        "expected_probes": 1.0,
+        "selection_regret": 1.3699999999999997,
+        "state_degradation": 0.39999999999999974,
+        "posterior_entropy": 0.7859050386464839,
+        "net_value": 6.880000000000001
+      }
+    }
+  },
+  {
+    "prior": 0.5,
+    "damage": 0.08,
+    "transfer": 0.0,
+    "budget": 3,
+    "methods": {
+      "stop": {
+        "terminal_value": 6.5,
+        "probe_loss": 0.0,
+        "expected_probes": 0.0,
+        "selection_regret": 2.5,
+        "state_degradation": 0.0,
+        "posterior_entropy": 1.0,
+        "net_value": 6.5
+      },
+      "uniform": {
+        "terminal_value": 7.062683,
+        "probe_loss": 1.17,
+        "expected_probes": 3.0,
+        "selection_regret": 0.7373170000000002,
+        "state_degradation": 1.1999999999999997,
+        "posterior_entropy": 0.5224266905479934,
+        "net_value": 5.892683
+      },
+      "stationary": {
+        "terminal_value": 7.28384,
+        "probe_loss": 0.6292,
+        "expected_probes": 1.867,
+        "selection_regret": 0.8473600000000001,
+        "state_degradation": 0.8687999999999998,
+        "posterior_entropy": 0.6304604310421905,
+        "net_value": 6.65464
+      },
+      "one_step": {
+        "terminal_value": 7.23,
+        "probe_loss": 0.35,
+        "expected_probes": 1.0,
+        "selection_regret": 1.3699999999999997,
+        "state_degradation": 0.39999999999999974,
+        "posterior_entropy": 0.7859050386464839,
+        "net_value": 6.880000000000001
+      },
+      "bayes": {
+        "terminal_value": 7.23,
+        "probe_loss": 0.35,
+        "expected_probes": 1.0,
+        "selection_regret": 1.3699999999999997,
+        "state_degradation": 0.39999999999999974,
+        "posterior_entropy": 0.7859050386464839,
+        "net_value": 6.880000000000001
+      }
+    }
+  },
+  {
+    "prior": 0.5,
+    "damage": 0.08,
+    "transfer": 0.5,
+    "budget": 1,
+    "methods": {
+      "stop": {
+        "terminal_value": 6.5,
+        "probe_loss": 0.0,
+        "expected_probes": 0.0,
+        "selection_regret": 2.5,
+        "state_degradation": 0.0,
+        "posterior_entropy": 1.0,
+        "net_value": 6.5
+      },
+      "uniform": {
+        "terminal_value": 7.09,
+        "probe_loss": 0.35,
+        "expected_probes": 1.0,
+        "selection_regret": 1.31,
+        "state_degradation": 0.5999999999999996,
+        "posterior_entropy": 0.7859050386464839,
+        "net_value": 6.74
+      },
+      "stationary": {
+        "terminal_value": 7.09,
+        "probe_loss": 0.35,
+        "expected_probes": 1.0,
+        "selection_regret": 1.31,
+        "state_degradation": 0.5999999999999996,
+        "posterior_entropy": 0.7859050386464839,
+        "net_value": 6.74
+      },
+      "one_step": {
+        "terminal_value": 7.09,
+        "probe_loss": 0.35,
+        "expected_probes": 1.0,
+        "selection_regret": 1.31,
+        "state_degradation": 0.5999999999999996,
+        "posterior_entropy": 0.7859050386464839,
+        "net_value": 6.74
+      },
+      "bayes": {
+        "terminal_value": 7.09,
+        "probe_loss": 0.35,
+        "expected_probes": 1.0,
+        "selection_regret": 1.31,
+        "state_degradation": 0.5999999999999996,
+        "posterior_entropy": 0.7859050386464839,
+        "net_value": 6.74
+      }
+    }
+  },
+  {
+    "prior": 0.5,
+    "damage": 0.08,
+    "transfer": 0.5,
+    "budget": 2,
+    "methods": {
+      "stop": {
+        "terminal_value": 6.5,
+        "probe_loss": 0.0,
+        "expected_probes": 0.0,
+        "selection_regret": 2.5,
+        "state_degradation": 0.0,
+        "posterior_entropy": 1.0,
+        "net_value": 6.5
+      },
+      "uniform": {
+        "terminal_value": 6.7393,
+        "probe_loss": 0.7599999999999999,
+        "expected_probes": 2.0,
+        "selection_regret": 1.0607000000000002,
+        "state_degradation": 1.1999999999999993,
+        "posterior_entropy": 0.6410814670118856,
+        "net_value": 5.9793
+      },
+      "stationary": {
+        "terminal_value": 7.0186,
+        "probe_loss": 0.567,
+        "expected_probes": 1.65,
+        "selection_regret": 0.9413999999999999,
+        "state_degradation": 1.04,
+        "posterior_entropy": 0.6755909300409515,
+        "net_value": 6.4516
+      },
+      "one_step": {
+        "terminal_value": 7.09,
+        "probe_loss": 0.35,
+        "expected_probes": 1.0,
+        "selection_regret": 1.31,
+        "state_degradation": 0.5999999999999996,
+        "posterior_entropy": 0.7859050386464839,
+        "net_value": 6.74
+      },
+      "bayes": {
+        "terminal_value": 7.09,
+        "probe_loss": 0.35,
+        "expected_probes": 1.0,
+        "selection_regret": 1.31,
+        "state_degradation": 0.5999999999999996,
+        "posterior_entropy": 0.7859050386464839,
+        "net_value": 6.74
+      }
+    }
+  },
+  {
+    "prior": 0.5,
+    "damage": 0.08,
+    "transfer": 0.5,
+    "budget": 3,
+    "methods": {
+      "stop": {
+        "terminal_value": 6.5,
+        "probe_loss": 0.0,
+        "expected_probes": 0.0,
+        "selection_regret": 2.5,
+        "state_degradation": 0.0,
+        "posterior_entropy": 1.0,
+        "net_value": 6.5
+      },
+      "uniform": {
+        "terminal_value": 6.412230999999999,
+        "probe_loss": 1.2299999999999998,
+        "expected_probes": 3.0,
+        "selection_regret": 0.787769,
+        "state_degradation": 1.8,
+        "posterior_entropy": 0.5306704911154789,
+        "net_value": 5.182231
+      },
+      "stationary": {
+        "terminal_value": 6.966176,
+        "probe_loss": 0.6465599999999999,
+        "expected_probes": 1.867,
+        "selection_regret": 0.8526239999999998,
+        "state_degradation": 1.1812000000000005,
+        "posterior_entropy": 0.6356085847513175,
+        "net_value": 6.319616
+      },
+      "one_step": {
+        "terminal_value": 7.09,
+        "probe_loss": 0.35,
+        "expected_probes": 1.0,
+        "selection_regret": 1.31,
+        "state_degradation": 0.5999999999999996,
+        "posterior_entropy": 0.7859050386464839,
+        "net_value": 6.74
+      },
+      "bayes": {
+        "terminal_value": 7.09,
+        "probe_loss": 0.35,
+        "expected_probes": 1.0,
+        "selection_regret": 1.31,
+        "state_degradation": 0.5999999999999996,
+        "posterior_entropy": 0.7859050386464839,
+        "net_value": 6.74
+      }
+    }
+  },
+  {
+    "prior": 0.5,
+    "damage": 0.08,
+    "transfer": 1.0,
+    "budget": 1,
+    "methods": {
+      "stop": {
+        "terminal_value": 6.5,
+        "probe_loss": 0.0,
+        "expected_probes": 0.0,
+        "selection_regret": 2.5,
+        "state_degradation": 0.0,
+        "posterior_entropy": 1.0,
+        "net_value": 6.5
+      },
+      "uniform": {
+        "terminal_value": 6.95,
+        "probe_loss": 0.35,
+        "expected_probes": 1.0,
+        "selection_regret": 1.2500000000000004,
+        "state_degradation": 0.7999999999999989,
+        "posterior_entropy": 0.7859050386464839,
+        "net_value": 6.6000000000000005
+      },
+      "stationary": {
+        "terminal_value": 6.95,
+        "probe_loss": 0.35,
+        "expected_probes": 1.0,
+        "selection_regret": 1.2500000000000004,
+        "state_degradation": 0.7999999999999989,
+        "posterior_entropy": 0.7859050386464839,
+        "net_value": 6.6000000000000005
+      },
+      "one_step": {
+        "terminal_value": 6.95,
+        "probe_loss": 0.35,
+        "expected_probes": 1.0,
+        "selection_regret": 1.2500000000000004,
+        "state_degradation": 0.7999999999999989,
+        "posterior_entropy": 0.7859050386464839,
+        "net_value": 6.6000000000000005
+      },
+      "bayes": {
+        "terminal_value": 6.95,
+        "probe_loss": 0.35,
+        "expected_probes": 1.0,
+        "selection_regret": 1.2500000000000004,
+        "state_degradation": 0.7999999999999989,
+        "posterior_entropy": 0.7859050386464839,
+        "net_value": 6.6000000000000005
+      }
+    }
+  },
+  {
+    "prior": 0.5,
+    "damage": 0.08,
+    "transfer": 1.0,
+    "budget": 2,
+    "methods": {
+      "stop": {
+        "terminal_value": 6.5,
+        "probe_loss": 0.0,
+        "expected_probes": 0.0,
+        "selection_regret": 2.5,
+        "state_degradation": 0.0,
+        "posterior_entropy": 1.0,
+        "net_value": 6.5
+      },
+      "uniform": {
+        "terminal_value": 6.3375,
+        "probe_loss": 0.78,
+        "expected_probes": 2.0,
+        "selection_regret": 1.0625000000000002,
+        "state_degradation": 1.5999999999999996,
+        "posterior_entropy": 0.6437947797656349,
+        "net_value": 5.5575
+      },
+      "stationary": {
+        "terminal_value": 6.705,
+        "probe_loss": 0.567,
+        "expected_probes": 1.65,
+        "selection_regret": 0.9750000000000008,
+        "state_degradation": 1.3199999999999994,
+        "posterior_entropy": 0.6755909300409515,
+        "net_value": 6.138
+      },
+      "one_step": {
+        "terminal_value": 6.95,
+        "probe_loss": 0.35,
+        "expected_probes": 1.0,
+        "selection_regret": 1.2500000000000004,
+        "state_degradation": 0.7999999999999989,
+        "posterior_entropy": 0.7859050386464839,
+        "net_value": 6.6000000000000005
+      },
+      "bayes": {
+        "terminal_value": 6.95,
+        "probe_loss": 0.35,
+        "expected_probes": 1.0,
+        "selection_regret": 1.2500000000000004,
+        "state_degradation": 0.7999999999999989,
+        "posterior_entropy": 0.7859050386464839,
+        "net_value": 6.6000000000000005
+      }
+    }
+  },
+  {
+    "prior": 0.5,
+    "damage": 0.08,
+    "transfer": 1.0,
+    "budget": 3,
+    "methods": {
+      "stop": {
+        "terminal_value": 6.5,
+        "probe_loss": 0.0,
+        "expected_probes": 0.0,
+        "selection_regret": 2.5,
+        "state_degradation": 0.0,
+        "posterior_entropy": 1.0,
+        "net_value": 6.5
+      },
+      "uniform": {
+        "terminal_value": 5.818750000000001,
+        "probe_loss": 1.29,
+        "expected_probes": 3.0,
+        "selection_regret": 0.78125,
+        "state_degradation": 2.3999999999999995,
+        "posterior_entropy": 0.5339057745001241,
+        "net_value": 4.528750000000001
+      },
+      "stationary": {
+        "terminal_value": 6.6624,
+        "probe_loss": 0.6639199999999998,
+        "expected_probes": 1.867,
+        "selection_regret": 0.8440000000000005,
+        "state_degradation": 1.4935999999999994,
+        "posterior_entropy": 0.6372131433455634,
+        "net_value": 5.99848
+      },
+      "one_step": {
+        "terminal_value": 6.95,
+        "probe_loss": 0.35,
+        "expected_probes": 1.0,
+        "selection_regret": 1.2500000000000004,
+        "state_degradation": 0.7999999999999989,
+        "posterior_entropy": 0.7859050386464839,
+        "net_value": 6.6000000000000005
+      },
+      "bayes": {
+        "terminal_value": 6.95,
+        "probe_loss": 0.35,
+        "expected_probes": 1.0,
+        "selection_regret": 1.2500000000000004,
+        "state_degradation": 0.7999999999999989,
+        "posterior_entropy": 0.7859050386464839,
+        "net_value": 6.6000000000000005
+      }
+    }
+  },
+  {
+    "prior": 0.5,
+    "damage": 0.2,
+    "transfer": 0.0,
+    "budget": 1,
+    "methods": {
+      "stop": {
+        "terminal_value": 6.5,
+        "probe_loss": 0.0,
+        "expected_probes": 0.0,
+        "selection_regret": 2.5,
+        "state_degradation": 0.0,
+        "posterior_entropy": 1.0,
+        "net_value": 6.5
+      },
+      "uniform": {
+        "terminal_value": 6.5,
+        "probe_loss": 0.35,
+        "expected_probes": 1.0,
+        "selection_regret": 1.5,
+        "state_degradation": 1.0,
+        "posterior_entropy": 0.7859050386464839,
+        "net_value": 6.15
+      },
+      "stationary": {
+        "terminal_value": 6.5,
+        "probe_loss": 0.35,
+        "expected_probes": 1.0,
+        "selection_regret": 1.5,
+        "state_degradation": 0.9999999999999999,
+        "posterior_entropy": 0.7859050386464839,
+        "net_value": 6.15
+      },
+      "one_step": {
+        "terminal_value": 6.5,
+        "probe_loss": 0.0,
+        "expected_probes": 0.0,
+        "selection_regret": 2.5,
+        "state_degradation": 0.0,
+        "posterior_entropy": 1.0,
+        "net_value": 6.5
+      },
+      "bayes": {
+        "terminal_value": 6.5,
+        "probe_loss": 0.0,
+        "expected_probes": 0.0,
+        "selection_regret": 2.5,
+        "state_degradation": 0.0,
+        "posterior_entropy": 1.0,
+        "net_value": 6.5
+      }
+    }
+  },
+  {
+    "prior": 0.5,
+    "damage": 0.2,
+    "transfer": 0.0,
+    "budget": 2,
+    "methods": {
+      "stop": {
+        "terminal_value": 6.5,
+        "probe_loss": 0.0,
+        "expected_probes": 0.0,
+        "selection_regret": 2.5,
+        "state_degradation": 0.0,
+        "posterior_entropy": 1.0,
+        "net_value": 6.5
+      },
+      "uniform": {
+        "terminal_value": 6.125,
+        "probe_loss": 0.8,
+        "expected_probes": 2.0,
+        "selection_regret": 0.8749999999999998,
+        "state_degradation": 2.0,
+        "posterior_entropy": 0.6381388151388869,
+        "net_value": 5.325
+      },
+      "stationary": {
+        "terminal_value": 6.45,
+        "probe_loss": 0.6399999999999999,
+        "expected_probes": 1.65,
+        "selection_regret": 1.1500000000000001,
+        "state_degradation": 1.3999999999999997,
+        "posterior_entropy": 0.672080335506674,
+        "net_value": 5.8100000000000005
+      },
+      "one_step": {
+        "terminal_value": 6.5,
+        "probe_loss": 0.0,
+        "expected_probes": 0.0,
+        "selection_regret": 2.5,
+        "state_degradation": 0.0,
+        "posterior_entropy": 1.0,
+        "net_value": 6.5
+      },
+      "bayes": {
+        "terminal_value": 6.5,
+        "probe_loss": 0.0,
+        "expected_probes": 0.0,
+        "selection_regret": 2.5,
+        "state_degradation": 0.0,
+        "posterior_entropy": 1.0,
+        "net_value": 6.5
+      }
+    }
+  },
+  {
+    "prior": 0.5,
+    "damage": 0.2,
+    "transfer": 0.0,
+    "budget": 3,
+    "methods": {
+      "stop": {
+        "terminal_value": 6.5,
+        "probe_loss": 0.0,
+        "expected_probes": 0.0,
+        "selection_regret": 2.5,
+        "state_degradation": 0.0,
+        "posterior_entropy": 1.0,
+        "net_value": 6.5
+      },
+      "uniform": {
+        "terminal_value": 5.61275,
+        "probe_loss": 1.3499999999999999,
+        "expected_probes": 3.0,
+        "selection_regret": 0.51225,
+        "state_degradation": 2.875,
+        "posterior_entropy": 0.50293636757059,
+        "net_value": 4.2627500000000005
+      },
+      "stationary": {
+        "terminal_value": 6.576,
+        "probe_loss": 0.8380000000000001,
+        "expected_probes": 2.01,
+        "selection_regret": 0.6640000000000001,
+        "state_degradation": 1.7599999999999998,
+        "posterior_entropy": 0.6032609510123129,
+        "net_value": 5.7379999999999995
+      },
+      "one_step": {
+        "terminal_value": 6.5,
+        "probe_loss": 0.0,
+        "expected_probes": 0.0,
+        "selection_regret": 2.5,
+        "state_degradation": 0.0,
+        "posterior_entropy": 1.0,
+        "net_value": 6.5
+      },
+      "bayes": {
+        "terminal_value": 6.5,
+        "probe_loss": 0.0,
+        "expected_probes": 0.0,
+        "selection_regret": 2.5,
+        "state_degradation": 0.0,
+        "posterior_entropy": 1.0,
+        "net_value": 6.5
+      }
+    }
+  },
+  {
+    "prior": 0.5,
+    "damage": 0.2,
+    "transfer": 0.5,
+    "budget": 1,
+    "methods": {
+      "stop": {
+        "terminal_value": 6.5,
+        "probe_loss": 0.0,
+        "expected_probes": 0.0,
+        "selection_regret": 2.5,
+        "state_degradation": 0.0,
+        "posterior_entropy": 1.0,
+        "net_value": 6.5
+      },
+      "uniform": {
+        "terminal_value": 6.1,
+        "probe_loss": 0.35,
+        "expected_probes": 1.0,
+        "selection_regret": 1.4000000000000004,
+        "state_degradation": 1.5,
+        "posterior_entropy": 0.7859050386464839,
+        "net_value": 5.75
+      },
+      "stationary": {
+        "terminal_value": 6.1,
+        "probe_loss": 0.35,
+        "expected_probes": 1.0,
+        "selection_regret": 1.4000000000000004,
+        "state_degradation": 1.5,
+        "posterior_entropy": 0.7859050386464839,
+        "net_value": 5.75
+      },
+      "one_step": {
+        "terminal_value": 6.5,
+        "probe_loss": 0.0,
+        "expected_probes": 0.0,
+        "selection_regret": 2.5,
+        "state_degradation": 0.0,
+        "posterior_entropy": 1.0,
+        "net_value": 6.5
+      },
+      "bayes": {
+        "terminal_value": 6.5,
+        "probe_loss": 0.0,
+        "expected_probes": 0.0,
+        "selection_regret": 2.5,
+        "state_degradation": 0.0,
+        "posterior_entropy": 1.0,
+        "net_value": 6.5
+      }
+    }
+  },
+  {
+    "prior": 0.5,
+    "damage": 0.2,
+    "transfer": 0.5,
+    "budget": 2,
+    "methods": {
+      "stop": {
+        "terminal_value": 6.5,
+        "probe_loss": 0.0,
+        "expected_probes": 0.0,
+        "selection_regret": 2.5,
+        "state_degradation": 0.0,
+        "posterior_entropy": 1.0,
+        "net_value": 6.5
+      },
+      "uniform": {
+        "terminal_value": 5.02,
+        "probe_loss": 0.8499999999999999,
+        "expected_probes": 2.0,
+        "selection_regret": 0.9800000000000003,
+        "state_degradation": 3.0,
+        "posterior_entropy": 0.646287904272055,
+        "net_value": 4.17
+      },
+      "stationary": {
+        "terminal_value": 5.515000000000001,
+        "probe_loss": 0.645,
+        "expected_probes": 1.65,
+        "selection_regret": 0.8849999999999998,
+        "state_degradation": 2.6,
+        "posterior_entropy": 0.680872410795178,
+        "net_value": 4.870000000000001
+      },
+      "one_step": {
+        "terminal_value": 6.5,
+        "probe_loss": 0.0,
+        "expected_probes": 0.0,
+        "selection_regret": 2.5,
+        "state_degradation": 0.0,
+        "posterior_entropy": 1.0,
+        "net_value": 6.5
+      },
+      "bayes": {
+        "terminal_value": 6.5,
+        "probe_loss": 0.0,
+        "expected_probes": 0.0,
+        "selection_regret": 2.5,
+        "state_degradation": 0.0,
+        "posterior_entropy": 1.0,
+        "net_value": 6.5
+      }
+    }
+  },
+  {
+    "prior": 0.5,
+    "damage": 0.2,
+    "transfer": 0.5,
+    "budget": 3,
+    "methods": {
+      "stop": {
+        "terminal_value": 6.5,
+        "probe_loss": 0.0,
+        "expected_probes": 0.0,
+        "selection_regret": 2.5,
+        "state_degradation": 0.0,
+        "posterior_entropy": 1.0,
+        "net_value": 6.5
+      },
+      "uniform": {
+        "terminal_value": 3.88375,
+        "probe_loss": 1.5,
+        "expected_probes": 3.0,
+        "selection_regret": 0.61625,
+        "state_degradation": 4.5,
+        "posterior_entropy": 0.5061556172963855,
+        "net_value": 2.38375
+      },
+      "stationary": {
+        "terminal_value": 5.515000000000001,
+        "probe_loss": 0.645,
+        "expected_probes": 1.65,
+        "selection_regret": 0.8849999999999998,
+        "state_degradation": 2.6,
+        "posterior_entropy": 0.680872410795178,
+        "net_value": 4.870000000000001
+      },
+      "one_step": {
+        "terminal_value": 6.5,
+        "probe_loss": 0.0,
+        "expected_probes": 0.0,
+        "selection_regret": 2.5,
+        "state_degradation": 0.0,
+        "posterior_entropy": 1.0,
+        "net_value": 6.5
+      },
+      "bayes": {
+        "terminal_value": 6.5,
+        "probe_loss": 0.0,
+        "expected_probes": 0.0,
+        "selection_regret": 2.5,
+        "state_degradation": 0.0,
+        "posterior_entropy": 1.0,
+        "net_value": 6.5
+      }
+    }
+  },
+  {
+    "prior": 0.5,
+    "damage": 0.2,
+    "transfer": 1.0,
+    "budget": 1,
+    "methods": {
+      "stop": {
+        "terminal_value": 6.5,
+        "probe_loss": 0.0,
+        "expected_probes": 0.0,
+        "selection_regret": 2.5,
+        "state_degradation": 0.0,
+        "posterior_entropy": 1.0,
+        "net_value": 6.5
+      },
+      "uniform": {
+        "terminal_value": 5.75,
+        "probe_loss": 0.35,
+        "expected_probes": 1.0,
+        "selection_regret": 1.2500000000000004,
+        "state_degradation": 2.0,
+        "posterior_entropy": 0.7859050386464839,
+        "net_value": 5.4
+      },
+      "stationary": {
+        "terminal_value": 5.75,
+        "probe_loss": 0.35,
+        "expected_probes": 1.0,
+        "selection_regret": 1.2500000000000004,
+        "state_degradation": 2.0,
+        "posterior_entropy": 0.7859050386464839,
+        "net_value": 5.4
+      },
+      "one_step": {
+        "terminal_value": 6.5,
+        "probe_loss": 0.0,
+        "expected_probes": 0.0,
+        "selection_regret": 2.5,
+        "state_degradation": 0.0,
+        "posterior_entropy": 1.0,
+        "net_value": 6.5
+      },
+      "bayes": {
+        "terminal_value": 6.5,
+        "probe_loss": 0.0,
+        "expected_probes": 0.0,
+        "selection_regret": 2.5,
+        "state_degradation": 0.0,
+        "posterior_entropy": 1.0,
+        "net_value": 6.5
+      }
+    }
+  },
+  {
+    "prior": 0.5,
+    "damage": 0.2,
+    "transfer": 1.0,
+    "budget": 2,
+    "methods": {
+      "stop": {
+        "terminal_value": 6.5,
+        "probe_loss": 0.0,
+        "expected_probes": 0.0,
+        "selection_regret": 2.5,
+        "state_degradation": 0.0,
+        "posterior_entropy": 1.0,
+        "net_value": 6.5
+      },
+      "uniform": {
+        "terminal_value": 3.9375,
+        "probe_loss": 0.8999999999999999,
+        "expected_probes": 2.0,
+        "selection_regret": 1.0625,
+        "state_degradation": 4.0,
+        "posterior_entropy": 0.6456694962485362,
+        "net_value": 3.0375
+      },
+      "stationary": {
+        "terminal_value": 5.75,
+        "probe_loss": 0.35,
+        "expected_probes": 1.0,
+        "selection_regret": 1.2500000000000004,
+        "state_degradation": 2.0,
+        "posterior_entropy": 0.7859050386464839,
+        "net_value": 5.4
+      },
+      "one_step": {
+        "terminal_value": 6.5,
+        "probe_loss": 0.0,
+        "expected_probes": 0.0,
+        "selection_regret": 2.5,
+        "state_degradation": 0.0,
+        "posterior_entropy": 1.0,
+        "net_value": 6.5
+      },
+      "bayes": {
+        "terminal_value": 6.5,
+        "probe_loss": 0.0,
+        "expected_probes": 0.0,
+        "selection_regret": 2.5,
+        "state_degradation": 0.0,
+        "posterior_entropy": 1.0,
+        "net_value": 6.5
+      }
+    }
+  },
+  {
+    "prior": 0.5,
+    "damage": 0.2,
+    "transfer": 1.0,
+    "budget": 3,
+    "methods": {
+      "stop": {
+        "terminal_value": 6.5,
+        "probe_loss": 0.0,
+        "expected_probes": 0.0,
+        "selection_regret": 2.5,
+        "state_degradation": 0.0,
+        "posterior_entropy": 1.0,
+        "net_value": 6.5
+      },
+      "uniform": {
+        "terminal_value": 2.5818749999999993,
+        "probe_loss": 1.65,
+        "expected_probes": 3.0,
+        "selection_regret": 0.41812499999999986,
+        "state_degradation": 6.000000000000002,
+        "posterior_entropy": 0.448728865080961,
+        "net_value": 0.9318749999999993
+      },
+      "stationary": {
+        "terminal_value": 5.75,
+        "probe_loss": 0.35,
+        "expected_probes": 1.0,
+        "selection_regret": 1.2500000000000004,
+        "state_degradation": 2.0,
+        "posterior_entropy": 0.7859050386464839,
+        "net_value": 5.4
+      },
+      "one_step": {
+        "terminal_value": 6.5,
+        "probe_loss": 0.0,
+        "expected_probes": 0.0,
+        "selection_regret": 2.5,
+        "state_degradation": 0.0,
+        "posterior_entropy": 1.0,
+        "net_value": 6.5
+      },
+      "bayes": {
+        "terminal_value": 6.5,
+        "probe_loss": 0.0,
+        "expected_probes": 0.0,
+        "selection_regret": 2.5,
+        "state_degradation": 0.0,
+        "posterior_entropy": 1.0,
+        "net_value": 6.5
+      }
+    }
+  },
+  {
+    "prior": 0.75,
+    "damage": 0.0,
+    "transfer": 0.0,
+    "budget": 1,
+    "methods": {
+      "stop": {
+        "terminal_value": 7.75,
+        "probe_loss": 0.0,
+        "expected_probes": 0.0,
+        "selection_regret": 1.25,
+        "state_degradation": 0.0,
+        "posterior_entropy": 0.8112781244591328,
+        "net_value": 7.75
+      },
+      "uniform": {
+        "terminal_value": 7.9375,
+        "probe_loss": 0.35,
+        "expected_probes": 1.0,
+        "selection_regret": 1.0625,
+        "state_degradation": -1.9984014443252816e-16,
+        "posterior_entropy": 0.6475568644531959,
+        "net_value": 7.5875
+      },
+      "stationary": {
+        "terminal_value": 8.125,
+        "probe_loss": 0.22499999999999998,
+        "expected_probes": 1.0,
+        "selection_regret": 0.8749999999999998,
+        "state_degradation": -3.996802888650563e-16,
+        "posterior_entropy": 0.6365696392517473,
+        "net_value": 7.9
+      },
+      "one_step": {
+        "terminal_value": 8.125,
+        "probe_loss": 0.22499999999999998,
+        "expected_probes": 1.0,
+        "selection_regret": 0.8749999999999998,
+        "state_degradation": -3.996802888650563e-16,
+        "posterior_entropy": 0.6365696392517473,
+        "net_value": 7.9
+      },
+      "bayes": {
+        "terminal_value": 8.125,
+        "probe_loss": 0.22499999999999998,
+        "expected_probes": 1.0,
+        "selection_regret": 0.8749999999999998,
+        "state_degradation": -3.996802888650563e-16,
+        "posterior_entropy": 0.6365696392517473,
+        "net_value": 7.9
+      }
+    }
+  },
+  {
+    "prior": 0.75,
+    "damage": 0.0,
+    "transfer": 0.0,
+    "budget": 2,
+    "methods": {
+      "stop": {
+        "terminal_value": 7.75,
+        "probe_loss": 0.0,
+        "expected_probes": 0.0,
+        "selection_regret": 1.25,
+        "state_degradation": 0.0,
+        "posterior_entropy": 0.8112781244591328,
+        "net_value": 7.75
+      },
+      "uniform": {
+        "terminal_value": 8.21875,
+        "probe_loss": 0.7,
+        "expected_probes": 2.0,
+        "selection_regret": 0.7812499999999998,
+        "state_degradation": -1.432187701766452e-16,
+        "posterior_entropy": 0.5209288984518756,
+        "net_value": 7.51875
+      },
+      "stationary": {
+        "terminal_value": 8.275,
+        "probe_loss": 0.285,
+        "expected_probes": 1.225,
+        "selection_regret": 0.7249999999999994,
+        "state_degradation": 0.0,
+        "posterior_entropy": 0.5914961059374768,
+        "net_value": 7.99
+      },
+      "one_step": {
+        "terminal_value": 8.275,
+        "probe_loss": 0.285,
+        "expected_probes": 1.225,
+        "selection_regret": 0.7249999999999994,
+        "state_degradation": 0.0,
+        "posterior_entropy": 0.5914961059374768,
+        "net_value": 7.99
+      },
+      "bayes": {
+        "terminal_value": 8.275,
+        "probe_loss": 0.285,
+        "expected_probes": 1.225,
+        "selection_regret": 0.7249999999999994,
+        "state_degradation": 0.0,
+        "posterior_entropy": 0.5914961059374768,
+        "net_value": 7.99
+      }
+    }
+  },
+  {
+    "prior": 0.75,
+    "damage": 0.0,
+    "transfer": 0.0,
+    "budget": 3,
+    "methods": {
+      "stop": {
+        "terminal_value": 7.75,
+        "probe_loss": 0.0,
+        "expected_probes": 0.0,
+        "selection_regret": 1.25,
+        "state_degradation": 0.0,
+        "posterior_entropy": 0.8112781244591328,
+        "net_value": 7.75
+      },
+      "uniform": {
+        "terminal_value": 8.38328125,
+        "probe_loss": 1.05,
+        "expected_probes": 3.0,
+        "selection_regret": 0.61671875,
+        "state_degradation": -5.762057497804561e-17,
+        "posterior_entropy": 0.421594131669107,
+        "net_value": 7.33328125
+      },
+      "stationary": {
+        "terminal_value": 8.297500000000001,
+        "probe_loss": 0.2985,
+        "expected_probes": 1.285,
+        "selection_regret": 0.7024999999999995,
+        "state_degradation": -2.3980817331903375e-17,
+        "posterior_entropy": 0.5810135968250337,
+        "net_value": 7.999000000000001
+      },
+      "one_step": {
+        "terminal_value": 8.297500000000001,
+        "probe_loss": 0.2985,
+        "expected_probes": 1.285,
+        "selection_regret": 0.7024999999999995,
+        "state_degradation": -2.3980817331903375e-17,
+        "posterior_entropy": 0.5810135968250337,
+        "net_value": 7.999000000000001
+      },
+      "bayes": {
+        "terminal_value": 8.297500000000001,
+        "probe_loss": 0.2985,
+        "expected_probes": 1.285,
+        "selection_regret": 0.7024999999999995,
+        "state_degradation": -2.3980817331903375e-17,
+        "posterior_entropy": 0.5810135968250337,
+        "net_value": 7.999000000000001
+      }
+    }
+  },
+  {
+    "prior": 0.75,
+    "damage": 0.0,
+    "transfer": 0.5,
+    "budget": 1,
+    "methods": {
+      "stop": {
+        "terminal_value": 7.75,
+        "probe_loss": 0.0,
+        "expected_probes": 0.0,
+        "selection_regret": 1.25,
+        "state_degradation": 0.0,
+        "posterior_entropy": 0.8112781244591328,
+        "net_value": 7.75
+      },
+      "uniform": {
+        "terminal_value": 7.9375,
+        "probe_loss": 0.35,
+        "expected_probes": 1.0,
+        "selection_regret": 1.0625,
+        "state_degradation": -1.9984014443252816e-16,
+        "posterior_entropy": 0.6475568644531959,
+        "net_value": 7.5875
+      },
+      "stationary": {
+        "terminal_value": 8.125,
+        "probe_loss": 0.22499999999999998,
+        "expected_probes": 1.0,
+        "selection_regret": 0.8749999999999998,
+        "state_degradation": -3.996802888650563e-16,
+        "posterior_entropy": 0.6365696392517473,
+        "net_value": 7.9
+      },
+      "one_step": {
+        "terminal_value": 8.125,
+        "probe_loss": 0.22499999999999998,
+        "expected_probes": 1.0,
+        "selection_regret": 0.8749999999999998,
+        "state_degradation": -3.996802888650563e-16,
+        "posterior_entropy": 0.6365696392517473,
+        "net_value": 7.9
+      },
+      "bayes": {
+        "terminal_value": 8.125,
+        "probe_loss": 0.22499999999999998,
+        "expected_probes": 1.0,
+        "selection_regret": 0.8749999999999998,
+        "state_degradation": -3.996802888650563e-16,
+        "posterior_entropy": 0.6365696392517473,
+        "net_value": 7.9
+      }
+    }
+  },
+  {
+    "prior": 0.75,
+    "damage": 0.0,
+    "transfer": 0.5,
+    "budget": 2,
+    "methods": {
+      "stop": {
+        "terminal_value": 7.75,
+        "probe_loss": 0.0,
+        "expected_probes": 0.0,
+        "selection_regret": 1.25,
+        "state_degradation": 0.0,
+        "posterior_entropy": 0.8112781244591328,
+        "net_value": 7.75
+      },
+      "uniform": {
+        "terminal_value": 8.21875,
+        "probe_loss": 0.7,
+        "expected_probes": 2.0,
+        "selection_regret": 0.7812499999999998,
+        "state_degradation": -1.432187701766452e-16,
+        "posterior_entropy": 0.5209288984518756,
+        "net_value": 7.51875
+      },
+      "stationary": {
+        "terminal_value": 8.275,
+        "probe_loss": 0.285,
+        "expected_probes": 1.225,
+        "selection_regret": 0.7249999999999994,
+        "state_degradation": 0.0,
+        "posterior_entropy": 0.5914961059374768,
+        "net_value": 7.99
+      },
+      "one_step": {
+        "terminal_value": 8.275,
+        "probe_loss": 0.285,
+        "expected_probes": 1.225,
+        "selection_regret": 0.7249999999999994,
+        "state_degradation": 0.0,
+        "posterior_entropy": 0.5914961059374768,
+        "net_value": 7.99
+      },
+      "bayes": {
+        "terminal_value": 8.275,
+        "probe_loss": 0.285,
+        "expected_probes": 1.225,
+        "selection_regret": 0.7249999999999994,
+        "state_degradation": 0.0,
+        "posterior_entropy": 0.5914961059374768,
+        "net_value": 7.99
+      }
+    }
+  },
+  {
+    "prior": 0.75,
+    "damage": 0.0,
+    "transfer": 0.5,
+    "budget": 3,
+    "methods": {
+      "stop": {
+        "terminal_value": 7.75,
+        "probe_loss": 0.0,
+        "expected_probes": 0.0,
+        "selection_regret": 1.25,
+        "state_degradation": 0.0,
+        "posterior_entropy": 0.8112781244591328,
+        "net_value": 7.75
+      },
+      "uniform": {
+        "terminal_value": 8.38328125,
+        "probe_loss": 1.05,
+        "expected_probes": 3.0,
+        "selection_regret": 0.61671875,
+        "state_degradation": -5.762057497804561e-17,
+        "posterior_entropy": 0.421594131669107,
+        "net_value": 7.33328125
+      },
+      "stationary": {
+        "terminal_value": 8.297500000000001,
+        "probe_loss": 0.2985,
+        "expected_probes": 1.285,
+        "selection_regret": 0.7024999999999995,
+        "state_degradation": -2.3980817331903375e-17,
+        "posterior_entropy": 0.5810135968250337,
+        "net_value": 7.999000000000001
+      },
+      "one_step": {
+        "terminal_value": 8.297500000000001,
+        "probe_loss": 0.2985,
+        "expected_probes": 1.285,
+        "selection_regret": 0.7024999999999995,
+        "state_degradation": -2.3980817331903375e-17,
+        "posterior_entropy": 0.5810135968250337,
+        "net_value": 7.999000000000001
+      },
+      "bayes": {
+        "terminal_value": 8.297500000000001,
+        "probe_loss": 0.2985,
+        "expected_probes": 1.285,
+        "selection_regret": 0.7024999999999995,
+        "state_degradation": -2.3980817331903375e-17,
+        "posterior_entropy": 0.5810135968250337,
+        "net_value": 7.999000000000001
+      }
+    }
+  },
+  {
+    "prior": 0.75,
+    "damage": 0.0,
+    "transfer": 1.0,
+    "budget": 1,
+    "methods": {
+      "stop": {
+        "terminal_value": 7.75,
+        "probe_loss": 0.0,
+        "expected_probes": 0.0,
+        "selection_regret": 1.25,
+        "state_degradation": 0.0,
+        "posterior_entropy": 0.8112781244591328,
+        "net_value": 7.75
+      },
+      "uniform": {
+        "terminal_value": 7.9375,
+        "probe_loss": 0.35,
+        "expected_probes": 1.0,
+        "selection_regret": 1.0625,
+        "state_degradation": -1.9984014443252816e-16,
+        "posterior_entropy": 0.6475568644531959,
+        "net_value": 7.5875
+      },
+      "stationary": {
+        "terminal_value": 8.125,
+        "probe_loss": 0.22499999999999998,
+        "expected_probes": 1.0,
+        "selection_regret": 0.8749999999999998,
+        "state_degradation": -3.996802888650563e-16,
+        "posterior_entropy": 0.6365696392517473,
+        "net_value": 7.9
+      },
+      "one_step": {
+        "terminal_value": 8.125,
+        "probe_loss": 0.22499999999999998,
+        "expected_probes": 1.0,
+        "selection_regret": 0.8749999999999998,
+        "state_degradation": -3.996802888650563e-16,
+        "posterior_entropy": 0.6365696392517473,
+        "net_value": 7.9
+      },
+      "bayes": {
+        "terminal_value": 8.125,
+        "probe_loss": 0.22499999999999998,
+        "expected_probes": 1.0,
+        "selection_regret": 0.8749999999999998,
+        "state_degradation": -3.996802888650563e-16,
+        "posterior_entropy": 0.6365696392517473,
+        "net_value": 7.9
+      }
+    }
+  },
+  {
+    "prior": 0.75,
+    "damage": 0.0,
+    "transfer": 1.0,
+    "budget": 2,
+    "methods": {
+      "stop": {
+        "terminal_value": 7.75,
+        "probe_loss": 0.0,
+        "expected_probes": 0.0,
+        "selection_regret": 1.25,
+        "state_degradation": 0.0,
+        "posterior_entropy": 0.8112781244591328,
+        "net_value": 7.75
+      },
+      "uniform": {
+        "terminal_value": 8.21875,
+        "probe_loss": 0.7,
+        "expected_probes": 2.0,
+        "selection_regret": 0.7812499999999998,
+        "state_degradation": -1.432187701766452e-16,
+        "posterior_entropy": 0.5209288984518756,
+        "net_value": 7.51875
+      },
+      "stationary": {
+        "terminal_value": 8.275,
+        "probe_loss": 0.285,
+        "expected_probes": 1.225,
+        "selection_regret": 0.7249999999999994,
+        "state_degradation": 0.0,
+        "posterior_entropy": 0.5914961059374768,
+        "net_value": 7.99
+      },
+      "one_step": {
+        "terminal_value": 8.275,
+        "probe_loss": 0.285,
+        "expected_probes": 1.225,
+        "selection_regret": 0.7249999999999994,
+        "state_degradation": 0.0,
+        "posterior_entropy": 0.5914961059374768,
+        "net_value": 7.99
+      },
+      "bayes": {
+        "terminal_value": 8.275,
+        "probe_loss": 0.285,
+        "expected_probes": 1.225,
+        "selection_regret": 0.7249999999999994,
+        "state_degradation": 0.0,
+        "posterior_entropy": 0.5914961059374768,
+        "net_value": 7.99
+      }
+    }
+  },
+  {
+    "prior": 0.75,
+    "damage": 0.0,
+    "transfer": 1.0,
+    "budget": 3,
+    "methods": {
+      "stop": {
+        "terminal_value": 7.75,
+        "probe_loss": 0.0,
+        "expected_probes": 0.0,
+        "selection_regret": 1.25,
+        "state_degradation": 0.0,
+        "posterior_entropy": 0.8112781244591328,
+        "net_value": 7.75
+      },
+      "uniform": {
+        "terminal_value": 8.38328125,
+        "probe_loss": 1.05,
+        "expected_probes": 3.0,
+        "selection_regret": 0.61671875,
+        "state_degradation": -5.762057497804561e-17,
+        "posterior_entropy": 0.421594131669107,
+        "net_value": 7.33328125
+      },
+      "stationary": {
+        "terminal_value": 8.297500000000001,
+        "probe_loss": 0.2985,
+        "expected_probes": 1.285,
+        "selection_regret": 0.7024999999999995,
+        "state_degradation": -2.3980817331903375e-17,
+        "posterior_entropy": 0.5810135968250337,
+        "net_value": 7.999000000000001
+      },
+      "one_step": {
+        "terminal_value": 8.297500000000001,
+        "probe_loss": 0.2985,
+        "expected_probes": 1.285,
+        "selection_regret": 0.7024999999999995,
+        "state_degradation": -2.3980817331903375e-17,
+        "posterior_entropy": 0.5810135968250337,
+        "net_value": 7.999000000000001
+      },
+      "bayes": {
+        "terminal_value": 8.297500000000001,
+        "probe_loss": 0.2985,
+        "expected_probes": 1.285,
+        "selection_regret": 0.7024999999999995,
+        "state_degradation": -2.3980817331903375e-17,
+        "posterior_entropy": 0.5810135968250337,
+        "net_value": 7.999000000000001
+      }
+    }
+  },
+  {
+    "prior": 0.75,
+    "damage": 0.02,
+    "transfer": 0.0,
+    "budget": 1,
+    "methods": {
+      "stop": {
+        "terminal_value": 7.75,
+        "probe_loss": 0.0,
+        "expected_probes": 0.0,
+        "selection_regret": 1.25,
+        "state_degradation": 0.0,
+        "posterior_entropy": 0.8112781244591328,
+        "net_value": 7.75
+      },
+      "uniform": {
+        "terminal_value": 7.860000000000001,
+        "probe_loss": 0.35,
+        "expected_probes": 1.0,
+        "selection_regret": 1.0399999999999996,
+        "state_degradation": 0.09999999999999967,
+        "posterior_entropy": 0.6475568644531959,
+        "net_value": 7.510000000000002
+      },
+      "stationary": {
+        "terminal_value": 7.970000000000001,
+        "probe_loss": 0.22499999999999998,
+        "expected_probes": 1.0,
+        "selection_regret": 0.8799999999999991,
+        "state_degradation": 0.14999999999999972,
+        "posterior_entropy": 0.6365696392517473,
+        "net_value": 7.745000000000001
+      },
+      "one_step": {
+        "terminal_value": 7.75,
+        "probe_loss": 0.0,
+        "expected_probes": 0.0,
+        "selection_regret": 1.25,
+        "state_degradation": 0.0,
+        "posterior_entropy": 0.8112781244591328,
+        "net_value": 7.75
+      },
+      "bayes": {
+        "terminal_value": 7.75,
+        "probe_loss": 0.0,
+        "expected_probes": 0.0,
+        "selection_regret": 1.25,
+        "state_degradation": 0.0,
+        "posterior_entropy": 0.8112781244591328,
+        "net_value": 7.75
+      }
+    }
+  },
+  {
+    "prior": 0.75,
+    "damage": 0.02,
+    "transfer": 0.0,
+    "budget": 2,
+    "methods": {
+      "stop": {
+        "terminal_value": 7.75,
+        "probe_loss": 0.0,
+        "expected_probes": 0.0,
+        "selection_regret": 1.25,
+        "state_degradation": 0.0,
+        "posterior_entropy": 0.8112781244591328,
+        "net_value": 7.75
+      },
+      "uniform": {
+        "terminal_value": 8.00255,
+        "probe_loss": 0.71,
+        "expected_probes": 2.0,
+        "selection_regret": 0.7974500000000003,
+        "state_degradation": 0.19999999999999962,
+        "posterior_entropy": 0.5232878307867612,
+        "net_value": 7.292549999999999
+      },
+      "stationary": {
+        "terminal_value": 8.075000000000001,
+        "probe_loss": 0.285,
+        "expected_probes": 1.225,
+        "selection_regret": 0.7449999999999993,
+        "state_degradation": 0.1799999999999996,
+        "posterior_entropy": 0.5914961059374768,
+        "net_value": 7.790000000000001
+      },
+      "one_step": {
+        "terminal_value": 7.75,
+        "probe_loss": 0.0,
+        "expected_probes": 0.0,
+        "selection_regret": 1.25,
+        "state_degradation": 0.0,
+        "posterior_entropy": 0.8112781244591328,
+        "net_value": 7.75
+      },
+      "bayes": {
+        "terminal_value": 8.075000000000001,
+        "probe_loss": 0.285,
+        "expected_probes": 1.225,
+        "selection_regret": 0.7449999999999993,
+        "state_degradation": 0.1799999999999996,
+        "posterior_entropy": 0.5914961059374768,
+        "net_value": 7.790000000000001
+      }
+    }
+  },
+  {
+    "prior": 0.75,
+    "damage": 0.02,
+    "transfer": 0.0,
+    "budget": 3,
+    "methods": {
+      "stop": {
+        "terminal_value": 7.75,
+        "probe_loss": 0.0,
+        "expected_probes": 0.0,
+        "selection_regret": 1.25,
+        "state_degradation": 0.0,
+        "posterior_entropy": 0.8112781244591328,
+        "net_value": 7.75
+      },
+      "uniform": {
+        "terminal_value": 8.076834,
+        "probe_loss": 1.08,
+        "expected_probes": 3.0,
+        "selection_regret": 0.6231659999999999,
+        "state_degradation": 0.3,
+        "posterior_entropy": 0.42700378125740845,
+        "net_value": 6.996834
+      },
+      "stationary": {
+        "terminal_value": 8.085440000000002,
+        "probe_loss": 0.29969999999999997,
+        "expected_probes": 1.285,
+        "selection_regret": 0.7255599999999992,
+        "state_degradation": 0.18899999999999967,
+        "posterior_entropy": 0.5814925732222389,
+        "net_value": 7.785740000000002
+      },
+      "one_step": {
+        "terminal_value": 7.75,
+        "probe_loss": 0.0,
+        "expected_probes": 0.0,
+        "selection_regret": 1.25,
+        "state_degradation": 0.0,
+        "posterior_entropy": 0.8112781244591328,
+        "net_value": 7.75
+      },
+      "bayes": {
+        "terminal_value": 8.075000000000001,
+        "probe_loss": 0.285,
+        "expected_probes": 1.225,
+        "selection_regret": 0.7449999999999993,
+        "state_degradation": 0.1799999999999996,
+        "posterior_entropy": 0.5914961059374768,
+        "net_value": 7.790000000000001
+      }
+    }
+  },
+  {
+    "prior": 0.75,
+    "damage": 0.02,
+    "transfer": 0.5,
+    "budget": 1,
+    "methods": {
+      "stop": {
+        "terminal_value": 7.75,
+        "probe_loss": 0.0,
+        "expected_probes": 0.0,
+        "selection_regret": 1.25,
+        "state_degradation": 0.0,
+        "posterior_entropy": 0.8112781244591328,
+        "net_value": 7.75
+      },
+      "uniform": {
+        "terminal_value": 7.79875,
+        "probe_loss": 0.35,
+        "expected_probes": 1.0,
+        "selection_regret": 1.0512499999999994,
+        "state_degradation": 0.14999999999999983,
+        "posterior_entropy": 0.6475568644531959,
+        "net_value": 7.44875
+      },
+      "stationary": {
+        "terminal_value": 7.947500000000002,
+        "probe_loss": 0.22499999999999998,
+        "expected_probes": 1.0,
+        "selection_regret": 0.8774999999999986,
+        "state_degradation": 0.17500000000000018,
+        "posterior_entropy": 0.6365696392517473,
+        "net_value": 7.722500000000002
+      },
+      "one_step": {
+        "terminal_value": 7.75,
+        "probe_loss": 0.0,
+        "expected_probes": 0.0,
+        "selection_regret": 1.25,
+        "state_degradation": 0.0,
+        "posterior_entropy": 0.8112781244591328,
+        "net_value": 7.75
+      },
+      "bayes": {
+        "terminal_value": 7.75,
+        "probe_loss": 0.0,
+        "expected_probes": 0.0,
+        "selection_regret": 1.25,
+        "state_degradation": 0.0,
+        "posterior_entropy": 0.8112781244591328,
+        "net_value": 7.75
+      }
+    }
+  },
+  {
+    "prior": 0.75,
+    "damage": 0.02,
+    "transfer": 0.5,
+    "budget": 2,
+    "methods": {
+      "stop": {
+        "terminal_value": 7.75,
+        "probe_loss": 0.0,
+        "expected_probes": 0.0,
+        "selection_regret": 1.25,
+        "state_degradation": 0.0,
+        "posterior_entropy": 0.8112781244591328,
+        "net_value": 7.75
+      },
+      "uniform": {
+        "terminal_value": 7.910125000000001,
+        "probe_loss": 0.715,
+        "expected_probes": 2.0,
+        "selection_regret": 0.7898749999999994,
+        "state_degradation": 0.30000000000000027,
+        "posterior_entropy": 0.5244626149915801,
+        "net_value": 7.195125000000001
+      },
+      "stationary": {
+        "terminal_value": 8.048750000000002,
+        "probe_loss": 0.28724999999999995,
+        "expected_probes": 1.225,
+        "selection_regret": 0.7387499999999989,
+        "state_degradation": 0.21250000000000016,
+        "posterior_entropy": 0.5924714614344198,
+        "net_value": 7.761500000000002
+      },
+      "one_step": {
+        "terminal_value": 7.75,
+        "probe_loss": 0.0,
+        "expected_probes": 0.0,
+        "selection_regret": 1.25,
+        "state_degradation": 0.0,
+        "posterior_entropy": 0.8112781244591328,
+        "net_value": 7.75
+      },
+      "bayes": {
+        "terminal_value": 8.048750000000002,
+        "probe_loss": 0.28724999999999995,
+        "expected_probes": 1.225,
+        "selection_regret": 0.7387499999999989,
+        "state_degradation": 0.21250000000000016,
+        "posterior_entropy": 0.5924714614344198,
+        "net_value": 7.761500000000002
+      }
+    }
+  },
+  {
+    "prior": 0.75,
+    "damage": 0.02,
+    "transfer": 0.5,
+    "budget": 3,
+    "methods": {
+      "stop": {
+        "terminal_value": 7.75,
+        "probe_loss": 0.0,
+        "expected_probes": 0.0,
+        "selection_regret": 1.25,
+        "state_degradation": 0.0,
+        "posterior_entropy": 0.8112781244591328,
+        "net_value": 7.75
+      },
+      "uniform": {
+        "terminal_value": 7.9183310625,
+        "probe_loss": 1.095,
+        "expected_probes": 3.0,
+        "selection_regret": 0.6316689374999997,
+        "state_degradation": 0.45000000000000023,
+        "posterior_entropy": 0.4295926006472468,
+        "net_value": 6.8233310625
+      },
+      "stationary": {
+        "terminal_value": 8.06017175,
+        "probe_loss": 0.30359249999999993,
+        "expected_probes": 1.2872499999999998,
+        "selection_regret": 0.7165282499999989,
+        "state_degradation": 0.22330000000000017,
+        "posterior_entropy": 0.5819592075028183,
+        "net_value": 7.756579250000001
+      },
+      "one_step": {
+        "terminal_value": 7.75,
+        "probe_loss": 0.0,
+        "expected_probes": 0.0,
+        "selection_regret": 1.25,
+        "state_degradation": 0.0,
+        "posterior_entropy": 0.8112781244591328,
+        "net_value": 7.75
+      },
+      "bayes": {
+        "terminal_value": 8.048750000000002,
+        "probe_loss": 0.28724999999999995,
+        "expected_probes": 1.225,
+        "selection_regret": 0.7387499999999989,
+        "state_degradation": 0.21250000000000016,
+        "posterior_entropy": 0.5924714614344198,
+        "net_value": 7.761500000000002
+      }
+    }
+  },
+  {
+    "prior": 0.75,
+    "damage": 0.02,
+    "transfer": 1.0,
+    "budget": 1,
+    "methods": {
+      "stop": {
+        "terminal_value": 7.75,
+        "probe_loss": 0.0,
+        "expected_probes": 0.0,
+        "selection_regret": 1.25,
+        "state_degradation": 0.0,
+        "posterior_entropy": 0.8112781244591328,
+        "net_value": 7.75
+      },
+      "uniform": {
+        "terminal_value": 7.737500000000001,
+        "probe_loss": 0.35,
+        "expected_probes": 1.0,
+        "selection_regret": 1.0624999999999998,
+        "state_degradation": 0.20000000000000018,
+        "posterior_entropy": 0.6475568644531959,
+        "net_value": 7.387500000000001
+      },
+      "stationary": {
+        "terminal_value": 7.925000000000001,
+        "probe_loss": 0.22499999999999998,
+        "expected_probes": 1.0,
+        "selection_regret": 0.8749999999999996,
+        "state_degradation": 0.1999999999999993,
+        "posterior_entropy": 0.6365696392517473,
+        "net_value": 7.700000000000001
+      },
+      "one_step": {
+        "terminal_value": 7.75,
+        "probe_loss": 0.0,
+        "expected_probes": 0.0,
+        "selection_regret": 1.25,
+        "state_degradation": 0.0,
+        "posterior_entropy": 0.8112781244591328,
+        "net_value": 7.75
+      },
+      "bayes": {
+        "terminal_value": 7.75,
+        "probe_loss": 0.0,
+        "expected_probes": 0.0,
+        "selection_regret": 1.25,
+        "state_degradation": 0.0,
+        "posterior_entropy": 0.8112781244591328,
+        "net_value": 7.75
+      }
+    }
+  },
+  {
+    "prior": 0.75,
+    "damage": 0.02,
+    "transfer": 1.0,
+    "budget": 2,
+    "methods": {
+      "stop": {
+        "terminal_value": 7.75,
+        "probe_loss": 0.0,
+        "expected_probes": 0.0,
+        "selection_regret": 1.25,
+        "state_degradation": 0.0,
+        "posterior_entropy": 0.8112781244591328,
+        "net_value": 7.75
+      },
+      "uniform": {
+        "terminal_value": 7.818750000000001,
+        "probe_loss": 0.7200000000000001,
+        "expected_probes": 2.0,
+        "selection_regret": 0.7812499999999993,
+        "state_degradation": 0.40000000000000024,
+        "posterior_entropy": 0.5255022743740614,
+        "net_value": 7.098750000000002
+      },
+      "stationary": {
+        "terminal_value": 8.0225,
+        "probe_loss": 0.2895,
+        "expected_probes": 1.225,
+        "selection_regret": 0.7324999999999995,
+        "state_degradation": 0.24499999999999938,
+        "posterior_entropy": 0.5933422433459206,
+        "net_value": 7.7330000000000005
+      },
+      "one_step": {
+        "terminal_value": 7.75,
+        "probe_loss": 0.0,
+        "expected_probes": 0.0,
+        "selection_regret": 1.25,
+        "state_degradation": 0.0,
+        "posterior_entropy": 0.8112781244591328,
+        "net_value": 7.75
+      },
+      "bayes": {
+        "terminal_value": 7.75,
+        "probe_loss": 0.0,
+        "expected_probes": 0.0,
+        "selection_regret": 1.25,
+        "state_degradation": 0.0,
+        "posterior_entropy": 0.8112781244591328,
+        "net_value": 7.75
+      }
+    }
+  },
+  {
+    "prior": 0.75,
+    "damage": 0.02,
+    "transfer": 1.0,
+    "budget": 3,
+    "methods": {
+      "stop": {
+        "terminal_value": 7.75,
+        "probe_loss": 0.0,
+        "expected_probes": 0.0,
+        "selection_regret": 1.25,
+        "state_degradation": 0.0,
+        "posterior_entropy": 0.8112781244591328,
+        "net_value": 7.75
+      },
+      "uniform": {
+        "terminal_value": 7.760031250000001,
+        "probe_loss": 1.1099999999999999,
+        "expected_probes": 3.0,
+        "selection_regret": 0.6399687499999998,
+        "state_degradation": 0.5999999999999996,
+        "posterior_entropy": 0.43179375671999676,
+        "net_value": 6.650031250000001
+      },
+      "stationary": {
+        "terminal_value": 8.034650000000001,
+        "probe_loss": 0.30752999999999997,
+        "expected_probes": 1.2894999999999999,
+        "selection_regret": 0.7074499999999995,
+        "state_degradation": 0.25789999999999946,
+        "posterior_entropy": 0.582341995259231,
+        "net_value": 7.727120000000001
+      },
+      "one_step": {
+        "terminal_value": 7.75,
+        "probe_loss": 0.0,
+        "expected_probes": 0.0,
+        "selection_regret": 1.25,
+        "state_degradation": 0.0,
+        "posterior_entropy": 0.8112781244591328,
+        "net_value": 7.75
+      },
+      "bayes": {
+        "terminal_value": 7.75,
+        "probe_loss": 0.0,
+        "expected_probes": 0.0,
+        "selection_regret": 1.25,
+        "state_degradation": 0.0,
+        "posterior_entropy": 0.8112781244591328,
+        "net_value": 7.75
+      }
+    }
+  },
+  {
+    "prior": 0.75,
+    "damage": 0.08,
+    "transfer": 0.0,
+    "budget": 1,
+    "methods": {
+      "stop": {
+        "terminal_value": 7.75,
+        "probe_loss": 0.0,
+        "expected_probes": 0.0,
+        "selection_regret": 1.25,
+        "state_degradation": 0.0,
+        "posterior_entropy": 0.8112781244591328,
+        "net_value": 7.75
+      },
+      "uniform": {
+        "terminal_value": 7.6275,
+        "probe_loss": 0.35,
+        "expected_probes": 1.0,
+        "selection_regret": 0.9724999999999997,
+        "state_degradation": 0.40000000000000024,
+        "posterior_entropy": 0.6475568644531959,
+        "net_value": 7.277500000000001
+      },
+      "stationary": {
+        "terminal_value": 7.505000000000001,
+        "probe_loss": 0.22499999999999998,
+        "expected_probes": 1.0,
+        "selection_regret": 0.8949999999999998,
+        "state_degradation": 0.6000000000000002,
+        "posterior_entropy": 0.6365696392517473,
+        "net_value": 7.280000000000001
+      },
+      "one_step": {
+        "terminal_value": 7.75,
+        "probe_loss": 0.0,
+        "expected_probes": 0.0,
+        "selection_regret": 1.25,
+        "state_degradation": 0.0,
+        "posterior_entropy": 0.8112781244591328,
+        "net_value": 7.75
+      },
+      "bayes": {
+        "terminal_value": 7.75,
+        "probe_loss": 0.0,
+        "expected_probes": 0.0,
+        "selection_regret": 1.25,
+        "state_degradation": 0.0,
+        "posterior_entropy": 0.8112781244591328,
+        "net_value": 7.75
+      }
+    }
+  },
+  {
+    "prior": 0.75,
+    "damage": 0.08,
+    "transfer": 0.0,
+    "budget": 2,
+    "methods": {
+      "stop": {
+        "terminal_value": 7.75,
+        "probe_loss": 0.0,
+        "expected_probes": 0.0,
+        "selection_regret": 1.25,
+        "state_degradation": 0.0,
+        "posterior_entropy": 0.8112781244591328,
+        "net_value": 7.75
+      },
+      "uniform": {
+        "terminal_value": 7.405175,
+        "probe_loss": 0.74,
+        "expected_probes": 2.0,
+        "selection_regret": 0.7948250000000006,
+        "state_degradation": 0.7999999999999994,
+        "posterior_entropy": 0.5276667478347582,
+        "net_value": 6.665175
+      },
+      "stationary": {
+        "terminal_value": 7.4750000000000005,
+        "probe_loss": 0.285,
+        "expected_probes": 1.225,
+        "selection_regret": 0.8049999999999997,
+        "state_degradation": 0.7200000000000001,
+        "posterior_entropy": 0.5914961059374768,
+        "net_value": 7.19
+      },
+      "one_step": {
+        "terminal_value": 7.75,
+        "probe_loss": 0.0,
+        "expected_probes": 0.0,
+        "selection_regret": 1.25,
+        "state_degradation": 0.0,
+        "posterior_entropy": 0.8112781244591328,
+        "net_value": 7.75
+      },
+      "bayes": {
+        "terminal_value": 7.75,
+        "probe_loss": 0.0,
+        "expected_probes": 0.0,
+        "selection_regret": 1.25,
+        "state_degradation": 0.0,
+        "posterior_entropy": 0.8112781244591328,
+        "net_value": 7.75
+      }
+    }
+  },
+  {
+    "prior": 0.75,
+    "damage": 0.08,
+    "transfer": 0.0,
+    "budget": 3,
+    "methods": {
+      "stop": {
+        "terminal_value": 7.75,
+        "probe_loss": 0.0,
+        "expected_probes": 0.0,
+        "selection_regret": 1.25,
+        "state_degradation": 0.0,
+        "posterior_entropy": 0.8112781244591328,
+        "net_value": 7.75
+      },
+      "uniform": {
+        "terminal_value": 7.19494725,
+        "probe_loss": 1.17,
+        "expected_probes": 3.0,
+        "selection_regret": 0.6050527499999999,
+        "state_degradation": 1.1999999999999997,
+        "posterior_entropy": 0.43558256755994884,
+        "net_value": 6.02494725
+      },
+      "stationary": {
+        "terminal_value": 7.4750000000000005,
+        "probe_loss": 0.285,
+        "expected_probes": 1.225,
+        "selection_regret": 0.8049999999999997,
+        "state_degradation": 0.7200000000000001,
+        "posterior_entropy": 0.5914961059374768,
+        "net_value": 7.19
+      },
+      "one_step": {
+        "terminal_value": 7.75,
+        "probe_loss": 0.0,
+        "expected_probes": 0.0,
+        "selection_regret": 1.25,
+        "state_degradation": 0.0,
+        "posterior_entropy": 0.8112781244591328,
+        "net_value": 7.75
+      },
+      "bayes": {
+        "terminal_value": 7.75,
+        "probe_loss": 0.0,
+        "expected_probes": 0.0,
+        "selection_regret": 1.25,
+        "state_degradation": 0.0,
+        "posterior_entropy": 0.8112781244591328,
+        "net_value": 7.75
+      }
+    }
+  },
+  {
+    "prior": 0.75,
+    "damage": 0.08,
+    "transfer": 0.5,
+    "budget": 1,
+    "methods": {
+      "stop": {
+        "terminal_value": 7.75,
+        "probe_loss": 0.0,
+        "expected_probes": 0.0,
+        "selection_regret": 1.25,
+        "state_degradation": 0.0,
+        "posterior_entropy": 0.8112781244591328,
+        "net_value": 7.75
+      },
+      "uniform": {
+        "terminal_value": 7.3825,
+        "probe_loss": 0.35,
+        "expected_probes": 1.0,
+        "selection_regret": 1.0175000000000003,
+        "state_degradation": 0.5999999999999996,
+        "posterior_entropy": 0.6475568644531959,
+        "net_value": 7.032500000000001
+      },
+      "stationary": {
+        "terminal_value": 7.415,
+        "probe_loss": 0.22499999999999998,
+        "expected_probes": 1.0,
+        "selection_regret": 0.8850000000000002,
+        "state_degradation": 0.6999999999999997,
+        "posterior_entropy": 0.6365696392517473,
+        "net_value": 7.19
+      },
+      "one_step": {
+        "terminal_value": 7.75,
+        "probe_loss": 0.0,
+        "expected_probes": 0.0,
+        "selection_regret": 1.25,
+        "state_degradation": 0.0,
+        "posterior_entropy": 0.8112781244591328,
+        "net_value": 7.75
+      },
+      "bayes": {
+        "terminal_value": 7.75,
+        "probe_loss": 0.0,
+        "expected_probes": 0.0,
+        "selection_regret": 1.25,
+        "state_degradation": 0.0,
+        "posterior_entropy": 0.8112781244591328,
+        "net_value": 7.75
+      }
+    }
+  },
+  {
+    "prior": 0.75,
+    "damage": 0.08,
+    "transfer": 0.5,
+    "budget": 2,
+    "methods": {
+      "stop": {
+        "terminal_value": 7.75,
+        "probe_loss": 0.0,
+        "expected_probes": 0.0,
+        "selection_regret": 1.25,
+        "state_degradation": 0.0,
+        "posterior_entropy": 0.8112781244591328,
+        "net_value": 7.75
+      },
+      "uniform": {
+        "terminal_value": 6.9982750000000005,
+        "probe_loss": 0.7599999999999999,
+        "expected_probes": 2.0,
+        "selection_regret": 0.8017250000000002,
+        "state_degradation": 1.1999999999999993,
+        "posterior_entropy": 0.5316136279994628,
+        "net_value": 6.238275000000001
+      },
+      "stationary": {
+        "terminal_value": 7.370000000000001,
+        "probe_loss": 0.294,
+        "expected_probes": 1.225,
+        "selection_regret": 0.7800000000000005,
+        "state_degradation": 0.8499999999999995,
+        "posterior_entropy": 0.5948168658287085,
+        "net_value": 7.076000000000001
+      },
+      "one_step": {
+        "terminal_value": 7.75,
+        "probe_loss": 0.0,
+        "expected_probes": 0.0,
+        "selection_regret": 1.25,
+        "state_degradation": 0.0,
+        "posterior_entropy": 0.8112781244591328,
+        "net_value": 7.75
+      },
+      "bayes": {
+        "terminal_value": 7.75,
+        "probe_loss": 0.0,
+        "expected_probes": 0.0,
+        "selection_regret": 1.25,
+        "state_degradation": 0.0,
+        "posterior_entropy": 0.8112781244591328,
+        "net_value": 7.75
+      }
+    }
+  },
+  {
+    "prior": 0.75,
+    "damage": 0.08,
+    "transfer": 0.5,
+    "budget": 3,
+    "methods": {
+      "stop": {
+        "terminal_value": 7.75,
+        "probe_loss": 0.0,
+        "expected_probes": 0.0,
+        "selection_regret": 1.25,
+        "state_degradation": 0.0,
+        "posterior_entropy": 0.8112781244591328,
+        "net_value": 7.75
+      },
+      "uniform": {
+        "terminal_value": 6.54691575,
+        "probe_loss": 1.23,
+        "expected_probes": 3.0,
+        "selection_regret": 0.65308425,
+        "state_degradation": 1.8000000000000003,
+        "posterior_entropy": 0.4423809083469452,
+        "net_value": 5.31691575
+      },
+      "stationary": {
+        "terminal_value": 7.370000000000001,
+        "probe_loss": 0.294,
+        "expected_probes": 1.225,
+        "selection_regret": 0.7800000000000005,
+        "state_degradation": 0.8499999999999995,
+        "posterior_entropy": 0.5948168658287085,
+        "net_value": 7.076000000000001
+      },
+      "one_step": {
+        "terminal_value": 7.75,
+        "probe_loss": 0.0,
+        "expected_probes": 0.0,
+        "selection_regret": 1.25,
+        "state_degradation": 0.0,
+        "posterior_entropy": 0.8112781244591328,
+        "net_value": 7.75
+      },
+      "bayes": {
+        "terminal_value": 7.75,
+        "probe_loss": 0.0,
+        "expected_probes": 0.0,
+        "selection_regret": 1.25,
+        "state_degradation": 0.0,
+        "posterior_entropy": 0.8112781244591328,
+        "net_value": 7.75
+      }
+    }
+  },
+  {
+    "prior": 0.75,
+    "damage": 0.08,
+    "transfer": 1.0,
+    "budget": 1,
+    "methods": {
+      "stop": {
+        "terminal_value": 7.75,
+        "probe_loss": 0.0,
+        "expected_probes": 0.0,
+        "selection_regret": 1.25,
+        "state_degradation": 0.0,
+        "posterior_entropy": 0.8112781244591328,
+        "net_value": 7.75
+      },
+      "uniform": {
+        "terminal_value": 7.137500000000001,
+        "probe_loss": 0.35,
+        "expected_probes": 1.0,
+        "selection_regret": 1.0625000000000007,
+        "state_degradation": 0.7999999999999989,
+        "posterior_entropy": 0.6475568644531959,
+        "net_value": 6.787500000000001
+      },
+      "stationary": {
+        "terminal_value": 7.325,
+        "probe_loss": 0.22499999999999998,
+        "expected_probes": 1.0,
+        "selection_regret": 0.8750000000000011,
+        "state_degradation": 0.7999999999999989,
+        "posterior_entropy": 0.6365696392517473,
+        "net_value": 7.1000000000000005
+      },
+      "one_step": {
+        "terminal_value": 7.75,
+        "probe_loss": 0.0,
+        "expected_probes": 0.0,
+        "selection_regret": 1.25,
+        "state_degradation": 0.0,
+        "posterior_entropy": 0.8112781244591328,
+        "net_value": 7.75
+      },
+      "bayes": {
+        "terminal_value": 7.75,
+        "probe_loss": 0.0,
+        "expected_probes": 0.0,
+        "selection_regret": 1.25,
+        "state_degradation": 0.0,
+        "posterior_entropy": 0.8112781244591328,
+        "net_value": 7.75
+      }
+    }
+  },
+  {
+    "prior": 0.75,
+    "damage": 0.08,
+    "transfer": 1.0,
+    "budget": 2,
+    "methods": {
+      "stop": {
+        "terminal_value": 7.75,
+        "probe_loss": 0.0,
+        "expected_probes": 0.0,
+        "selection_regret": 1.25,
+        "state_degradation": 0.0,
+        "posterior_entropy": 0.8112781244591328,
+        "net_value": 7.75
+      },
+      "uniform": {
+        "terminal_value": 6.618749999999999,
+        "probe_loss": 0.78,
+        "expected_probes": 2.0,
+        "selection_regret": 0.7812500000000004,
+        "state_degradation": 1.5999999999999996,
+        "posterior_entropy": 0.5339653228562018,
+        "net_value": 5.838749999999998
+      },
+      "stationary": {
+        "terminal_value": 7.265000000000001,
+        "probe_loss": 0.303,
+        "expected_probes": 1.225,
+        "selection_regret": 0.755000000000001,
+        "state_degradation": 0.9799999999999991,
+        "posterior_entropy": 0.5969222451786937,
+        "net_value": 6.962000000000001
+      },
+      "one_step": {
+        "terminal_value": 7.75,
+        "probe_loss": 0.0,
+        "expected_probes": 0.0,
+        "selection_regret": 1.25,
+        "state_degradation": 0.0,
+        "posterior_entropy": 0.8112781244591328,
+        "net_value": 7.75
+      },
+      "bayes": {
+        "terminal_value": 7.75,
+        "probe_loss": 0.0,
+        "expected_probes": 0.0,
+        "selection_regret": 1.25,
+        "state_degradation": 0.0,
+        "posterior_entropy": 0.8112781244591328,
+        "net_value": 7.75
+      }
+    }
+  },
+  {
+    "prior": 0.75,
+    "damage": 0.08,
+    "transfer": 1.0,
+    "budget": 3,
+    "methods": {
+      "stop": {
+        "terminal_value": 7.75,
+        "probe_loss": 0.0,
+        "expected_probes": 0.0,
+        "selection_regret": 1.25,
+        "state_degradation": 0.0,
+        "posterior_entropy": 0.8112781244591328,
+        "net_value": 7.75
+      },
+      "uniform": {
+        "terminal_value": 5.92421875,
+        "probe_loss": 1.29,
+        "expected_probes": 3.0,
+        "selection_regret": 0.6757812500000001,
+        "state_degradation": 2.3999999999999995,
+        "posterior_entropy": 0.44503671823584917,
+        "net_value": 4.63421875
+      },
+      "stationary": {
+        "terminal_value": 7.2389,
+        "probe_loss": 0.33677999999999997,
+        "expected_probes": 1.303,
+        "selection_regret": 0.718700000000001,
+        "state_degradation": 1.042399999999999,
+        "posterior_entropy": 0.5835634068460198,
+        "net_value": 6.90212
+      },
+      "one_step": {
+        "terminal_value": 7.75,
+        "probe_loss": 0.0,
+        "expected_probes": 0.0,
+        "selection_regret": 1.25,
+        "state_degradation": 0.0,
+        "posterior_entropy": 0.8112781244591328,
+        "net_value": 7.75
+      },
+      "bayes": {
+        "terminal_value": 7.75,
+        "probe_loss": 0.0,
+        "expected_probes": 0.0,
+        "selection_regret": 1.25,
+        "state_degradation": 0.0,
+        "posterior_entropy": 0.8112781244591328,
+        "net_value": 7.75
+      }
+    }
+  },
+  {
+    "prior": 0.75,
+    "damage": 0.2,
+    "transfer": 0.0,
+    "budget": 1,
+    "methods": {
+      "stop": {
+        "terminal_value": 7.75,
+        "probe_loss": 0.0,
+        "expected_probes": 0.0,
+        "selection_regret": 1.25,
+        "state_degradation": 0.0,
+        "posterior_entropy": 0.8112781244591328,
+        "net_value": 7.75
+      },
+      "uniform": {
+        "terminal_value": 7.1625,
+        "probe_loss": 0.35,
+        "expected_probes": 1.0,
+        "selection_regret": 0.8374999999999999,
+        "state_degradation": 1.0000000000000004,
+        "posterior_entropy": 0.6475568644531959,
+        "net_value": 6.8125
+      },
+      "stationary": {
+        "terminal_value": 6.574999999999999,
+        "probe_loss": 0.22499999999999998,
+        "expected_probes": 1.0,
+        "selection_regret": 0.925,
+        "state_degradation": 1.5000000000000009,
+        "posterior_entropy": 0.6365696392517473,
+        "net_value": 6.35
+      },
+      "one_step": {
+        "terminal_value": 7.75,
+        "probe_loss": 0.0,
+        "expected_probes": 0.0,
+        "selection_regret": 1.25,
+        "state_degradation": 0.0,
+        "posterior_entropy": 0.8112781244591328,
+        "net_value": 7.75
+      },
+      "bayes": {
+        "terminal_value": 7.75,
+        "probe_loss": 0.0,
+        "expected_probes": 0.0,
+        "selection_regret": 1.25,
+        "state_degradation": 0.0,
+        "posterior_entropy": 0.8112781244591328,
+        "net_value": 7.75
+      }
+    }
+  },
+  {
+    "prior": 0.75,
+    "damage": 0.2,
+    "transfer": 0.0,
+    "budget": 2,
+    "methods": {
+      "stop": {
+        "terminal_value": 7.75,
+        "probe_loss": 0.0,
+        "expected_probes": 0.0,
+        "selection_regret": 1.25,
+        "state_degradation": 0.0,
+        "posterior_entropy": 0.8112781244591328,
+        "net_value": 7.75
+      },
+      "uniform": {
+        "terminal_value": 6.460625,
+        "probe_loss": 0.8000000000000002,
+        "expected_probes": 2.0,
+        "selection_regret": 0.5393750000000004,
+        "state_degradation": 1.9999999999999998,
+        "posterior_entropy": 0.5286241184864091,
+        "net_value": 5.6606250000000005
+      },
+      "stationary": {
+        "terminal_value": 6.574999999999999,
+        "probe_loss": 0.22499999999999998,
+        "expected_probes": 1.0,
+        "selection_regret": 0.925,
+        "state_degradation": 1.5000000000000009,
+        "posterior_entropy": 0.6365696392517473,
+        "net_value": 6.35
+      },
+      "one_step": {
+        "terminal_value": 7.75,
+        "probe_loss": 0.0,
+        "expected_probes": 0.0,
+        "selection_regret": 1.25,
+        "state_degradation": 0.0,
+        "posterior_entropy": 0.8112781244591328,
+        "net_value": 7.75
+      },
+      "bayes": {
+        "terminal_value": 7.75,
+        "probe_loss": 0.0,
+        "expected_probes": 0.0,
+        "selection_regret": 1.25,
+        "state_degradation": 0.0,
+        "posterior_entropy": 0.8112781244591328,
+        "net_value": 7.75
+      }
+    }
+  },
+  {
+    "prior": 0.75,
+    "damage": 0.2,
+    "transfer": 0.0,
+    "budget": 3,
+    "methods": {
+      "stop": {
+        "terminal_value": 7.75,
+        "probe_loss": 0.0,
+        "expected_probes": 0.0,
+        "selection_regret": 1.25,
+        "state_degradation": 0.0,
+        "posterior_entropy": 0.8112781244591328,
+        "net_value": 7.75
+      },
+      "uniform": {
+        "terminal_value": 5.712875,
+        "probe_loss": 1.35,
+        "expected_probes": 3.0,
+        "selection_regret": 0.4121250000000001,
+        "state_degradation": 2.875,
+        "posterior_entropy": 0.41894048321490757,
+        "net_value": 4.362875000000001
+      },
+      "stationary": {
+        "terminal_value": 6.574999999999999,
+        "probe_loss": 0.22499999999999998,
+        "expected_probes": 1.0,
+        "selection_regret": 0.925,
+        "state_degradation": 1.5000000000000009,
+        "posterior_entropy": 0.6365696392517473,
+        "net_value": 6.35
+      },
+      "one_step": {
+        "terminal_value": 7.75,
+        "probe_loss": 0.0,
+        "expected_probes": 0.0,
+        "selection_regret": 1.25,
+        "state_degradation": 0.0,
+        "posterior_entropy": 0.8112781244591328,
+        "net_value": 7.75
+      },
+      "bayes": {
+        "terminal_value": 7.75,
+        "probe_loss": 0.0,
+        "expected_probes": 0.0,
+        "selection_regret": 1.25,
+        "state_degradation": 0.0,
+        "posterior_entropy": 0.8112781244591328,
+        "net_value": 7.75
+      }
+    }
+  },
+  {
+    "prior": 0.75,
+    "damage": 0.2,
+    "transfer": 0.5,
+    "budget": 1,
+    "methods": {
+      "stop": {
+        "terminal_value": 7.75,
+        "probe_loss": 0.0,
+        "expected_probes": 0.0,
+        "selection_regret": 1.25,
+        "state_degradation": 0.0,
+        "posterior_entropy": 0.8112781244591328,
+        "net_value": 7.75
+      },
+      "uniform": {
+        "terminal_value": 6.550000000000001,
+        "probe_loss": 0.35,
+        "expected_probes": 1.0,
+        "selection_regret": 0.95,
+        "state_degradation": 1.5,
+        "posterior_entropy": 0.6475568644531959,
+        "net_value": 6.200000000000001
+      },
+      "stationary": {
+        "terminal_value": 6.349999999999999,
+        "probe_loss": 0.22499999999999998,
+        "expected_probes": 1.0,
+        "selection_regret": 0.9000000000000008,
+        "state_degradation": 1.75,
+        "posterior_entropy": 0.6365696392517473,
+        "net_value": 6.124999999999999
+      },
+      "one_step": {
+        "terminal_value": 7.75,
+        "probe_loss": 0.0,
+        "expected_probes": 0.0,
+        "selection_regret": 1.25,
+        "state_degradation": 0.0,
+        "posterior_entropy": 0.8112781244591328,
+        "net_value": 7.75
+      },
+      "bayes": {
+        "terminal_value": 7.75,
+        "probe_loss": 0.0,
+        "expected_probes": 0.0,
+        "selection_regret": 1.25,
+        "state_degradation": 0.0,
+        "posterior_entropy": 0.8112781244591328,
+        "net_value": 7.75
+      }
+    }
+  },
+  {
+    "prior": 0.75,
+    "damage": 0.2,
+    "transfer": 0.5,
+    "budget": 2,
+    "methods": {
+      "stop": {
+        "terminal_value": 7.75,
+        "probe_loss": 0.0,
+        "expected_probes": 0.0,
+        "selection_regret": 1.25,
+        "state_degradation": 0.0,
+        "posterior_entropy": 0.8112781244591328,
+        "net_value": 7.75
+      },
+      "uniform": {
+        "terminal_value": 5.213125,
+        "probe_loss": 0.8499999999999999,
+        "expected_probes": 2.0,
+        "selection_regret": 0.786875,
+        "state_degradation": 3.0,
+        "posterior_entropy": 0.5356429699788395,
+        "net_value": 4.363125
+      },
+      "stationary": {
+        "terminal_value": 6.349999999999999,
+        "probe_loss": 0.22499999999999998,
+        "expected_probes": 1.0,
+        "selection_regret": 0.9000000000000008,
+        "state_degradation": 1.75,
+        "posterior_entropy": 0.6365696392517473,
+        "net_value": 6.124999999999999
+      },
+      "one_step": {
+        "terminal_value": 7.75,
+        "probe_loss": 0.0,
+        "expected_probes": 0.0,
+        "selection_regret": 1.25,
+        "state_degradation": 0.0,
+        "posterior_entropy": 0.8112781244591328,
+        "net_value": 7.75
+      },
+      "bayes": {
+        "terminal_value": 7.75,
+        "probe_loss": 0.0,
+        "expected_probes": 0.0,
+        "selection_regret": 1.25,
+        "state_degradation": 0.0,
+        "posterior_entropy": 0.8112781244591328,
+        "net_value": 7.75
+      }
+    }
+  },
+  {
+    "prior": 0.75,
+    "damage": 0.2,
+    "transfer": 0.5,
+    "budget": 3,
+    "methods": {
+      "stop": {
+        "terminal_value": 7.75,
+        "probe_loss": 0.0,
+        "expected_probes": 0.0,
+        "selection_regret": 1.25,
+        "state_degradation": 0.0,
+        "posterior_entropy": 0.8112781244591328,
+        "net_value": 7.75
+      },
+      "uniform": {
+        "terminal_value": 3.97640625,
+        "probe_loss": 1.5,
+        "expected_probes": 3.0,
+        "selection_regret": 0.52359375,
+        "state_degradation": 4.5,
+        "posterior_entropy": 0.42159358222575977,
+        "net_value": 2.47640625
+      },
+      "stationary": {
+        "terminal_value": 6.349999999999999,
+        "probe_loss": 0.22499999999999998,
+        "expected_probes": 1.0,
+        "selection_regret": 0.9000000000000008,
+        "state_degradation": 1.75,
+        "posterior_entropy": 0.6365696392517473,
+        "net_value": 6.124999999999999
+      },
+      "one_step": {
+        "terminal_value": 7.75,
+        "probe_loss": 0.0,
+        "expected_probes": 0.0,
+        "selection_regret": 1.25,
+        "state_degradation": 0.0,
+        "posterior_entropy": 0.8112781244591328,
+        "net_value": 7.75
+      },
+      "bayes": {
+        "terminal_value": 7.75,
+        "probe_loss": 0.0,
+        "expected_probes": 0.0,
+        "selection_regret": 1.25,
+        "state_degradation": 0.0,
+        "posterior_entropy": 0.8112781244591328,
+        "net_value": 7.75
+      }
+    }
+  },
+  {
+    "prior": 0.75,
+    "damage": 0.2,
+    "transfer": 1.0,
+    "budget": 1,
+    "methods": {
+      "stop": {
+        "terminal_value": 7.75,
+        "probe_loss": 0.0,
+        "expected_probes": 0.0,
+        "selection_regret": 1.25,
+        "state_degradation": 0.0,
+        "posterior_entropy": 0.8112781244591328,
+        "net_value": 7.75
+      },
+      "uniform": {
+        "terminal_value": 5.937499999999999,
+        "probe_loss": 0.35,
+        "expected_probes": 1.0,
+        "selection_regret": 1.0625000000000007,
+        "state_degradation": 2.0,
+        "posterior_entropy": 0.6475568644531959,
+        "net_value": 5.5874999999999995
+      },
+      "stationary": {
+        "terminal_value": 6.124999999999998,
+        "probe_loss": 0.22499999999999998,
+        "expected_probes": 1.0,
+        "selection_regret": 0.8750000000000011,
+        "state_degradation": 2.0,
+        "posterior_entropy": 0.6365696392517473,
+        "net_value": 5.899999999999999
+      },
+      "one_step": {
+        "terminal_value": 7.75,
+        "probe_loss": 0.0,
+        "expected_probes": 0.0,
+        "selection_regret": 1.25,
+        "state_degradation": 0.0,
+        "posterior_entropy": 0.8112781244591328,
+        "net_value": 7.75
+      },
+      "bayes": {
+        "terminal_value": 7.75,
+        "probe_loss": 0.0,
+        "expected_probes": 0.0,
+        "selection_regret": 1.25,
+        "state_degradation": 0.0,
+        "posterior_entropy": 0.8112781244591328,
+        "net_value": 7.75
+      }
+    }
+  },
+  {
+    "prior": 0.75,
+    "damage": 0.2,
+    "transfer": 1.0,
+    "budget": 2,
+    "methods": {
+      "stop": {
+        "terminal_value": 7.75,
+        "probe_loss": 0.0,
+        "expected_probes": 0.0,
+        "selection_regret": 1.25,
+        "state_degradation": 0.0,
+        "posterior_entropy": 0.8112781244591328,
+        "net_value": 7.75
+      },
+      "uniform": {
+        "terminal_value": 4.21875,
+        "probe_loss": 0.8999999999999999,
+        "expected_probes": 2.0,
+        "selection_regret": 0.78125,
+        "state_degradation": 4.0,
+        "posterior_entropy": 0.535479451471063,
+        "net_value": 3.31875
+      },
+      "stationary": {
+        "terminal_value": 6.124999999999998,
+        "probe_loss": 0.22499999999999998,
+        "expected_probes": 1.0,
+        "selection_regret": 0.8750000000000011,
+        "state_degradation": 2.0,
+        "posterior_entropy": 0.6365696392517473,
+        "net_value": 5.899999999999999
+      },
+      "one_step": {
+        "terminal_value": 7.75,
+        "probe_loss": 0.0,
+        "expected_probes": 0.0,
+        "selection_regret": 1.25,
+        "state_degradation": 0.0,
+        "posterior_entropy": 0.8112781244591328,
+        "net_value": 7.75
+      },
+      "bayes": {
+        "terminal_value": 7.75,
+        "probe_loss": 0.0,
+        "expected_probes": 0.0,
+        "selection_regret": 1.25,
+        "state_degradation": 0.0,
+        "posterior_entropy": 0.8112781244591328,
+        "net_value": 7.75
+      }
+    }
+  },
+  {
+    "prior": 0.75,
+    "damage": 0.2,
+    "transfer": 1.0,
+    "budget": 3,
+    "methods": {
+      "stop": {
+        "terminal_value": 7.75,
+        "probe_loss": 0.0,
+        "expected_probes": 0.0,
+        "selection_regret": 1.25,
+        "state_degradation": 0.0,
+        "posterior_entropy": 0.8112781244591328,
+        "net_value": 7.75
+      },
+      "uniform": {
+        "terminal_value": 2.65640625,
+        "probe_loss": 1.65,
+        "expected_probes": 3.0,
+        "selection_regret": 0.3435937499999997,
+        "state_degradation": 6.000000000000002,
+        "posterior_entropy": 0.37291082522583496,
+        "net_value": 1.00640625
+      },
+      "stationary": {
+        "terminal_value": 5.697499999999999,
+        "probe_loss": 0.4124999999999999,
+        "expected_probes": 1.33,
+        "selection_regret": 0.642500000000001,
+        "state_degradation": 2.66,
+        "posterior_entropy": 0.5649222620447896,
+        "net_value": 5.284999999999999
+      },
+      "one_step": {
+        "terminal_value": 7.75,
+        "probe_loss": 0.0,
+        "expected_probes": 0.0,
+        "selection_regret": 1.25,
+        "state_degradation": 0.0,
+        "posterior_entropy": 0.8112781244591328,
+        "net_value": 7.75
+      },
+      "bayes": {
+        "terminal_value": 7.75,
+        "probe_loss": 0.0,
+        "expected_probes": 0.0,
+        "selection_regret": 1.25,
+        "state_degradation": 0.0,
+        "posterior_entropy": 0.8112781244591328,
+        "net_value": 7.75
+      }
+    }
+  }
+]

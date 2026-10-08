@@ -1,0 +1,8 @@
+{
+  "independent_optima_verified": 108,
+  "policy_vectors_enumerated": 981864,
+  "loss_decompositions": 540,
+  "raw_hashes_verified": 2,
+  "frozen_source_hashes_verified": 2,
+  "interpretation": "Correct implementation of established finite Bayesian planning, not an original algorithm"
+}

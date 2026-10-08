@@ -1,5 +1,15 @@
 # Active research handoff
 
+## Latest phase, October 7: active evidence collection
+
+Read protocol/active-evidence-research-decision.md first. The generic information-versus-conditioning planner is established dual control, not a new method. Completed 108 exact constructed cases (540 method cases), independently enumerating 981,864 type-conditioned policy vectors to verify all 108 optima. Completed 864 native Cyberwheel worlds, 230,400 steps, zero failures, across reset/count/decaying-count memory. All 24 retained-memory prefix-vs-none means were negative; order differences were uncertain. Reset controls matched in 192 full suffix trace comparisons. Development evidence only; no held-out novelty claim.
+
+Frozen commits: 70484f7 (exact screen) and 78c46ab (native order screen). Do not edit frozen runners or protocols. Results and independent checks are in analysis/active-evidence-* and analysis/carryover-order-*. Preserve the prior manuscript/package.
+
+Acquired google-deepmind/active_ops at 5c7b24515adadbaf89feb84232190bad96221c04 under ignored data/source-cache. Source/data hashes and attribution: data/aops-source-audit.json. Restricted numeric unpickler audited 76 policies, 380,000 rewards, and 1,000 states of actions. All 1,520 reference sampling checks matched. This is not A-OPS algorithm reproduction. Next: isolate its older TensorFlow dependencies, freeze a reference execution protocol, explicitly seed Python and NumPy (upstream seeds only NumPy), and reproduce the baseline before adapting anything. A reduced pilot must not be described as full Figure 14 reproduction. Do not change the main simulator environment. Require a mathematical distinction from robust/dual-control planning before inventing an acquisition method or launching an HPC sweep.
+
+## Earlier manuscript phase
+
 Active project: adaptive deception policy evaluation. Author: Ezekiel Ologunde, Independent Researcher, Boston, MA, USA; ologunde@bu.edu. No corresponding-author designation. Original work remains unlicensed.
 
 User authorized proceeding with the recommended next direction. The prior autonomous-pentest-authorization study is complete as a bounded replication and remains separate. Do not manufacture novelty by renaming an established method or adding arbitrary datasets.

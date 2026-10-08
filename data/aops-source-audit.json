@@ -1,0 +1,47 @@
+{
+  "source_url": "https://github.com/google-deepmind/active_ops",
+  "revision": "5c7b24515adadbaf89feb84232190bad96221c04",
+  "code_license": "Apache-2.0",
+  "data_license": "CC-BY-4.0 per upstream README",
+  "attribution": "Konyushkova et al., Active Offline Policy Selection, NeurIPS 2021; DeepMind",
+  "tracked_file_sha256": {
+    "Active_ops_experiment.ipynb": "e41513d7a55cd4ebb19c86a4e14b5ff843efc77f6afe1ac674ca38ab5c3a9d7b",
+    "CONTRIBUTING.md": "344e9a0ea5963b1549a62039e0353259bdb820b18934743a8dddf4a20b51edb0",
+    "LICENSE": "3ddf9be5c28fe27dad143a5dc76eea25222ad1dd68934a047064e56ed2fa40c5",
+    "README.md": "5219b0bd53264bcd84b146c1f064829d96bd64accc529c8a196381cd2d19a088",
+    "agents.py": "d0299bb1e366274db174f194070b27b8ff9711f36a1503b43a047d01b8c7a162",
+    "arm_model.py": "1be2f251f6ef699499ecc81477e2878857e6d845eb693be8271af3887b8836f6",
+    "bandit.py": "5489923dac7473865f8c6432b84c81081fb47ce2453e38fe759e1903a364e884",
+    "data/actions.pkl": "7a9bb7de21486a0a4f4d02d06db4789975ff151a63271f7d307470e659500e38",
+    "data/full_reward_samples.pkl": "7ec2962ef7caff7c358a50fa9b36bb8d3cd2319df2cfcb05411a2105677a10f3",
+    "data/ope_values.pkl": "80ebdffe9bd1423f26dd3450ae2003df4912323198b499435271af20b4fb6b66",
+    "gp_models.py": "11d84c5e1b5ee1b2ea3a7235a8b76166aca4edd331cc4175d8e46b688a1afda7",
+    "kernel.py": "962b6aefb200afd243f89fa3be2f7fe84a9668cb870fe3c6dd4f11f63611e5bb",
+    "multiarm_model.py": "567834eb0a297a98d5d661c49ae454ce7bb0924205082f355a7d0fcd8c82c97e",
+    "requirements.txt": "4a902ad05e7f6a47d31d4185b55fa5afe6fff45c80d87fa4c8461b34df53f876"
+  },
+  "pickle_globals": {
+    "actions": [
+      "numpy dtype",
+      "numpy ndarray",
+      "numpy.core.multiarray _reconstruct"
+    ],
+    "full_reward_samples": [
+      "numpy dtype",
+      "numpy ndarray",
+      "numpy.core.multiarray _reconstruct"
+    ],
+    "ope_values": []
+  },
+  "policies": 76,
+  "reward_samples_per_policy": 5000,
+  "reward_samples_total": 380000,
+  "action_shape": [
+    1000,
+    76,
+    1
+  ],
+  "matched_reference_pulls": 1520,
+  "status": "Data and bandit interface verified; GP fitting and A-OPS algorithm not yet reproduced",
+  "scope": "Cartpole public reference data, not cybersecurity or adaptive-attacker observations"
+}

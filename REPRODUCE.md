@@ -1,5 +1,27 @@
 # Reproduce the adaptive-memory study
 
+## Active-evidence development phase
+
+Verify the new saved results without recollecting or overwriting frozen data:
+
+```powershell
+.venv/Scripts/python.exe src/verify_active_evidence.py
+.venv/Scripts/python.exe src/analyze_carryover_order.py
+.venv/Scripts/python.exe src/report_carryover_order.py
+```
+
+The exact screen runner is src/active_evidence_screen.py; the native runner is src/carryover_order.py. Each intentionally refuses to overwrite its output directory. Recollection must use a separate checkout without the archived output directory, while preserving the published evidence. Frozen revisions and file hashes are recorded in each output's freeze.json. The two studies are development diagnostics, not held-out validation of a proposed new algorithm.
+
+Acquire and audit the public reference dataset separately:
+
+```powershell
+git clone https://github.com/google-deepmind/active_ops.git data/source-cache/active_ops
+git -C data/source-cache/active_ops checkout --detach 5c7b24515adadbaf89feb84232190bad96221c04
+.venv/Scripts/python.exe src/audit_aops_data.py
+```
+
+The audit uses the existing NumPy environment and does not execute the upstream notebook or GP optimizer. Data are attributed to Konyushkova et al., Active Offline Policy Selection, NeurIPS 2021, DeepMind, under CC BY 4.0 as stated upstream; code is Apache-2.0. Third-party data/source are acquired from upstream and not vendored here. No full A-OPS algorithm or published figure reproduction is claimed.
+
 Use Python 3.10.20. The verified environment is Windows with CPU PyTorch. Other platforms have not been execution-tested. Original project material remains unlicensed; third-party terms are separate.
 
 ## Acquire upstream source

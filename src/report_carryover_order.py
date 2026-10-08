@@ -1,0 +1,14 @@
+"""Generate the full native diagnostic report without selectively omitting cells."""
+from pathlib import Path
+import json
+ROOT=Path(__file__).resolve().parents[1]
+s=json.loads((ROOT/'analysis/carryover-order-summary.json').read_text())
+lines=['# Native carryover screening results','','Development population only: 864 worlds, 230,400 audited simulator steps, no failures. All 192 reset-memory suffix trajectory controls matched exactly. No pooled analysis with earlier validation.','','Each contrast uses 16 paired worlds. Values are impact-avoidance fractions; negative values favor the second prefix. DDUU and UUDD contain the same two DMZ and two user-subnet deployment encounters. None means no prior testing. Each evaluation suffix uses four encounters.','','| Hosts | Memory | Suffix policy | Prefix comparison | Mean difference | Paired SE |','|---|---|---|---|---:|---:|']
+for r in s['contrasts']:
+    lines.append(f"| {r['network'][:2]} | {r['law']} | {r['policy']} | {r['a']} minus {r['b']} | {r['mean']:.5f} | {r['paired_se']:.5f} |")
+retained=[r for r in s['contrasts'] if r['law']!='reset' and r['b']=='none']
+order=[r for r in s['contrasts'] if r['law']!='reset' and r['b']=='UUDD']
+assert len(retained)==24 and len(order)==12
+lines+=['',f"All {len(retained)} retained-memory exposure-versus-none means are negative, ranging from {min(r['mean'] for r in retained):.5f} to {max(r['mean'] for r in retained):.5f}. These related settings share seeds and mechanisms; they are not 24 independent replications. No multiplicity-adjusted discovery claim is made.",'','The order effects are smaller and uncertain. Every displayed retained-memory order contrast has magnitude less than twice its paired SE. This is a descriptive scale check, not an equivalence test or proof of no effect. The current study does not justify recommending one prefix ordering.','','The no-prefix comparison skips four experimental encounters. It isolates a simulator conditioning effect on later encounters using matched suffix randomness; it is not evidence that collecting zero data always maximizes total deployment utility. Prefix harm is retained separately in the JSON summary, and no arbitrary information-versus-harm utility was optimized here.','','Novelty gate: practical carryover is present in this wrapper, but carryover itself and Bayesian control are established. Do not write another manuscript claiming a new memory-aware planner. A substantive next result must address acquisition decisions with unknown, partially observed conditioning and outperform or complement a matched state-aware baseline. This report documents premise testing, not novelty clearance.']
+(ROOT/'analysis/carryover-order-report.md').write_text('\n'.join(lines)+'\n')
+print('Wrote all 54 paired contrasts and explicit uncertainty limits.')

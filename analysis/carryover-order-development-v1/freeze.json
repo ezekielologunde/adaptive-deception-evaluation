@@ -1,0 +1,41 @@
+{
+  "revision": "78c46abceed17de783ef68ce4b089c9515eabe8c",
+  "upstream": "6e535b50eea991ed48bb9eeb46b4b267090cc897",
+  "files": {
+    "src/carryover_order.py": "7927e68ee55c684a2dad45f01ca99136f1ff943600a5a044a7e7a82468e45b3b",
+    "src/simulator_smoke.py": "c4ca983378623794f3e4620b8c4f00f735ad2d6f9afc0471067fbc1fa48e258f",
+    "protocol/carryover-order-development-v1.md": "66cccc0a7fa657b7ac764db9baf3422078108a6e152d4a72af5d0b447c3e2f10"
+  },
+  "policies": {
+    "dmz": [
+      0.6,
+      0.2,
+      0.2
+    ],
+    "server": [
+      0.2,
+      0.6,
+      0.2
+    ],
+    "user": [
+      0.2,
+      0.2,
+      0.6
+    ]
+  },
+  "prefixes": {
+    "DDUU": [
+      0,
+      0,
+      2,
+      2
+    ],
+    "UUDD": [
+      2,
+      2,
+      0,
+      0
+    ],
+    "none": []
+  }
+}
