@@ -1,6 +1,10 @@
 # Adaptive deception and policy evaluation
 
-**Status: Feasibility investigation.** The active direction is offline selection of deception policies under persistent attacker adaptation. See [the decision and literature review](protocol/decision-2026-10-07.md) and [development protocol](protocol/pilot-v0.md). No validated novelty, simulator result or final paper is asserted.
+**Status: completed bounded simulator study and full research draft.** A frozen validation collected 1,024 worlds, 8,192 encounters, and 327,680 steps with no failed worlds. The highest online policy mean changed from DMZ-favoring placement under reset memory to user-subnet-favoring placement under retained memory in both supplied networks. The predeclared offline evidence rule abstained in all four settings. This is an empirical evaluation artifact, not a new estimator or a production defense claim.
+
+Read the [manuscript source](paper/main.tex), [numerical results](analysis/validation-summary.json), [fixed protocol](protocol/validation-v1.md), [verification](analysis/verification.json), and [reproduction instructions](REPRODUCE.md). The [delivery folder](deliverables/) holds the ACM PDF, TeX, and Overleaf ZIP. Full generated traces are in analysis/validation-v1; the smaller development population remains separate.
+
+The [updated overlap review](protocol/literature-followup.md) explains the contribution boundary and unresolved journal-readiness gaps. No exclusive novelty, peer review, acceptance, or journal submission is asserted. Independent review, additional attacker families, and repeated logging populations remain important before claiming a general benchmark contribution.
 
 [Research protocol and prior-art leads](protocol/research-plan.md). This plan comes from the October 4, 2026 independent research portfolio. Its literature assessment must be refreshed before implementation and submission.
 

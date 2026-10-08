@@ -1,0 +1,7 @@
+{
+  "review_type": "Manual visual inspection by the research agent of rendered final PDF pages, separate from automated checks",
+  "pdf_sha256": "189c563dc0b094fc8f44380547624b5447232df650d5657b58f28a0f4c9d7f87",
+  "pages": [1, 2, 3, 4, 5],
+  "plot_and_table_zoom_page": 4,
+  "findings": "No clipping, title/legend overlap, broken equations, or text collisions in final rendered pages. The initial legend overlap was corrected before this review. Minor final-column balance warning has no visible clipping."
+}

@@ -1,0 +1,9 @@
+{
+  "command": ".venv/Scripts/python.exe src/memory_study.py --output analysis/validation-v1 --worlds 64",
+  "attempts": 1024,
+  "failures": [],
+  "seconds": 209.23507630001404,
+  "exit_code": 0,
+  "provenance": "Transcribed from the collector's captured terminal completion output; raw outputs and freeze are sealed separately.",
+  "execution": "four local CPU processes, in-process simulator only"
+}

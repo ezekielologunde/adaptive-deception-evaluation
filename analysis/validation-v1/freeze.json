@@ -1,0 +1,31 @@
+{
+  "status": "fixed validation after disclosed development pilot",
+  "worlds_per_cell": 64,
+  "code_revision": "ec28606e2f965cc316c6a1f703fa45799a84167a",
+  "upstream_revision": "6e535b50eea991ed48bb9eeb46b4b267090cc897",
+  "policies": {
+    "logging": [
+      0.3333333333333333,
+      0.3333333333333333,
+      0.3333333333333333
+    ],
+    "dmz": [
+      0.6,
+      0.2,
+      0.2
+    ],
+    "server": [
+      0.2,
+      0.6,
+      0.2
+    ],
+    "user": [
+      0.2,
+      0.2,
+      0.6
+    ]
+  },
+  "source_sha256": "2608477dd36cf5916344f024c9fe474f1b9a635eb47912a28357607bbc5aab1c",
+  "protocol_sha256": "ce1b3b587c2ba5718fb126cf9a825c0e5fb2abe2c8ed4642f566ebf9dcc82915",
+  "smoke_source_sha256": "c4ca983378623794f3e4620b8c4f00f735ad2d6f9afc0471067fbc1fa48e258f"
+}

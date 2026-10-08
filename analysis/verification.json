@@ -1,0 +1,12 @@
+{
+  "mutations_detected": [
+    "propensity",
+    "impact",
+    "memory",
+    "target",
+    "reward"
+  ],
+  "scalar_estimates_replicated": 24,
+  "paired_identity_controls": 64,
+  "validation_steps": 327680
+}

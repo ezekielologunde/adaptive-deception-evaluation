@@ -1,0 +1,477 @@
+{
+  "worlds": 1024,
+  "encounters": 8192,
+  "steps": 327680,
+  "files_verified": 1025,
+  "failures": [],
+  "rows": [
+    {
+      "network": "15-host-network.yaml",
+      "persistent": false,
+      "policy": "dmz",
+      "online_mean": 0.66015625,
+      "online_se": 0.013290000618640031,
+      "prefix_is": 0.7486220430000002,
+      "prefix_snis": 0.6452801032857319,
+      "history_discarding": 0.7019531250000001,
+      "ess": [
+        49.47058823529409,
+        37.920168067226896,
+        29.111691022964514,
+        30.68722271517311,
+        22.029178470254944,
+        15.680380846479974,
+        18.35455790855641,
+        16.76906464322194
+      ],
+      "bootstrap_interval": [
+        0.6161043522020581,
+        0.6751841146223456
+      ]
+    },
+    {
+      "network": "15-host-network.yaml",
+      "persistent": false,
+      "policy": "server",
+      "online_mean": 0.584765625,
+      "online_se": 0.012825827702093914,
+      "prefix_is": 0.5392414110000002,
+      "prefix_snis": 0.6009479552254361,
+      "history_discarding": 0.5721093750000001,
+      "ess": [
+        48.43103448275865,
+        33.749999999999986,
+        21.61627906976747,
+        18.036269430051856,
+        18.217472118959126,
+        12.196836890243919,
+        6.781245333731513,
+        9.067081459792947
+      ],
+      "bootstrap_interval": [
+        0.5751190660649339,
+        0.6253417578928435
+      ]
+    },
+    {
+      "network": "15-host-network.yaml",
+      "persistent": false,
+      "policy": "user",
+      "online_mean": 0.555859375,
+      "online_se": 0.016467769555127486,
+      "prefix_is": 0.5151769830000001,
+      "prefix_snis": 0.5854817616195087,
+      "history_discarding": 0.5716406250000001,
+      "ess": [
+        48.02000000000006,
+        38.70224719101122,
+        33.06250000000005,
+        31.680800000000108,
+        21.22430939226519,
+        15.481281774765083,
+        19.966287507354348,
+        22.17907952685097
+      ],
+      "bootstrap_interval": [
+        0.5416000887529482,
+        0.641287354489122
+      ]
+    },
+    {
+      "network": "15-host-network.yaml",
+      "persistent": true,
+      "policy": "dmz",
+      "online_mean": 0.37109375,
+      "online_se": 0.014230627997017003,
+      "prefix_is": 0.4503525390000001,
+      "prefix_snis": 0.39724230891677986,
+      "history_discarding": 0.41976562500000003,
+      "ess": [
+        49.47058823529409,
+        37.920168067226896,
+        29.111691022964514,
+        30.68722271517311,
+        22.029178470254944,
+        15.680380846479974,
+        18.35455790855641,
+        16.76906464322194
+      ],
+      "bootstrap_interval": [
+        0.3505457421652743,
+        0.447116120493085
+      ]
+    },
+    {
+      "network": "15-host-network.yaml",
+      "persistent": true,
+      "policy": "server",
+      "online_mean": 0.361328125,
+      "online_se": 0.012573317811044538,
+      "prefix_is": 0.3243756630000001,
+      "prefix_snis": 0.3509546867216401,
+      "history_discarding": 0.35132812500000005,
+      "ess": [
+        48.43103448275865,
+        33.749999999999986,
+        21.61627906976747,
+        18.036269430051856,
+        18.217472118959126,
+        12.196836890243919,
+        6.781245333731513,
+        9.067081459792947
+      ],
+      "bootstrap_interval": [
+        0.29908552351892526,
+        0.4117648881538663
+      ]
+    },
+    {
+      "network": "15-host-network.yaml",
+      "persistent": true,
+      "policy": "user",
+      "online_mean": 0.44296875,
+      "online_se": 0.01683756088990416,
+      "prefix_is": 0.3621281310000001,
+      "prefix_snis": 0.4060093071366373,
+      "history_discarding": 0.40898437500000007,
+      "ess": [
+        48.02000000000006,
+        38.70224719101122,
+        33.06250000000005,
+        31.680800000000108,
+        21.22430939226519,
+        15.481281774765083,
+        19.966287507354348,
+        22.17907952685097
+      ],
+      "bootstrap_interval": [
+        0.34079919814509135,
+        0.47418273471120753
+      ]
+    },
+    {
+      "network": "25-host-network.yaml",
+      "persistent": false,
+      "policy": "dmz",
+      "online_mean": 0.8619140624999999,
+      "online_se": 0.006471938000635124,
+      "prefix_is": 1.0092598275000002,
+      "prefix_snis": 0.8725578242011984,
+      "history_discarding": 0.9033984375000002,
+      "ess": [
+        49.47058823529409,
+        37.920168067226896,
+        29.111691022964514,
+        30.68722271517311,
+        22.029178470254944,
+        15.680380846479974,
+        18.35455790855641,
+        16.76906464322194
+      ],
+      "bootstrap_interval": [
+        0.8516180659881651,
+        0.8925252296072497
+      ]
+    },
+    {
+      "network": "25-host-network.yaml",
+      "persistent": false,
+      "policy": "server",
+      "online_mean": 0.8357421875,
+      "online_se": 0.005852084998765423,
+      "prefix_is": 0.7376816715000002,
+      "prefix_snis": 0.8171798172767253,
+      "history_discarding": 0.8058984375,
+      "ess": [
+        48.43103448275865,
+        33.749999999999986,
+        21.61627906976747,
+        18.036269430051856,
+        18.217472118959126,
+        12.196836890243919,
+        6.781245333731513,
+        9.067081459792947
+      ],
+      "bootstrap_interval": [
+        0.7972251072471637,
+        0.8430553647160326
+      ]
+    },
+    {
+      "network": "25-host-network.yaml",
+      "persistent": false,
+      "policy": "user",
+      "online_mean": 0.8244140625,
+      "online_se": 0.006519664191245181,
+      "prefix_is": 0.7490635545000004,
+      "prefix_snis": 0.848617996443616,
+      "history_discarding": 0.8366015625000002,
+      "ess": [
+        48.02000000000006,
+        38.70224719101122,
+        33.06250000000005,
+        31.680800000000108,
+        21.22430939226519,
+        15.481281774765083,
+        19.966287507354348,
+        22.17907952685097
+      ],
+      "bootstrap_interval": [
+        0.8316405860262113,
+        0.863901130908257
+      ]
+    },
+    {
+      "network": "25-host-network.yaml",
+      "persistent": true,
+      "policy": "dmz",
+      "online_mean": 0.719921875,
+      "online_se": 0.010288341825754114,
+      "prefix_is": 0.8860997685000004,
+      "prefix_snis": 0.7687078668693486,
+      "history_discarding": 0.7991015625000001,
+      "ess": [
+        49.47058823529409,
+        37.920168067226896,
+        29.111691022964514,
+        30.68722271517311,
+        22.029178470254944,
+        15.680380846479974,
+        18.35455790855641,
+        16.76906464322194
+      ],
+      "bootstrap_interval": [
+        0.7432370283753142,
+        0.7944138433485655
+      ]
+    },
+    {
+      "network": "25-host-network.yaml",
+      "persistent": true,
+      "policy": "server",
+      "online_mean": 0.7373046875,
+      "online_se": 0.009585485118075492,
+      "prefix_is": 0.6677099115000003,
+      "prefix_snis": 0.7373808368868351,
+      "history_discarding": 0.7135546875000001,
+      "ess": [
+        48.43103448275865,
+        33.749999999999986,
+        21.61627906976747,
+        18.036269430051856,
+        18.217472118959126,
+        12.196836890243919,
+        6.781245333731513,
+        9.067081459792947
+      ],
+      "bootstrap_interval": [
+        0.7167695675716353,
+        0.7568771238229212
+      ]
+    },
+    {
+      "network": "25-host-network.yaml",
+      "persistent": true,
+      "policy": "user",
+      "online_mean": 0.7658203125,
+      "online_se": 0.010631133658995828,
+      "prefix_is": 0.6963078225000003,
+      "prefix_snis": 0.7858840937239349,
+      "history_discarding": 0.7648828125,
+      "ess": [
+        48.02000000000006,
+        38.70224719101122,
+        33.06250000000005,
+        31.680800000000108,
+        21.22430939226519,
+        15.481281774765083,
+        19.966287507354348,
+        22.17907952685097
+      ],
+      "bootstrap_interval": [
+        0.7551012527331031,
+        0.8109154579896477
+      ]
+    }
+  ],
+  "decisions": [
+    {
+      "network": "15-host-network.yaml",
+      "persistent": false,
+      "bootstrap_winner_frequencies": {
+        "dmz": 0.974,
+        "server": 0.004,
+        "user": 0.022
+      },
+      "offline_ranking": [
+        "dmz",
+        "server",
+        "user"
+      ],
+      "selection": "abstain",
+      "online_ranking": [
+        "dmz",
+        "server",
+        "user"
+      ]
+    },
+    {
+      "network": "15-host-network.yaml",
+      "persistent": true,
+      "bootstrap_winner_frequencies": {
+        "dmz": 0.394,
+        "server": 0.054,
+        "user": 0.552
+      },
+      "offline_ranking": [
+        "user",
+        "dmz",
+        "server"
+      ],
+      "selection": "abstain",
+      "online_ranking": [
+        "user",
+        "dmz",
+        "server"
+      ]
+    },
+    {
+      "network": "25-host-network.yaml",
+      "persistent": false,
+      "bootstrap_winner_frequencies": {
+        "dmz": 0.976,
+        "server": 0.0,
+        "user": 0.024
+      },
+      "offline_ranking": [
+        "dmz",
+        "user",
+        "server"
+      ],
+      "selection": "abstain",
+      "online_ranking": [
+        "dmz",
+        "server",
+        "user"
+      ]
+    },
+    {
+      "network": "25-host-network.yaml",
+      "persistent": true,
+      "bootstrap_winner_frequencies": {
+        "dmz": 0.156,
+        "server": 0.0,
+        "user": 0.844
+      },
+      "offline_ranking": [
+        "user",
+        "dmz",
+        "server"
+      ],
+      "selection": "abstain",
+      "online_ranking": [
+        "user",
+        "server",
+        "dmz"
+      ]
+    }
+  ],
+  "paired_contrasts": [
+    {
+      "network": "15-host-network.yaml",
+      "persistent": false,
+      "a": "dmz",
+      "b": "server",
+      "mean": 0.075390625,
+      "se": 0.010717272468331965
+    },
+    {
+      "network": "15-host-network.yaml",
+      "persistent": false,
+      "a": "dmz",
+      "b": "user",
+      "mean": 0.104296875,
+      "se": 0.013903752200101075
+    },
+    {
+      "network": "15-host-network.yaml",
+      "persistent": false,
+      "a": "server",
+      "b": "user",
+      "mean": 0.02890625000000001,
+      "se": 0.008355972781549259
+    },
+    {
+      "network": "15-host-network.yaml",
+      "persistent": true,
+      "a": "dmz",
+      "b": "server",
+      "mean": 0.009765624999999995,
+      "se": 0.01129643727609234
+    },
+    {
+      "network": "15-host-network.yaml",
+      "persistent": true,
+      "a": "dmz",
+      "b": "user",
+      "mean": -0.071875,
+      "se": 0.016966243621351417
+    },
+    {
+      "network": "15-host-network.yaml",
+      "persistent": true,
+      "a": "server",
+      "b": "user",
+      "mean": -0.081640625,
+      "se": 0.015087400253932784
+    },
+    {
+      "network": "25-host-network.yaml",
+      "persistent": false,
+      "a": "dmz",
+      "b": "server",
+      "mean": 0.026171875000000004,
+      "se": 0.00491525679379606
+    },
+    {
+      "network": "25-host-network.yaml",
+      "persistent": false,
+      "a": "dmz",
+      "b": "user",
+      "mean": 0.03750000000000002,
+      "se": 0.005574898123490831
+    },
+    {
+      "network": "25-host-network.yaml",
+      "persistent": false,
+      "a": "server",
+      "b": "user",
+      "mean": 0.011328125000000017,
+      "se": 0.00346287028043458
+    },
+    {
+      "network": "25-host-network.yaml",
+      "persistent": true,
+      "a": "dmz",
+      "b": "server",
+      "mean": -0.017382812499999997,
+      "se": 0.007662838250479608
+    },
+    {
+      "network": "25-host-network.yaml",
+      "persistent": true,
+      "a": "dmz",
+      "b": "user",
+      "mean": -0.04589843749999999,
+      "se": 0.00962406702656847
+    },
+    {
+      "network": "25-host-network.yaml",
+      "persistent": true,
+      "a": "server",
+      "b": "user",
+      "mean": -0.028515624999999996,
+      "se": 0.010070393167368734
+    }
+  ]
+}

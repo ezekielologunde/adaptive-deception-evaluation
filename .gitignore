@@ -7,3 +7,7 @@ __pycache__/
 *.pem
 *.key
 data/source-cache/
+paper/build/
+paper/clean-build/
+paper/clean-source/
+paper/rendered/

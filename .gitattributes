@@ -1,3 +1,6 @@
 * text=auto eol=lf
 analysis/** -text
 data/*json -text
+paper/** -text
+deliverables/** -text
+requirements-simulator-lock.txt -text
