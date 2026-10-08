@@ -4,3 +4,4 @@ data/*json -text
 paper/** -text
 deliverables/** -text
 requirements-simulator-lock.txt -text
+requirements-aops-lock.txt -text
