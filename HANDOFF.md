@@ -1,4 +1,12 @@
-# Active research handoff
+# Research handoff
+
+## Current disposition: novel-method route closed
+
+The user approved one final bounded contribution gate and closure if it failed. The written gate is protocol/final-contribution-gate.md. The proposed hidden-conditioning acquisition rule maps to established Bayesian belief-state planning; robustness variants overlap robust POMDP literature. No distinct approximation, guarantee, identification result, or validated empirical contribution has been specified. This is a failure to establish the candidate's contribution, not proof that every future approach is impossible. No held-out trial was run because the agreed prerequisite failed. Preserve all prior code/data/manuscripts; do not silently resume experiments or call this publication-ready. The GitHub repository stays editable. Reopening requires the concrete evidence listed in the decision.
+
+Next unstarted topic in portfolio order: zkp-remediation-assurance. It is still a proposal, with novelty unchecked. Start there with threat model and closest literature, not a manuscript. Older "next" instructions below are historical and superseded by this disposition.
+
+## Historical milestones
 
 ## Newest: published reference execution completed at reduced scale
 

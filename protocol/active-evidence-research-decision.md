@@ -1,5 +1,7 @@
 # Research decision after the active-evidence screens
 
+**Superseded disposition:** the final contribution gate is complete and the active novel-method route is closed. See [final-contribution-gate.md](final-contribution-gate.md). The plans and intermediate status below are preserved as history, not authorization to restart collection.
+
 Date: 2026-10-07. The user authorized continued research focused on an actual new contribution. The previous five-page manuscript is preserved as preliminary work; it is not upgraded to a novel-method paper.
 
 ## What has been eliminated

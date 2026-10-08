@@ -1,5 +1,9 @@
 # Adaptive deception and policy evaluation
 
+**Current disposition: closed for active novel-method development, October 7, 2026.** The [final contribution assessment](protocol/final-contribution-gate.md) did not establish a distinct method beyond existing partially observable planning. The agreed stopping rule was applied before another experiment. This does not prove that no future contribution is possible. The simulator study, reduced A-OPS reproduction, data, and earlier bounded manuscript remain available as research/portfolio artifacts. No novel-algorithm, journal-readiness, or acceptance claim is made. The GitHub repository remains editable.
+
+## Preserved milestones
+
 **Reference milestone:** [A-OPS now executes in an isolated, version-pinned environment](analysis/aops-reference-report.md). Three 20-round experiments, a five-round pilot, and a fresh-process replay completed. All 280 recorded pulls were audited and the replay matched exactly. This is a reduced reference execution, not full Figure 14 reproduction. A mathematical discrepancy in the upstream independent-arm comparator is documented separately; the GP posterior checks passed. No new-method superiority or novelty is established.
 
 **Current research, October 7: active evaluation under attacker conditioning.** A new 108-case exact diagnostic and 864-world Cyberwheel development study are complete. Established Bayesian planning solves the constructed diagnostic; no new algorithm is claimed. Prior evaluation reduced subsequent protection in all 24 retained-memory prefix comparisons, while 192 reset-memory trace controls matched exactly. These are related development comparisons, not independent discoveries. Test-order differences remain uncertain.
