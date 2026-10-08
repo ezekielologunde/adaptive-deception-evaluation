@@ -32,4 +32,6 @@ No final paper or large HPC sweep should substitute for passing this gate. The m
 
 ## Reference acquisition completed
 
+Update: reduced reference execution is now complete. See analysis/aops-reference-report.md. Three 20-round runs and an exact pilot replay passed trajectory audits. A source discrepancy in the independent-arm conditional scale was isolated; leave reference outcomes unchanged and require a corrected sensitivity baseline before comparative claims. GP math checks passed. The task below is partially satisfied at reduced scale, not at full Figure14 scale.
+
 The authors' public A-OPS repository was acquired at commit 5c7b24515adadbaf89feb84232190bad96221c04. Its 76-policy cartpole example contains 380,000 return samples and actions on 1,000 states. Restricted loading, schema/finiteness checks, source hashes, and 1,520 exact sampling-interface comparisons passed (data/aops-source-audit.json). This is a reliable reference acquisition, not a cybersecurity dataset or algorithm reproduction. The notebook uses older TensorFlow dependencies and seeds NumPy but not Python's policy-subset sampling. A reproducible reference run needs an isolated environment and a documented seed deviation. Full GP fitting and Figure 14 reproduction remain outstanding.

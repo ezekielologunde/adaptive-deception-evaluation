@@ -1,0 +1,25 @@
+{
+  "revision": "79b8c78a002d2111d30f496d4c1a46a7fbc9ba9a",
+  "upstream": "5c7b24515adadbaf89feb84232190bad96221c04",
+  "files": {
+    "src/run_aops_reference.py": "525feedc2f6681a150846858c658c4c019c624cc1e0b10dbbaead17e70019772",
+    "src/audit_aops_data.py": "8fad66f5294f17277310eb540c7394a3a97f92e539b13e31d1f902e8a366a8b8",
+    "protocol/aops-reference-v1.md": "86e55085268ba7a659843760393c264517ba79cd3f8196b8b526b0b144b2bc5a",
+    "requirements-aops-lock.txt": "70c6d97308cede806b31075279814db7783c10855a3fa8b9d17d32a74b981a06"
+  },
+  "arguments": {
+    "output": "analysis/aops-reference-pilot-v1",
+    "start": 0,
+    "experiments": 1,
+    "rounds": 5
+  },
+  "python": "3.9.25",
+  "packages": {
+    "numpy": "1.21.4",
+    "scipy": "1.7.2",
+    "tensorflow": "2.7.0",
+    "tensorflow-probability": "0.14.1",
+    "dm-sonnet": "2.0.0",
+    "protobuf": "3.19.6"
+  }
+}

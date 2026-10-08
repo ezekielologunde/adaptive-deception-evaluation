@@ -1,0 +1,11 @@
+{
+  "gp_posterior_means_checked": 3,
+  "gp_posterior_variances_checked": 3,
+  "kernel_entries_checked": 9,
+  "ucb_checks": 2,
+  "tolerance": {
+    "rtol": 2e-05,
+    "atol": 2e-06
+  },
+  "status": "Fixed-hyperparameter GP posterior and UCB checks passed; not independent verification of GP optimizer or whole algorithm"
+}

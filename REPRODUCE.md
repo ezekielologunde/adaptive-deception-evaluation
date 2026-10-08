@@ -1,5 +1,20 @@
 # Reproduce the adaptive-memory study
 
+## A-OPS reference execution
+
+Use a separate environment so the simulator dependencies remain unchanged:
+
+```powershell
+uv venv --python 3.9.25 .venv-aops
+uv pip install --python .venv-aops/Scripts/python.exe -r requirements-aops-lock.txt
+.venv-aops/Scripts/python.exe src/verify_aops_math.py
+.venv-aops/Scripts/python.exe src/audit_aops_independent_arm.py
+.venv/Scripts/python.exe src/analyze_aops_reference.py
+.venv/Scripts/python.exe src/report_aops_reference.py
+```
+
+Acquire the pinned A-OPS source as described below first. The last two commands validate/report saved results without rerunning training. For a new collection use run_aops_reference.py with a new output directory. The archived calls were `--output analysis/aops-reference-pilot-v1 --rounds 5`, `--output analysis/aops-reference-development-v1 --start 1 --experiments 3 --rounds 20`, and `--output analysis/aops-reference-replay-v1 --rounds 5`. Never overwrite the archived outputs. See protocol/aops-reference-v1.md and analysis/aops-reference-report.md for seed, resource, dependency, and upstream-comparator caveats. Reduced execution is not full published-figure reproduction.
+
 ## Active-evidence development phase
 
 Verify the new saved results without recollecting or overwriting frozen data:

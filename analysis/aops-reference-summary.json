@@ -1,0 +1,102 @@
+{
+  "status": "Reduced reference execution, not full published figure reproduction or novelty evidence",
+  "manifest_hashes_checked": 11,
+  "recorded_pulls_checked": 280,
+  "max_float64_regret_difference": 4.9097061136649245e-06,
+  "replay_exact": true,
+  "development_experiments": 3,
+  "rounds": 20,
+  "policies_per_experiment": 50,
+  "independent_arm_caveat": "Upstream conditional-scale discrepancy retained; see aops-independent-arm-audit.json",
+  "final_regrets": {
+    "Ind+Uniform+OPE": {
+      "final_regrets": [
+        0.0,
+        10.570566177368164,
+        3.523721694946289
+      ],
+      "mean": 4.698095957438151,
+      "se": 3.1074417939752537
+    },
+    "Ind+UCB+OPE": {
+      "final_regrets": [
+        0.0,
+        4.00798225402832,
+        3.9846343994140625
+      ],
+      "mean": 2.664205551147461,
+      "se": 1.3321198262734577
+    },
+    "GP+Uniform+OPE": {
+      "final_regrets": [
+        0.0,
+        3.4271163940429688,
+        3.523721694946289
+      ],
+      "mean": 2.316946029663086,
+      "se": 1.158808630205941
+    },
+    "A-ops": {
+      "final_regrets": [
+        0.0,
+        5.274831771850586,
+        2.9428558349609375
+      ],
+      "mean": 2.739229202270508,
+      "se": 1.5261127535328367
+    },
+    "FQE only": {
+      "final_regrets": [
+        10.570566177368164,
+        10.570566177368164,
+        10.086305618286133
+      ],
+      "mean": 10.409145991007486,
+      "se": 0.1614201863606771
+    }
+  },
+  "paired_differences": {
+    "Ind+Uniform+OPE": {
+      "aops_minus_comparator": [
+        0.0,
+        -5.295734405517578,
+        -0.5808658599853516
+      ],
+      "mean": -1.9588667551676433,
+      "paired_se": 1.6768388487257857
+    },
+    "Ind+UCB+OPE": {
+      "aops_minus_comparator": [
+        0.0,
+        1.2668495178222656,
+        -1.041778564453125
+      ],
+      "mean": 0.07502365112304688,
+      "paired_se": 0.6674983936905795
+    },
+    "GP+Uniform+OPE": {
+      "aops_minus_comparator": [
+        0.0,
+        1.8477153778076172,
+        -0.5808658599853516
+      ],
+      "mean": 0.4222831726074219,
+      "paired_se": 0.7321757565731855
+    },
+    "FQE only": {
+      "aops_minus_comparator": [
+        -10.570566177368164,
+        -5.295734405517578,
+        -7.143449783325195
+      ],
+      "mean": -7.6699167887369795,
+      "paired_se": 1.5452980495869328
+    }
+  },
+  "timing_rule": {
+    "pilot_seconds": 29.120210200000002,
+    "projected_ten_by_100_seconds": 5824.04204,
+    "threshold_seconds": 1800,
+    "selected": "three by 20"
+  }
+}

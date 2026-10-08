@@ -1,0 +1,129 @@
+{
+  "source_revision": "5c7b24515adadbaf89feb84232190bad96221c04",
+  "source_method": "arm_model.SingleBayesArm._sigma2_cond_on_mu",
+  "tested_conditionals": 9,
+  "matches": 3,
+  "rows": [
+    {
+      "n": 1,
+      "observations": [
+        1.0
+      ],
+      "mu": 0.0,
+      "reference_scale": 1000.5,
+      "gaussian_conditional_scale": 1000.5,
+      "matches": true
+    },
+    {
+      "n": 1,
+      "observations": [
+        1.0
+      ],
+      "mu": 2.0,
+      "reference_scale": 1000.5,
+      "gaussian_conditional_scale": 1000.5,
+      "matches": true
+    },
+    {
+      "n": 1,
+      "observations": [
+        1.0
+      ],
+      "mu": 4.0,
+      "reference_scale": 1004.5,
+      "gaussian_conditional_scale": 1004.5,
+      "matches": true
+    },
+    {
+      "n": 3,
+      "observations": [
+        1.0,
+        2.0,
+        3.0
+      ],
+      "mu": 0.0,
+      "reference_scale": 1002.3333333333334,
+      "gaussian_conditional_scale": 1007.0,
+      "matches": false
+    },
+    {
+      "n": 3,
+      "observations": [
+        1.0,
+        2.0,
+        3.0
+      ],
+      "mu": 2.0,
+      "reference_scale": 1000.3333333333334,
+      "gaussian_conditional_scale": 1001.0,
+      "matches": false
+    },
+    {
+      "n": 3,
+      "observations": [
+        1.0,
+        2.0,
+        3.0
+      ],
+      "mu": 4.0,
+      "reference_scale": 1002.3333333333334,
+      "gaussian_conditional_scale": 1007.0,
+      "matches": false
+    },
+    {
+      "n": 9,
+      "observations": [
+        1.0,
+        2.0,
+        3.0,
+        1.0,
+        2.0,
+        3.0,
+        1.0,
+        2.0,
+        3.0
+      ],
+      "mu": 0.0,
+      "reference_scale": 1002.3333333333334,
+      "gaussian_conditional_scale": 1021.0,
+      "matches": false
+    },
+    {
+      "n": 9,
+      "observations": [
+        1.0,
+        2.0,
+        3.0,
+        1.0,
+        2.0,
+        3.0,
+        1.0,
+        2.0,
+        3.0
+      ],
+      "mu": 2.0,
+      "reference_scale": 1000.3333333333334,
+      "gaussian_conditional_scale": 1003.0,
+      "matches": false
+    },
+    {
+      "n": 9,
+      "observations": [
+        1.0,
+        2.0,
+        3.0,
+        1.0,
+        2.0,
+        3.0,
+        1.0,
+        2.0,
+        3.0
+      ],
+      "mu": 4.0,
+      "reference_scale": 1002.3333333333334,
+      "gaussian_conditional_scale": 1021.0,
+      "matches": false
+    }
+  ],
+  "conclusion": "The scale uses mean squared residual rather than summed squared residual. This differs from the documented iid Gaussian conditional when n>1 and residuals are nonzero. No upstream modification or published-result invalidation is asserted."
+}

@@ -1,0 +1,700 @@
+{
+  "experiment": 2,
+  "seed": 807,
+  "policies": [
+    "13830900_1/step_000000100001",
+    "13830900_1/step_000000200001",
+    "13830900_1/step_000000400001",
+    "13830900_1/step_000001600001",
+    "13830900_2/step_000000025001",
+    "13830900_2/step_000000050001",
+    "13830900_2/step_000000200001",
+    "13830900_2/step_000000400001",
+    "13830900_2/step_000000800001",
+    "13830900_2/step_000002500001",
+    "13830900_3/step_000000025001",
+    "13830900_3/step_000000050001",
+    "13830900_3/step_000000100001",
+    "13830900_3/step_000000200001",
+    "13830900_3/step_000000400001",
+    "13830900_3/step_000001600001",
+    "13830900_3/step_000002500001",
+    "13903268_10/step_000000050001",
+    "13903268_10/step_000000100001",
+    "13903268_10/step_000000200001",
+    "13903268_10/step_000000800001",
+    "13903268_10/step_000001600001",
+    "13903268_10/step_000003200001",
+    "13903268_10/step_000005000001",
+    "13903268_11/step_000000050001",
+    "13903268_11/step_000000800001",
+    "13903268_12/step_000000050001",
+    "13903268_12/step_000000100001",
+    "13903268_12/step_000000200001",
+    "13903268_12/step_000000800001",
+    "13903268_12/step_000001600001",
+    "14010194_10/step_000000050001",
+    "14010194_10/step_000000100001",
+    "14010194_10/step_000000400001",
+    "14010194_10/step_000005000001",
+    "14010194_11/step_000000100001",
+    "14010194_11/step_000000800001",
+    "14010194_11/step_000001600001",
+    "14010194_12/step_000000100001",
+    "14010194_12/step_000000400001",
+    "14010194_12/step_000000800001",
+    "14010194_12/step_000001600001",
+    "14022681_10/step_000000050001",
+    "14022681_10/step_000000100001",
+    "14022681_10/step_000001600001",
+    "14022681_10/step_000003200001",
+    "14022681_12/step_000000100001",
+    "14022681_12/step_000000400001",
+    "14022681_12/step_000000800001",
+    "14022681_12/step_000001600001"
+  ],
+  "fqe_regret": 10.570566177368164,
+  "rows": [
+    {
+      "step": 0,
+      "agent": "Ind+Uniform+OPE",
+      "arm": 12,
+      "reward": 25.974876403808594,
+      "recommended": 1,
+      "regret": 10.570566177368164
+    },
+    {
+      "step": 0,
+      "agent": "Ind+UCB+OPE",
+      "arm": 1,
+      "reward": 21.002166748046875,
+      "recommended": 18,
+      "regret": 4.00798225402832
+    },
+    {
+      "step": 0,
+      "agent": "GP+Uniform+OPE",
+      "arm": 31,
+      "reward": 17.350452423095703,
+      "recommended": 25,
+      "regret": 0.7752342224121094
+    },
+    {
+      "step": 0,
+      "agent": "A-ops",
+      "arm": 9,
+      "reward": 15.054683685302734,
+      "recommended": 19,
+      "regret": 6.169469833374023
+    },
+    {
+      "step": 1,
+      "agent": "Ind+Uniform+OPE",
+      "arm": 14,
+      "reward": 19.058990478515625,
+      "recommended": 1,
+      "regret": 10.570566177368164
+    },
+    {
+      "step": 1,
+      "agent": "Ind+UCB+OPE",
+      "arm": 18,
+      "reward": 31.722097396850586,
+      "recommended": 2,
+      "regret": 0.0
+    },
+    {
+      "step": 1,
+      "agent": "GP+Uniform+OPE",
+      "arm": 4,
+      "reward": 4.014315128326416,
+      "recommended": 19,
+      "regret": 6.169469833374023
+    },
+    {
+      "step": 1,
+      "agent": "A-ops",
+      "arm": 15,
+      "reward": 23.32213592529297,
+      "recommended": 27,
+      "regret": 7.665338516235352
+    },
+    {
+      "step": 2,
+      "agent": "Ind+Uniform+OPE",
+      "arm": 24,
+      "reward": 17.046356201171875,
+      "recommended": 1,
+      "regret": 10.570566177368164
+    },
+    {
+      "step": 2,
+      "agent": "Ind+UCB+OPE",
+      "arm": 2,
+      "reward": 31.66410255432129,
+      "recommended": 18,
+      "regret": 4.00798225402832
+    },
+    {
+      "step": 2,
+      "agent": "GP+Uniform+OPE",
+      "arm": 11,
+      "reward": 8.22078800201416,
+      "recommended": 18,
+      "regret": 4.00798225402832
+    },
+    {
+      "step": 2,
+      "agent": "A-ops",
+      "arm": 17,
+      "reward": 31.827163696289062,
+      "recommended": 18,
+      "regret": 4.00798225402832
+    },
+    {
+      "step": 3,
+      "agent": "Ind+Uniform+OPE",
+      "arm": 10,
+      "reward": 0.45600953698158264,
+      "recommended": 1,
+      "regret": 10.570566177368164
+    },
+    {
+      "step": 3,
+      "agent": "Ind+UCB+OPE",
+      "arm": 26,
+      "reward": 32.09873580932617,
+      "recommended": 18,
+      "regret": 4.00798225402832
+    },
+    {
+      "step": 3,
+      "agent": "GP+Uniform+OPE",
+      "arm": 43,
+      "reward": 24.393611907958984,
+      "recommended": 18,
+      "regret": 4.00798225402832
+    },
+    {
+      "step": 3,
+      "agent": "A-ops",
+      "arm": 26,
+      "reward": 31.774940490722656,
+      "recommended": 18,
+      "regret": 4.00798225402832
+    },
+    {
+      "step": 4,
+      "agent": "Ind+Uniform+OPE",
+      "arm": 37,
+      "reward": 9.674873352050781,
+      "recommended": 1,
+      "regret": 10.570566177368164
+    },
+    {
+      "step": 4,
+      "agent": "Ind+UCB+OPE",
+      "arm": 17,
+      "reward": 31.85818099975586,
+      "recommended": 18,
+      "regret": 4.00798225402832
+    },
+    {
+      "step": 4,
+      "agent": "GP+Uniform+OPE",
+      "arm": 37,
+      "reward": 31.33975601196289,
+      "recommended": 18,
+      "regret": 4.00798225402832
+    },
+    {
+      "step": 4,
+      "agent": "A-ops",
+      "arm": 18,
+      "reward": 30.244443893432617,
+      "recommended": 26,
+      "regret": 3.4271163940429688
+    },
+    {
+      "step": 5,
+      "agent": "Ind+Uniform+OPE",
+      "arm": 0,
+      "reward": 27.82187271118164,
+      "recommended": 1,
+      "regret": 10.570566177368164
+    },
+    {
+      "step": 5,
+      "agent": "Ind+UCB+OPE",
+      "arm": 12,
+      "reward": 25.49151039123535,
+      "recommended": 18,
+      "regret": 4.00798225402832
+    },
+    {
+      "step": 5,
+      "agent": "GP+Uniform+OPE",
+      "arm": 2,
+      "reward": 31.660181045532227,
+      "recommended": 18,
+      "regret": 4.00798225402832
+    },
+    {
+      "step": 5,
+      "agent": "A-ops",
+      "arm": 2,
+      "reward": 31.197982788085938,
+      "recommended": 26,
+      "regret": 3.4271163940429688
+    },
+    {
+      "step": 6,
+      "agent": "Ind+Uniform+OPE",
+      "arm": 17,
+      "reward": 31.433637619018555,
+      "recommended": 1,
+      "regret": 10.570566177368164
+    },
+    {
+      "step": 6,
+      "agent": "Ind+UCB+OPE",
+      "arm": 27,
+      "reward": 25.33296012878418,
+      "recommended": 18,
+      "regret": 4.00798225402832
+    },
+    {
+      "step": 6,
+      "agent": "GP+Uniform+OPE",
+      "arm": 7,
+      "reward": 31.076976776123047,
+      "recommended": 18,
+      "regret": 4.00798225402832
+    },
+    {
+      "step": 6,
+      "agent": "A-ops",
+      "arm": 1,
+      "reward": 20.87677574157715,
+      "recommended": 26,
+      "regret": 3.4271163940429688
+    },
+    {
+      "step": 7,
+      "agent": "Ind+Uniform+OPE",
+      "arm": 30,
+      "reward": 18.551189422607422,
+      "recommended": 1,
+      "regret": 10.570566177368164
+    },
+    {
+      "step": 7,
+      "agent": "Ind+UCB+OPE",
+      "arm": 24,
+      "reward": 18.297046661376953,
+      "recommended": 18,
+      "regret": 4.00798225402832
+    },
+    {
+      "step": 7,
+      "agent": "GP+Uniform+OPE",
+      "arm": 8,
+      "reward": 21.166492462158203,
+      "recommended": 18,
+      "regret": 4.00798225402832
+    },
+    {
+      "step": 7,
+      "agent": "A-ops",
+      "arm": 24,
+      "reward": 25.57494354248047,
+      "recommended": 26,
+      "regret": 3.4271163940429688
+    },
+    {
+      "step": 8,
+      "agent": "Ind+Uniform+OPE",
+      "arm": 34,
+      "reward": 7.098115921020508,
+      "recommended": 1,
+      "regret": 10.570566177368164
+    },
+    {
+      "step": 8,
+      "agent": "Ind+UCB+OPE",
+      "arm": 28,
+      "reward": 29.79020881652832,
+      "recommended": 18,
+      "regret": 4.00798225402832
+    },
+    {
+      "step": 8,
+      "agent": "GP+Uniform+OPE",
+      "arm": 46,
+      "reward": 25.672142028808594,
+      "recommended": 18,
+      "regret": 4.00798225402832
+    },
+    {
+      "step": 8,
+      "agent": "A-ops",
+      "arm": 27,
+      "reward": 31.175325393676758,
+      "recommended": 26,
+      "regret": 3.4271163940429688
+    },
+    {
+      "step": 9,
+      "agent": "Ind+Uniform+OPE",
+      "arm": 25,
+      "reward": 31.417898178100586,
+      "recommended": 1,
+      "regret": 10.570566177368164
+    },
+    {
+      "step": 9,
+      "agent": "Ind+UCB+OPE",
+      "arm": 19,
+      "reward": 29.99765968322754,
+      "recommended": 18,
+      "regret": 4.00798225402832
+    },
+    {
+      "step": 9,
+      "agent": "GP+Uniform+OPE",
+      "arm": 37,
+      "reward": 31.362228393554688,
+      "recommended": 18,
+      "regret": 4.00798225402832
+    },
+    {
+      "step": 9,
+      "agent": "A-ops",
+      "arm": 28,
+      "reward": 30.996187210083008,
+      "recommended": 26,
+      "regret": 3.4271163940429688
+    },
+    {
+      "step": 10,
+      "agent": "Ind+Uniform+OPE",
+      "arm": 5,
+      "reward": 18.060617446899414,
+      "recommended": 1,
+      "regret": 10.570566177368164
+    },
+    {
+      "step": 10,
+      "agent": "Ind+UCB+OPE",
+      "arm": 38,
+      "reward": 18.020532608032227,
+      "recommended": 18,
+      "regret": 4.00798225402832
+    },
+    {
+      "step": 10,
+      "agent": "GP+Uniform+OPE",
+      "arm": 17,
+      "reward": 19.383886337280273,
+      "recommended": 18,
+      "regret": 4.00798225402832
+    },
+    {
+      "step": 10,
+      "agent": "A-ops",
+      "arm": 19,
+      "reward": 20.46694564819336,
+      "recommended": 26,
+      "regret": 3.4271163940429688
+    },
+    {
+      "step": 11,
+      "agent": "Ind+Uniform+OPE",
+      "arm": 8,
+      "reward": 21.136384963989258,
+      "recommended": 1,
+      "regret": 10.570566177368164
+    },
+    {
+      "step": 11,
+      "agent": "Ind+UCB+OPE",
+      "arm": 25,
+      "reward": 31.664030075073242,
+      "recommended": 18,
+      "regret": 4.00798225402832
+    },
+    {
+      "step": 11,
+      "agent": "GP+Uniform+OPE",
+      "arm": 46,
+      "reward": 25.5689640045166,
+      "recommended": 18,
+      "regret": 4.00798225402832
+    },
+    {
+      "step": 11,
+      "agent": "A-ops",
+      "arm": 12,
+      "reward": 25.915067672729492,
+      "recommended": 26,
+      "regret": 3.4271163940429688
+    },
+    {
+      "step": 12,
+      "agent": "Ind+Uniform+OPE",
+      "arm": 13,
+      "reward": 27.197341918945312,
+      "recommended": 1,
+      "regret": 10.570566177368164
+    },
+    {
+      "step": 12,
+      "agent": "Ind+UCB+OPE",
+      "arm": 32,
+      "reward": 31.226673126220703,
+      "recommended": 18,
+      "regret": 4.00798225402832
+    },
+    {
+      "step": 12,
+      "agent": "GP+Uniform+OPE",
+      "arm": 22,
+      "reward": 30.107683181762695,
+      "recommended": 18,
+      "regret": 4.00798225402832
+    },
+    {
+      "step": 12,
+      "agent": "A-ops",
+      "arm": 32,
+      "reward": 22.076488494873047,
+      "recommended": 26,
+      "regret": 3.4271163940429688
+    },
+    {
+      "step": 13,
+      "agent": "Ind+Uniform+OPE",
+      "arm": 7,
+      "reward": 31.210403442382812,
+      "recommended": 1,
+      "regret": 10.570566177368164
+    },
+    {
+      "step": 13,
+      "agent": "Ind+UCB+OPE",
+      "arm": 21,
+      "reward": 25.61683464050293,
+      "recommended": 18,
+      "regret": 4.00798225402832
+    },
+    {
+      "step": 13,
+      "agent": "GP+Uniform+OPE",
+      "arm": 26,
+      "reward": 31.51894187927246,
+      "recommended": 26,
+      "regret": 3.4271163940429688
+    },
+    {
+      "step": 13,
+      "agent": "A-ops",
+      "arm": 38,
+      "reward": 31.080110549926758,
+      "recommended": 26,
+      "regret": 3.4271163940429688
+    },
+    {
+      "step": 14,
+      "agent": "Ind+Uniform+OPE",
+      "arm": 45,
+      "reward": 9.93283462524414,
+      "recommended": 1,
+      "regret": 10.570566177368164
+    },
+    {
+      "step": 14,
+      "agent": "Ind+UCB+OPE",
+      "arm": 35,
+      "reward": 26.398977279663086,
+      "recommended": 18,
+      "regret": 4.00798225402832
+    },
+    {
+      "step": 14,
+      "agent": "GP+Uniform+OPE",
+      "arm": 8,
+      "reward": 21.17474937438965,
+      "recommended": 18,
+      "regret": 4.00798225402832
+    },
+    {
+      "step": 14,
+      "agent": "A-ops",
+      "arm": 29,
+      "reward": 31.742401123046875,
+      "recommended": 26,
+      "regret": 3.4271163940429688
+    },
+    {
+      "step": 15,
+      "agent": "Ind+Uniform+OPE",
+      "arm": 17,
+      "reward": 32.12004470825195,
+      "recommended": 1,
+      "regret": 10.570566177368164
+    },
+    {
+      "step": 15,
+      "agent": "Ind+UCB+OPE",
+      "arm": 29,
+      "reward": 20.613292694091797,
+      "recommended": 18,
+      "regret": 4.00798225402832
+    },
+    {
+      "step": 15,
+      "agent": "GP+Uniform+OPE",
+      "arm": 10,
+      "reward": 0.4602537453174591,
+      "recommended": 18,
+      "regret": 4.00798225402832
+    },
+    {
+      "step": 15,
+      "agent": "A-ops",
+      "arm": 7,
+      "reward": 30.97919273376465,
+      "recommended": 26,
+      "regret": 3.4271163940429688
+    },
+    {
+      "step": 16,
+      "agent": "Ind+Uniform+OPE",
+      "arm": 42,
+      "reward": 15.3640718460083,
+      "recommended": 1,
+      "regret": 10.570566177368164
+    },
+    {
+      "step": 16,
+      "agent": "Ind+UCB+OPE",
+      "arm": 7,
+      "reward": 31.007116317749023,
+      "recommended": 18,
+      "regret": 4.00798225402832
+    },
+    {
+      "step": 16,
+      "agent": "GP+Uniform+OPE",
+      "arm": 40,
+      "reward": 17.12569236755371,
+      "recommended": 26,
+      "regret": 3.4271163940429688
+    },
+    {
+      "step": 16,
+      "agent": "A-ops",
+      "arm": 25,
+      "reward": 31.32086181640625,
+      "recommended": 26,
+      "regret": 3.4271163940429688
+    },
+    {
+      "step": 17,
+      "agent": "Ind+Uniform+OPE",
+      "arm": 38,
+      "reward": 23.21257209777832,
+      "recommended": 1,
+      "regret": 10.570566177368164
+    },
+    {
+      "step": 17,
+      "agent": "Ind+UCB+OPE",
+      "arm": 20,
+      "reward": 30.852144241333008,
+      "recommended": 18,
+      "regret": 4.00798225402832
+    },
+    {
+      "step": 17,
+      "agent": "GP+Uniform+OPE",
+      "arm": 48,
+      "reward": 0.26999619603157043,
+      "recommended": 26,
+      "regret": 3.4271163940429688
+    },
+    {
+      "step": 17,
+      "agent": "A-ops",
+      "arm": 20,
+      "reward": 31.919540405273438,
+      "recommended": 26,
+      "regret": 3.4271163940429688
+    },
+    {
+      "step": 18,
+      "agent": "Ind+Uniform+OPE",
+      "arm": 46,
+      "reward": 26.740436553955078,
+      "recommended": 1,
+      "regret": 10.570566177368164
+    },
+    {
+      "step": 18,
+      "agent": "Ind+UCB+OPE",
+      "arm": 31,
+      "reward": 17.133529663085938,
+      "recommended": 18,
+      "regret": 4.00798225402832
+    },
+    {
+      "step": 18,
+      "agent": "GP+Uniform+OPE",
+      "arm": 10,
+      "reward": 0.4537215232849121,
+      "recommended": 18,
+      "regret": 4.00798225402832
+    },
+    {
+      "step": 18,
+      "agent": "A-ops",
+      "arm": 35,
+      "reward": 22.046592712402344,
+      "recommended": 26,
+      "regret": 3.4271163940429688
+    },
+    {
+      "step": 19,
+      "agent": "Ind+Uniform+OPE",
+      "arm": 18,
+      "reward": 31.34186363220215,
+      "recommended": 1,
+      "regret": 10.570566177368164
+    },
+    {
+      "step": 19,
+      "agent": "Ind+UCB+OPE",
+      "arm": 30,
+      "reward": 19.557893753051758,
+      "recommended": 18,
+      "regret": 4.00798225402832
+    },
+    {
+      "step": 19,
+      "agent": "GP+Uniform+OPE",
+      "arm": 48,
+      "reward": 21.86793327331543,
+      "recommended": 26,
+      "regret": 3.4271163940429688
+    },
+    {
+      "step": 19,
+      "agent": "A-ops",
+      "arm": 26,
+      "reward": 27.89665412902832,
+      "recommended": 17,
+      "regret": 5.274831771850586
+    }
+  ],
+  "seconds": 32.7293703
+}

@@ -1,5 +1,13 @@
 # Active research handoff
 
+## Newest: published reference execution completed at reduced scale
+
+Read analysis/aops-reference-report.md and protocol/aops-reference-v1.md. The unchanged upstream A-OPS GP algorithm ran in .venv-aops (Python 3.9.25, TF 2.7.0, TFP .14.1, Sonnet2, NumPy1.21.4). Main simulator environment was preserved. Three 20-round/50-policy development runs, one five-round pilot, and its fresh-process repeat completed with no recorded failures. All 280 pulls/regrets verified; replay exactly matches. Fixed-hyperparameter GP math checked independently. All 1,000 optimizer iterations retained. The cold pilot triggered the frozen reduced-scale rule; do not claim full Figure14 reproduction.
+
+Important source caveat: SingleBayesArm._sigma2_cond_on_mu omits sample count in the residual scale relative to its documented iid Gaussian model. Six multiple-observation checks disagree; three single-observation controls agree. Unchanged reference results preserve this behavior. This concerns independent-arm comparators, not the separate GP. Do not claim the paper is invalid or that this discrepancy is our novel contribution. A future ranking must include a labeled corrected sensitivity version and matched random streams. Source/raw audits and report are saved. Dependency lock CRLF byte preservation was corrected in dbda717 after the freeze; versions never changed.
+
+Next scientific work: formalize a specific hidden-conditioning assumption and decision target, compare with robust dual control and ROGUE (additional primary-source overlaps now documented), and develop only if a substantive distinction survives. A 2026 under-review safe dual-control paper already combines information value and harm budgets under perfectly observed state. Hidden state alone is a POMDP distinction, not novelty proof. No new manuscript or HPC sweep before this contribution test.
+
 ## Latest phase, October 7: active evidence collection
 
 Read protocol/active-evidence-research-decision.md first. The generic information-versus-conditioning planner is established dual control, not a new method. Completed 108 exact constructed cases (540 method cases), independently enumerating 981,864 type-conditioned policy vectors to verify all 108 optima. Completed 864 native Cyberwheel worlds, 230,400 steps, zero failures, across reset/count/decaying-count memory. All 24 retained-memory prefix-vs-none means were negative; order differences were uncertain. Reset controls matched in 192 full suffix trace comparisons. Development evidence only; no held-out novelty claim.
