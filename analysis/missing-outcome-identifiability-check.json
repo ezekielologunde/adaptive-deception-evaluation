@@ -1,0 +1,31 @@
+{
+  "scope": "Exact constructed illustration of standard nonidentification; no novelty claim",
+  "baseline_harm": "1/5",
+  "worst_case_harm_interval": [
+    "1/20",
+    "11/20"
+  ],
+  "worlds": [
+    {
+      "true_harm": "1/10",
+      "observation_given_harm": "1/2",
+      "observation_given_safe": "1/2",
+      "observed_harm_mass": "1/20",
+      "observed_safe_mass": "9/20",
+      "missing_mass": "1/2",
+      "complete_case_harm": "1/10",
+      "better_than_baseline": true
+    },
+    {
+      "true_harm": "2/5",
+      "observation_given_harm": "1/8",
+      "observation_given_safe": "3/4",
+      "observed_harm_mass": "1/20",
+      "observed_safe_mass": "9/20",
+      "missing_mass": "1/2",
+      "complete_case_harm": "1/10",
+      "better_than_baseline": false
+    }
+  ],
+  "interpretation": "Identical visible outcomes and positive observation probabilities do not identify whether deployment improves on baseline. No informative proxy, known missingness mechanism or randomized audit labels are assumed."
+}
