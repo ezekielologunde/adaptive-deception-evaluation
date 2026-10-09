@@ -34,7 +34,7 @@ def main():
               'world_files': len(inputs), 'episodes_checked': checked,
               'trace_steps_checked': steps, 'failures': failures, 'inputs': inputs}
     output = ROOT / 'analysis/outcome-provenance-audit.json'
-    output.write_text(json.dumps(report, indent=2) + '\n', encoding='utf-8')
+    output.write_bytes((json.dumps(report, indent=2) + '\n').encode('utf-8'))
     print(json.dumps({k: v for k, v in report.items() if k != 'inputs'}, indent=2))
     if failures:
         raise SystemExit(1)
