@@ -4,6 +4,8 @@
 
 ## Preserved milestones
 
+**October 9 literature re-entry:** the [assumption matrix](protocol/abstention-fulltext-assumption-matrix-2026-10-09.md) and [outcome-recovery audit](protocol/audit-recovery-overlap-2026-10-09.md) identify substantial overlap with abstention, missing-outcome evaluation and two-phase sampling. The exact missing-outcome example is a feasibility illustration, not a discovery. The generic new-method route remains closed; the narrower empirical candidate has not passed its evidence gate. No new HPC experiment was launched.
+
 **Reference milestone:** [A-OPS now executes in an isolated, version-pinned environment](analysis/aops-reference-report.md). Three 20-round experiments, a five-round pilot, and a fresh-process replay completed. All 280 recorded pulls were audited and the replay matched exactly. This is a reduced reference execution, not full Figure 14 reproduction. A mathematical discrepancy in the upstream independent-arm comparator is documented separately; the GP posterior checks passed. No new-method superiority or novelty is established.
 
 **Current research, October 7: active evaluation under attacker conditioning.** A new 108-case exact diagnostic and 864-world Cyberwheel development study are complete. Established Bayesian planning solves the constructed diagnostic; no new algorithm is claimed. Prior evaluation reduced subsequent protection in all 24 retained-memory prefix comparisons, while 192 reset-memory trace controls matched exactly. These are related development comparisons, not independent discoveries. Test-order differences remain uncertain.
